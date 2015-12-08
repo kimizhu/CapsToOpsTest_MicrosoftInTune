@@ -1,3 +1,14 @@
+---
+description: na
+search: na
+title: Troubleshoot Endpoint Protection in Microsoft Intune
+ms.service: microsoft-intune
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.date: 2015-10-15
+ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
+---
+# Troubleshoot Endpoint Protection in Microsoft Intune
 
 ## <a name="BKMK_EP"></a>Resources to help you solve Endpoint Protection problems
 Use the information in this section to help you solve problems while using [!INC[wit_firstref](../Token/wit_firstref_md.md)][!INC[epshort](../Token/epshort_md.md)].

@@ -1,3 +1,14 @@
+---
+description: na
+search: na
+title: Microsoft Intune App SDK Frequently Asked Questions
+ms.service: na
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.date: na
+ms.author: f459630d47d34d12a44295cd5237dc68
+---
+# Microsoft Intune App SDK Frequently Asked Questions
 Here are some frequently asked questions regarding the Intune App SDK.
 
 ## I found an issue with the Intune App SDK or documentation. How do I submit feedback or report issues?

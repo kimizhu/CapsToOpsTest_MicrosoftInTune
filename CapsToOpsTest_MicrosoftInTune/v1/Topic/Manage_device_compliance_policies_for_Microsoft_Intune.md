@@ -1,3 +1,14 @@
+---
+description: na
+search: na
+title: Manage device compliance policies for Microsoft Intune
+ms.service: microsoft-intune
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.date: 2015-11-04
+ms.author: dbdc710f437843008017318979c6adba
+---
+# Manage device compliance policies for Microsoft Intune
 <?xml version="1.0" encoding="utf-8"?>
 <developerWalkthroughDocument xmlns="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ddue.schemas.microsoft.com/authoring/2003/5 http://dduestorage.blob.core.windows.net/ddueschema/developer.xsd">
   <introduction>

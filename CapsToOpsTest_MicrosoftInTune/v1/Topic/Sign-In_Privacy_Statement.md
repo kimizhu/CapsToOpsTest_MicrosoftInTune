@@ -1,3 +1,14 @@
+---
+description: na
+search: na
+title: Sign-In Privacy Statement
+ms.service: microsoft-intune
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.date: 4/30/2015 8:00:00 AM
+ms.author: 79a318a2-4407-40ec-b4b0-435e7bd1296a
+---
+# Sign-In Privacy Statement
 This privacy statement applies to the information collected during your log-in experience for the Microsoft websites, services and products that display these terms during your log-in experience.  It does not apply to your use of such websites, services and products after you complete the log-in process, nor does it apply to any other Microsoft site, services or products that do not display or link to this statement or that have their own privacy statements.
 
 ## Information We Collect

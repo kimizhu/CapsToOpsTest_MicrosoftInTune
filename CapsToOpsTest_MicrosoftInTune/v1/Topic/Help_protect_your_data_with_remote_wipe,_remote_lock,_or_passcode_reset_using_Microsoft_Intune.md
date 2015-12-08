@@ -1,3 +1,14 @@
+---
+description: na
+search: na
+title: Help protect your data with remote wipe, remote lock, or passcode reset using Microsoft Intune
+ms.service: microsoft-intune
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.date: 2015-11-18
+ms.author: d4484712-0a03-4345-bdeb-64372a73012b
+---
+# Help protect your data with remote wipe, remote lock, or passcode reset using Microsoft Intune
 <?xml version="1.0" encoding="utf-8"?>
 <developerHowToDocument xmlns="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ddue.schemas.microsoft.com/authoring/2003/5 http://dduestorage.blob.core.windows.net/ddueschema/developer.xsd">
   <introduction>

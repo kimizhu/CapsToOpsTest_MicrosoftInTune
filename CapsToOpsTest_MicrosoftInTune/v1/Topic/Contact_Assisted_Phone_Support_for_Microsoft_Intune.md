@@ -1,3 +1,14 @@
+---
+description: na
+search: na
+title: Contact Assisted Phone Support for Microsoft Intune
+ms.service: microsoft-intune
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.date: 4/30/2015 8:00:00 AM
+ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
+---
+# Contact Assisted Phone Support for Microsoft Intune
 
 ## Phone numbers and business hours are listed in the following table.
 

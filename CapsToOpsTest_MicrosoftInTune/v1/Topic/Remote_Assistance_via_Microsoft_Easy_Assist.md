@@ -1,3 +1,14 @@
+---
+description: na
+search: na
+title: Remote Assistance via Microsoft Easy Assist
+ms.service: microsoft-intune
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.date: 4/30/2015 8:00:00 AM
+ms.author: dbdc710f437843008017318979c6adba
+---
+# Remote Assistance via Microsoft Easy Assist
 
 ## Remote Assistance via Microsoft Easy Assist
 [!INC[wit_firstref](../Token/wit_firstref_md.md)] provides easy to use remote assistance request capabilities to Information workers using Windows Vista, and Windows 7 computers.  Information Workers on these computers can request assistance by using the Remote Assistance feature available on their client computers. The Remote Assistance feature can be found in the [!INC[wit_firstref](../Token/wit_firstref_md.md)] Center console.

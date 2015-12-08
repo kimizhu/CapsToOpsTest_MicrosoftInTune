@@ -1,3 +1,14 @@
+---
+description: na
+search: na
+title: Help secure Windows PCs with Endpoint Protection for Microsoft Intune
+ms.service: microsoft-intune
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.date: 2015-08-31
+ms.author: f93f38ed286b4cbb94b9b427a0abc63e
+---
+# Help secure Windows PCs with Endpoint Protection for Microsoft Intune
 [!INC[wit_firstref](../Token/wit_firstref_md.md)] can help you to secure your managed computers in a number of ways, including Endpoint Protection which provides real-time protection against malware threats, keeps malware definitions up-to date, and automatically scans computers. [!INC[epshort](../Token/epshort_md.md)] also provides tools that help you to manage and monitor malware attacks
 
 If you have not yet installed the [!INC[wit_nextref](../Token/wit_nextref_md.md)] client on your computers, see [Install the Windows PC client with Microsoft Intune](../Topic/Install_the_Windows_PC_client_with_Microsoft_Intune.md).

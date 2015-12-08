@@ -1,3 +1,14 @@
+---
+description: na
+search: na
+title: Learn how to deploy a solution for protecting company email and documents
+ms.service: microsoft-intune
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.date: na
+ms.author: 70da87b7-2f4c-4e11-98d3-a3b38e8154d2
+---
+# Learn how to deploy a solution for protecting company email and documents
 More and more, companies are allowing employees to increase their productivity by accessing email, documents, and company resources through their mobile devices. However, the amount of confidential data that is stored within corporate emails and documents presents a significant security risk for companies.
 
 This guide is intended for you, the IT professional, to help determine and then deploy the best solution for your company to enforce conditional access in one of the configurations as described below. This will let employees use their mobile devices to access corporate email while still protecting your company’s data.

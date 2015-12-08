@@ -1,3 +1,14 @@
+---
+description: na
+search: na
+title: Third-Party Software Notices and Information
+ms.service: na
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.date: 5/11/2015 8:00:00 AM
+ms.author: dbdc710f437843008017318979c6adba
+---
+# Third-Party Software Notices and Information
 Do Not Translate or Localize
 
 This file is based on or incorporates material from the projects listed below (collectively, “Third Party Code”). Microsoft is not the original author of the Third Party Code. The original copyright notice and the license under which Microsoft received such Third Party Code, are set forth below. Such licenses and notices are provided for informational purposes only. Microsoft licenses the Third Party Code to you under the license terms governing the Microsoft Product. Microsoft reserves all other rights not expressly granted under this agreement, whether by implication, estoppel or otherwise.

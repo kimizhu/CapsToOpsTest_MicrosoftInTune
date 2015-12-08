@@ -1,3 +1,14 @@
+---
+description: na
+search: na
+title: Microsoft Intune Managed Browser for iOS
+ms.service: na
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.date: 2015-11-23
+ms.author: f224bb9b442140c797af0e59b80f0d33
+---
+# Microsoft Intune Managed Browser for iOS
 
 ## Microsoft Application License Terms:  Microsoft Intune Managed Browser
 These license terms are an agreement between Microsoft Corporation (or based on where you live, one of its affiliates) and you. Please read them. They apply to the application named above. The terms also apply to any Microsoft

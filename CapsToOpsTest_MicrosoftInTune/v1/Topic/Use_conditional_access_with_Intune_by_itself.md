@@ -1,3 +1,14 @@
+---
+description: na
+search: na
+title: Use conditional access with Intune by itself
+ms.service: na
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.date: na
+ms.author: 70da87b7-2f4c-4e11-98d3-a3b38e8154d2
+---
+# Use conditional access with Intune by itself
 You can use conditional access in Intune to help secure email and email data depending on the conditions you specify. Conditional access lets you manage access to Microsoft Exchange Server on-premises and Exchange Online.
 
 Similar to how you [Use conditional access with Intune and Configuration Manager](../Topic/Use_conditional_access_with_Intune_and_Configuration_Manager.md), you  implement conditional access in Intune by itself by configuring two policy types:
