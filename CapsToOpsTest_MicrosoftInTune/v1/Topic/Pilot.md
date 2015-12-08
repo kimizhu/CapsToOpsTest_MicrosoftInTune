@@ -1,3 +1,14 @@
+---
+description: na
+search: na
+title: Pilot
+ms.service: na
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.date: na
+ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
+---
+# Pilot
 The pilot phase is an opportunity to test the technical implementation, communication plan, and training and support plans in a small production environment.
 
 ## Why is this important?

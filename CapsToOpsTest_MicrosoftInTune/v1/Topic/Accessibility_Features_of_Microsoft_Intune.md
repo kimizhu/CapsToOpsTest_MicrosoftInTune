@@ -1,3 +1,14 @@
+---
+description: na
+search: na
+title: Accessibility Features of Microsoft Intune
+ms.service: microsoft-intune
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.date: 2015-08-10
+ms.author: dbdc710f437843008017318979c6adba
+---
+# Accessibility Features of Microsoft Intune
 In addition to accessibility features and tools in Microsoft Windows, the following features make [!INC[wit_firstref](../Token/wit_firstref_md.md)] more accessible for people with disabilities:
 
 - Using keyboard shortcuts
