@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: Microsoft Intune mobile app management policies and iOS Open In
+title: Microsoft%20Intune%20mobile%20app%20management%20policies%20and%20iOS%20Open%20In
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-11-17
 ms.author: fb8a7802-3b27-41b8-82f3-31bfdcf49ff2
 ---
-# Microsoft Intune mobile app management policies and iOS Open In
+# Microsoft%20Intune%20mobile%20app%20management%20policies%20and%20iOS%20Open%20In
 Part of protecting your company data requires making sure that file transfers is restricted to apps that are managed by you.   Below are two types of apps that you manage:
 
 - Apps that you are deploying through the MDM solution, which we will refer to as **MDM managed** apps.

@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: Microsoft Intune Company Portal for Windows Store Application License Terms
+title: Microsoft%20Intune%20Company%20Portal%20for%20Windows%20Store%20Application%20License%20Terms
 ms.service: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: na
 ms.author: f224bb9b442140c797af0e59b80f0d33
 ---
-# Microsoft Intune Company Portal for Windows Store Application License Terms
+# Microsoft%20Intune%20Company%20Portal%20for%20Windows%20Store%20Application%20License%20Terms
 
 ## MICROSOFT APPLICATION LICENSE TERMS: MICROSOFT INTUNE COMPANY PORTAL FOR WINDOWS STORE
 These license terms are an agreement between Microsoft Corporation (or based on where you live, one of its affiliates) and you. Please read them. They apply to the application named above. The terms also apply to any Microsoft

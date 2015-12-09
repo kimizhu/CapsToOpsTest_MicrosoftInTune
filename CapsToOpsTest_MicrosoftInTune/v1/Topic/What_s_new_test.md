@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: What's new test
+title: What's%20new%20test
 ms.service: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: na
 ms.author: d4484712-0a03-4345-bdeb-64372a73012b
 ---
-# What's new test
+# What's%20new%20test
 
 ## What's new in Intune
 Insert section body here.

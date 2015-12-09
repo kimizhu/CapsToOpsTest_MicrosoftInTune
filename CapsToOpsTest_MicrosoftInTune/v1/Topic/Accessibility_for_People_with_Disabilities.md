@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: Accessibility for People with Disabilities
+title: Accessibility%20for%20People%20with%20Disabilities
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-08-10
 ms.author: dbdc710f437843008017318979c6adba
 ---
-# Accessibility for People with Disabilities
+# Accessibility%20for%20People%20with%20Disabilities
 Microsoft is committed to making its products and services easier for everyone to use. The following topics provide information about the features, products, and services that make [!INC[wit_firstref](../Token/wit_firstref_md.md)] more accessible for people with disabilities.
 
 ## In This Section

@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: What Happens if You Remove a Personal Device Using the Company Portal
+title: What%20Happens%20if%20You%20Remove%20a%20Personal%20Device%20Using%20the%20Company%20Portal
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-09-12
 ms.author: f224bb9b442140c797af0e59b80f0d33
 ---
-# What Happens if You Remove a Personal Device Using the Company Portal
+# What%20Happens%20if%20You%20Remove%20a%20Personal%20Device%20Using%20the%20Company%20Portal
 <?xml version="1.0" encoding="utf-8"?>
 <developerConceptualDocument xmlns="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ddue.schemas.microsoft.com/authoring/2003/5 http://dduestorage.blob.core.windows.net/ddueschema/developer.xsd">
   <introduction>

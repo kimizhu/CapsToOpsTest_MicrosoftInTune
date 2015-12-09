@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: Use groups to manage users and devices with Microsoft Intune
+title: Use%20groups%20to%20manage%20users%20and%20devices%20with%20Microsoft%20Intune
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-08-01
 ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
 ---
-# Use groups to manage users and devices with Microsoft Intune
+# Use%20groups%20to%20manage%20users%20and%20devices%20with%20Microsoft%20Intune
 **Groups** in [!INC[wit_firstref](../Token/wit_firstref_md.md)] give you great flexibility for managing your devices and users. You can set up groups to suit your organizational needs (for example, by geographic location, department, or hardware characteristics).
 
 Additionally, you can filter groups to allow your IT admins permissions to only perform operations on the groups you specify. For more information, see [Use filtered group views to help secure and manage users and devices](../Topic/Use_groups_to_manage_users_and_devices_with_Microsoft_Intune.md#BKMK_Filter) in this topic.

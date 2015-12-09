@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: Run state
+title: Run%20state
 ms.service: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: na
 ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
 ---
-# Run state
+# Run%20state
 Now that your [!INC[wit_firstref](../Token/wit_firstref_md.md)] system is operational, and you depend on it for business-critical functions and for secure device usage, maintain a robust system.
 
 ## Why is this important?

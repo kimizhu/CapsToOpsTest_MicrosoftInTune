@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: Enroll corporate-owned iOS devices in Microsoft Intune
+title: Enroll%20corporate-owned%20iOS%20devices%20in%20Microsoft%20Intune
 ms.service: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-07-20
 ms.author: f93f38ed286b4cbb94b9b427a0abc63e
 ---
-# Enroll corporate-owned iOS devices in Microsoft Intune
+# Enroll%20corporate-owned%20iOS%20devices%20in%20Microsoft%20Intune
 Intune supports the enrollment of corporate-owned iOS devices using the Apple Device Enrollment Program (DEP) or the [Apple Configurator](http://go.microsoft.com/fwlink/?LinkId=518017) tool running on a Mac computer.
 
 You can enroll corporate-enrolled iOS devices in three ways:

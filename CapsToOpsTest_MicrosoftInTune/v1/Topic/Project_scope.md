@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: Project scope
+title: Project%20scope
 ms.service: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: na
 ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
 ---
-# Project scope
+# Project%20scope
 In the project scope phase, you will outline your goals, timeline and success metrics, define key organizational readiness factors, assemble your project team, and begin initial preparations for all phases involved with successfully rolling out [!INC[wit_firstref](../Token/wit_firstref_md.md)] across your organization and ensuring a great experience for end users.
 Invest the right time and effort to define what long-term success looks like so that your plan reflects all the right steps along the way to achieve that vision. While there is always opportunity to fine tune along the way, having a comprehensive readiness plan that's tightly aligned with the core technical deployment is a key factor to overall success.
 

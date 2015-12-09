@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: Passcode reset and remote lock
+title: Passcode%20reset%20and%20remote%20lock
 ms.service: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: na
 ms.author: d4484712-0a03-4345-bdeb-64372a73012b
 ---
-# Passcode reset and remote lock
+# Passcode%20reset%20and%20remote%20lock
 Insert introduction here.
 
 ## Passcode Reset
