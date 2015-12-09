@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: Manage%20alerts%20in%20Microsoft%20Intune
+title: Manage alerts in Microsoft Intune
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-08-01
 ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
 ---
-# Manage%20alerts%20in%20Microsoft%20Intune
+# Manage alerts in Microsoft Intune
 Use the **Alerts** workspace in the [!INC[wit_adminconsole](../Token/wit_adminconsole_md.md)] to assess the overall health of devices in your organization and to identify problems.
 
 #### To view active alerts

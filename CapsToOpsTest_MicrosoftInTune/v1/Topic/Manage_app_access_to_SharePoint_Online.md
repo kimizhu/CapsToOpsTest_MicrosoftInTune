@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: Manage%20app%20access%20to%20SharePoint%20Online
+title: Manage app access to SharePoint Online
 ms.service: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: na
 ms.author: fb8a7802-3b27-41b8-82f3-31bfdcf49ff2
 ---
-# Manage%20app%20access%20to%20SharePoint%20Online
+# Manage app access to SharePoint Online
 Insert introduction here.
 
 ## Section Heading

@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: Manage%20settings%20and%20features%20on%20your%20devices%20with%20Microsoft%20Intune%20policies
+title: Manage settings and features on your devices with Microsoft Intune policies
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-11-23
 ms.author: dbdc710f437843008017318979c6adba
 ---
-# Manage%20settings%20and%20features%20on%20your%20devices%20with%20Microsoft%20Intune%20policies
+# Manage settings and features on your devices with Microsoft Intune policies
 [!INC[wit_firstref](../Token/wit_firstref_md.md)] uses **policies** that help you to configure many security and functional settings for enrolled mobile devices, including:
 
 - Hardware settings, like allowing use of the devices camera, or Bluetooth capability

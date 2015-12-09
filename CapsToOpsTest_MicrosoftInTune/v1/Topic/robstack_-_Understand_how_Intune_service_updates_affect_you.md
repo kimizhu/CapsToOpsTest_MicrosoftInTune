@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: robstack%20-%20Understand%20how%20Intune%20service%20updates%20affect%20you
+title: robstack - Understand how Intune service updates affect you
 ms.service: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: na
 ms.author: dbdc710f437843008017318979c6adba
 ---
-# robstack%20-%20Understand%20how%20Intune%20service%20updates%20affect%20you
+# robstack - Understand how Intune service updates affect you
 Because [!INC[wit_nextref](../Token/wit_nextref_md.md)] is an online service, Microsoft can update it on a regular basis.
 
 Use the information in this topic to help you understand the frequency of these service updates, and the advance notification we give to you when an update might affect your use of the service.

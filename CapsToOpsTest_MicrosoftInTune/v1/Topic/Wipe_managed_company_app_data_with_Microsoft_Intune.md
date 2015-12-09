@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: Wipe%20managed%20company%20app%20data%20with%20Microsoft%20Intune
+title: Wipe managed company app data with Microsoft Intune
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-11-17
 ms.author: fb8a7802-3b27-41b8-82f3-31bfdcf49ff2
 ---
-# Wipe%20managed%20company%20app%20data%20with%20Microsoft%20Intune
+# Wipe managed company app data with Microsoft Intune
 You can selectively remove company data from apps without affecting personal data on a device.  To wipe company app data, you make a wipe request.  After you make a wipe request, the next time the app runs on the device, company data is removed from the app.
 
 The **Wipe request** tile on the **Intune mobile application management** blade displays the number of pending requests and failures.

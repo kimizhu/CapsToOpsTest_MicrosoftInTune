@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: Common%20Windows%20PC%20management%20tasks%20with%20the%20Microsoft%20Intune%20computer%20client
+title: Common Windows PC management tasks with the Microsoft Intune computer client
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-11-29
 ms.author: dbdc710f437843008017318979c6adba
 ---
-# Common%20Windows%20PC%20management%20tasks%20with%20the%20Microsoft%20Intune%20computer%20client
+# Common Windows PC management tasks with the Microsoft Intune computer client
 Review the information in this topic to learn how to manage your computers that run the [!INC[wit_firstref](../Token/wit_firstref_md.md)] client. If you have not yet installed the client on your computers, see [Install the Windows PC client with Microsoft Intune](../Topic/Install_the_Windows_PC_client_with_Microsoft_Intune.md).
 
 ## <a name="BKMK_PolicyTasks"></a>Tasks that use Microsoft Intune policies

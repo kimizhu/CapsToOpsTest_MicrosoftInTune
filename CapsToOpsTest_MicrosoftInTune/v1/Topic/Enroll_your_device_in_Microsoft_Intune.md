@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: Enroll%20your%20device%20in%20Microsoft%20Intune
+title: Enroll your device in Microsoft Intune
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-11-19
 ms.author: f224bb9b442140c797af0e59b80f0d33
 ---
-# Enroll%20your%20device%20in%20Microsoft%20Intune
+# Enroll your device in Microsoft Intune
 If your company is using [!INC[wit_firstref](../Token/wit_firstref_md.md)] to manage devices, you can help keep corporate data and resources protected by enrolling your phone or tablet into Microsoft Intune. Once you enroll, you can use your mobile phone or tablet to access the company's network, email and other work files and to get company apps. IT will be able to manage limited aspects of your mobile device to keep us protected. You'll still have  access to personal apps and data, and  your private stuff is still for your eyes only. Read More about [What IT can and can't see when you enroll your device in Intune](https://technet.microsoft.com/library/jj738616%28WIT.1%29.aspx).
 
 To enroll, use the link that corresponds to the device you are using:

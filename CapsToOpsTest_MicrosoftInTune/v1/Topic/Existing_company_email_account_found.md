@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: Existing%20company%20email%20account%20found
+title: Existing company email account found
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: 5/19/2015%208:00:00%20AM
+ms.date: 5/19/2015 8:00:00 AM
 ms.author: f224bb9b442140c797af0e59b80f0d33
 ---
-# Existing%20company%20email%20account%20found
+# Existing company email account found
 You already have a company email account. To continue to connect to your company email, you’ll need to take the following steps to enable your IT admin to properly set up and manage your account:
 
 1. In **Settings** on your device, remove the connection you previously set up to your company email.

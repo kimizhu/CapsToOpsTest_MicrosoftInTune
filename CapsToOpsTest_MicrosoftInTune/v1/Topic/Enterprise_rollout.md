@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: Enterprise%20rollout
+title: Enterprise rollout
 ms.service: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: na
 ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
 ---
-# Enterprise%20rollout
+# Enterprise rollout
 During the enterprise rollout phase, you will plan and execute your broad rollout strategy, inclusive of communications, training and support activities.
 
 ## Why is this important?

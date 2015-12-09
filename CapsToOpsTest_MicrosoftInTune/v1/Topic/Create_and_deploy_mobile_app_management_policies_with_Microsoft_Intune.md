@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: Create%20and%20deploy%20mobile%20app%20management%20policies%20with%20Microsoft%20Intune
+title: Create and deploy mobile app management policies with Microsoft Intune
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-11-17
 ms.author: fb8a7802-3b27-41b8-82f3-31bfdcf49ff2
 ---
-# Create%20and%20deploy%20mobile%20app%20management%20policies%20with%20Microsoft%20Intune
+# Create and deploy mobile app management policies with Microsoft Intune
 You can create mobile app management policies (MAM) policies and deploy them to users in the Azure preview portal.  The MAM policies that you create here are independent of device enrollment, meaning that they can be used on devices that are not managed at all, or managed by [!INC[wit_firstref](../Token/wit_firstref_md.md)] or another third-party solution.
 
 **In this topic**

@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: Resources%20to%20help%20you%20solve%20problems%20during%20setup%20of%20Microsoft%20Intune
+title: Resources to help you solve problems during setup of Microsoft Intune
 ms.service: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: 5/18/2015%208:00:00%20AM
+ms.date: 5/18/2015 8:00:00 AM
 ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
 ---
-# Resources%20to%20help%20you%20solve%20problems%20during%20setup%20of%20Microsoft%20Intune
+# Resources to help you solve problems during setup of Microsoft Intune
 Because [!INC[wit_firstref](../Token/wit_firstref_md.md)] is a cloud service, there should be little need to repair or troubleshoot operational issues. When you experience problems in accessing the service, the following sections can help you identify next steps to take.
 
 ## <a name="BKMK_ResolveSetupProblems"></a>Tips to solving problems with setup and configuration of Microsoft Intune

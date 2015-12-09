@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: Legal%20Information
+title: Legal Information
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: 4/30/2015%208:00:00%20AM
+ms.date: 4/30/2015 8:00:00 AM
 ms.author: dbdc710f437843008017318979c6adba
 ---
-# Legal%20Information
+# Legal Information
 
 ## Terms of Use
 [Read the terms of use](http://go.microsoft.com/fwlink/?LinkId=263462)

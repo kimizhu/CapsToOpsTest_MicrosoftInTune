@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: Terms%20of%20Use
+title: Terms of Use
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: 4/30/2015%208:00:00%20AM
+ms.date: 4/30/2015 8:00:00 AM
 ms.author: dbdc710f437843008017318979c6adba
 ---
-# Terms%20of%20Use
+# Terms of Use
 
 ## 1.  ACCEPTANCE.
 Your use of this website ("Site") is governed by these Terms of Use ("TOU"). Microsoft reserves the right to update these TOU at any time without notice to you. The most current version of the applicable TOU can be found at the "Legal" hypertext link located at the bottom of this Site. **You may only access or use this Site if you agree to these terms. If you do not agree, do not access or use this Site.**

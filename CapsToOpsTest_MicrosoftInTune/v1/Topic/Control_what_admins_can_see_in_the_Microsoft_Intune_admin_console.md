@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: Control%20what%20admins%20can%20see%20in%20the%20Microsoft%20Intune%20admin%20console
+title: Control what admins can see in the Microsoft Intune admin console
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-08-01
 ms.author: dbdc710f437843008017318979c6adba
 ---
-# Control%20what%20admins%20can%20see%20in%20the%20Microsoft%20Intune%20admin%20console
+# Control what admins can see in the Microsoft Intune admin console
 [!INC[wit_nextref](../Token/wit_nextref_md.md)] provides the ability to filter the admin console view to allow users to access only the items you want them to see. For example, you might want to allow only admin console operators to be able to update malware definitions, or reset the passcode on devices. This is accomplished by using preset **designations** that you assign to specific users. When these users access the admin console, they only see items specific to their designation.
 
 Use this feature to help you assign administration tasks to staff while still ensuring the security of your [!INC[wit_nextref](../Token/wit_nextref_md.md)] data.
