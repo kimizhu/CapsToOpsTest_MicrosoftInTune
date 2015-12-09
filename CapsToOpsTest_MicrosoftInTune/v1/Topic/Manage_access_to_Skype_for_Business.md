@@ -1,14 +1,3 @@
----
-description: na
-search: na
-title: Manage access to Skype for Business
-ms.service: na
-ms.tgt_pltfrm: na
-ms.topic: article
-ms.date: na
-ms.author: fb8a7802-3b27-41b8-82f3-31bfdcf49ff2
----
-# Manage access to Skype for Business
 Use the [!INC[wit_firstref](../Token/wit_firstref_md.md)]**Skype for Business Online** conditional access policy to manage access to Skype for Business Online, based on conditions you specify.
 
 When a targeted user attempts to use Skype for Business Online on their device, the following evaluation occurs:

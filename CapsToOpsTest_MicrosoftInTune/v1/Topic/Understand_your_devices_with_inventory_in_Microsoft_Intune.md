@@ -1,14 +1,3 @@
----
-description: na
-search: na
-title: Understand your devices with inventory in Microsoft Intune
-ms.service: microsoft-intune
-ms.tgt_pltfrm: na
-ms.topic: article
-ms.date: 2015-11-17
-ms.author: f93f38ed286b4cbb94b9b427a0abc63e
----
-# Understand your devices with inventory in Microsoft Intune
 [!INC[wit_firstref](../Token/wit_firstref_md.md)] lets you view the inventory of enrolled devices and Windows PCs that run the [!INC[wit_nextref](../Token/wit_nextref_md.md)] client software.
 
 ## What's collected from enrolled devices?

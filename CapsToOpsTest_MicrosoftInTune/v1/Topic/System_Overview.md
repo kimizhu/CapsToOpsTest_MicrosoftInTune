@@ -1,14 +1,3 @@
----
-description: na
-search: na
-title: System Overview
-ms.service: na
-ms.tgt_pltfrm: na
-ms.topic: article
-ms.date: na
-ms.author: d4484712-0a03-4345-bdeb-64372a73012b
----
-# System Overview
 Insert introduction here.
 
 ## Section Heading

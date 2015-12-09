@@ -1,14 +1,3 @@
----
-description: na
-search: na
-title: Help protect Windows PCs using Windows Firewall policies in Microsoft Intune
-ms.service: microsoft-intune
-ms.tgt_pltfrm: na
-ms.topic: article
-ms.date: 2015-08-31
-ms.author: eb854939b4ae448eb6d114a05061973b
----
-# Help protect Windows PCs using Windows Firewall policies in Microsoft Intune
 [!INC[wit_firstref](../Token/wit_firstref_md.md)] can help you to secure your managed computers in a number of ways, including the use of policies that allow you to configure Windows Firewall settings on client computers.
 
 If you have not yet installed the [!INC[wit_nextref](../Token/wit_nextref_md.md)] client on your computers, see [Install the Windows PC client with Microsoft Intune](../Topic/Install_the_Windows_PC_client_with_Microsoft_Intune.md).

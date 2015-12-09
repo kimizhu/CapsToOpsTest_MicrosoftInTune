@@ -1,14 +1,3 @@
----
-description: na
-search: na
-title: Company Portal Frequently Asked Questions
-ms.service: microsoft-intune
-ms.tgt_pltfrm: na
-ms.topic: article
-ms.date: 5/18/2015 8:00:00 AM
-ms.author: f224bb9b442140c797af0e59b80f0d33
----
-# Company Portal Frequently Asked Questions
 
 ## Company Portal FAQ
 

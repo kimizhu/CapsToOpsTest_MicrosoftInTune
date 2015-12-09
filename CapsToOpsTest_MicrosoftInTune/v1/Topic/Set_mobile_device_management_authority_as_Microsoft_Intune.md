@@ -1,14 +1,3 @@
----
-description: na
-search: na
-title: Set mobile device management authority as Microsoft Intune
-ms.service: microsoft-intune
-ms.tgt_pltfrm: na
-ms.topic: article
-ms.date: 2015-11-17
-ms.author: f93f38ed286b4cbb94b9b427a0abc63e
----
-# Set mobile device management authority as Microsoft Intune
 Before users  can enroll mobile devices with [!INC[wit_nextref](../Token/wit_nextref_md.md)], the IT administrator must declare [!INC[wit_nextref](../Token/wit_nextref_md.md)] as the *mobile device management authority*. A  *mobile device management authority* defines the management service with permission to manage a set of devices.  Solutions for the mobile device management authority include [!INC[wit_nextref](../Token/wit_nextref_md.md)], Configuration Manager with [!INC[wit_nextref](../Token/wit_nextref_md.md)], or Office 365 MDM solutions.
 
 This guidance assumes Intune is used without System Center Configuration Manager integration so the setting should be set to Microsoft Intune.

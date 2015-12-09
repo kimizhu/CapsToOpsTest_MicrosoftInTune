@@ -1,14 +1,3 @@
----
-description: na
-search: na
-title: Stacie What's New
-ms.service: na
-ms.tgt_pltfrm: na
-ms.topic: article
-ms.date: na
-ms.author: na
----
-# Stacie What's New
 
 ## Changes and updates to Microsoft Company Portal
 The following changes have been made to the company portal apps in this release:
