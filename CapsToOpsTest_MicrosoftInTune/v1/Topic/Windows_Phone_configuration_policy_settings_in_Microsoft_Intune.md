@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: Windows Phone configuration policy settings in Microsoft Intune
+title: Windows%20Phone%20configuration%20policy%20settings%20in%20Microsoft%20Intune
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-10-08
 ms.author: dbdc710f437843008017318979c6adba
 ---
-# Windows Phone configuration policy settings in Microsoft Intune
+# Windows%20Phone%20configuration%20policy%20settings%20in%20Microsoft%20Intune
 Use the [!INC[wit_firstref](../Token/wit_firstref_md.md)]**Windows Phone general configuration policy** to configure the following settings for Windows Phone 8.1 devices:
 
 - **Mobile device security settings** – Choose from a list of predefined settings that let you control a range of features and functionality on the device.

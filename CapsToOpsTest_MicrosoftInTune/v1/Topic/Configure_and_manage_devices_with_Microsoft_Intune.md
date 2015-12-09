@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: Configure and manage devices with Microsoft Intune
+title: Configure%20and%20manage%20devices%20with%20Microsoft%20Intune
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-11-20
 ms.author: d4484712-0a03-4345-bdeb-64372a73012b
 ---
-# Configure and manage devices with Microsoft Intune
+# Configure%20and%20manage%20devices%20with%20Microsoft%20Intune
 ![](../Image/Nav_Icons/WIT_Tile_W_Overview.png)![](../Image/Nav_Icons/WIT_Tile_W_GetStarted.png)![](../Image/Nav_Icons/WIT_Tile_W_EnrollDevices.png)![](../Image/Nav_Icons/WIT_Tile_W_ManageDevicesHighlight.png)![](../Image/Nav_Icons/WIT_Tile_W_ManageApps.png)![](../Image/Nav_Icons/WIT_Tile_W_ProtectResources.png)![](../Image/Nav_Icons/WIT_Tile_W_RetireData.png)![](../Image/Nav_Icons/WIT_Tile_W_TechnicalReference.png)![](../Image/Nav_Icons/WIT_Tile_W_Troubleshooting.png)
 ![](../Image/Nav_Icons/WIT_Banner_ManageDevices.png)
 

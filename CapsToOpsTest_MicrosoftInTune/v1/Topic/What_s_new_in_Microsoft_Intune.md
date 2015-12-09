@@ -1,7 +1,7 @@
 ---
 description: na
 search: na
-title: What's new in Microsoft Intune
+title: What's%20new%20in%20Microsoft%20Intune
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: get-started-article
@@ -520,6 +520,8 @@ The following changes have been made to the company portal apps in this release:
 ##### Android
 
 - Added support for Wi-Fi profiles with passkeys when Intune is used with Configuration Manager
+
+- Added Support for **Remote Lock** and **Passcode Reset** features when [!INC[wit_nextref](../Token/wit_nextref_md.md)]. is used with [!INC[cmshort](../Token/cmshort_md.md)].
 
 - Added a **Verbose Logging** setting to improve troubleshooting
 

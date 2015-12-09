@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: Control Microsoft Passport settings on devices with Microsoft Intune
+title: Control%20Microsoft%20Passport%20settings%20on%20devices%20with%20Microsoft%20Intune
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-11-23
 ms.author: dbdc710f437843008017318979c6adba
 ---
-# Control Microsoft Passport settings on devices with Microsoft Intune
+# Control%20Microsoft%20Passport%20settings%20on%20devices%20with%20Microsoft%20Intune
 [!INC[wit_firstref](../Token/wit_firstref_md.md)] lets you integrate with Microsoft Passport for Work which is an alternative sign-in method that uses Active Directory, or an Azure Active Directory account to replace a password, smart card, or virtual smart card.
 
 Passport lets you use a **user gesture** to login, instead of a password. A user gesture might be a simple PIN, biometric authentication such as Windows Hello, or an external device such as a fingerprint reader.

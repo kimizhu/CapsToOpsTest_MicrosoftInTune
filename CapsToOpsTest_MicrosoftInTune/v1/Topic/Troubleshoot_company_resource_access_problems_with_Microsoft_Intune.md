@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: Troubleshoot company resource access problems with Microsoft Intune
+title: Troubleshoot%20company%20resource%20access%20problems%20with%20Microsoft%20Intune
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-08-01
 ms.author: dbdc710f437843008017318979c6adba
 ---
-# Troubleshoot company resource access problems with Microsoft Intune
+# Troubleshoot%20company%20resource%20access%20problems%20with%20Microsoft%20Intune
 Use the information in this topic to help you troubleshoot problems when a [!INC[wit_firstref](../Token/wit_firstref_md.md)] action returns an error code.
 
 If this information does not solve your problem, see [How to get support for Microsoft Intune](../Topic/How_to_get_support_for_Microsoft_Intune.md) to find more ways to get help.

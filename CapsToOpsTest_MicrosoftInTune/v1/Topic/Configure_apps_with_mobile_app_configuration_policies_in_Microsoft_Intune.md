@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: Configure apps with mobile app configuration policies in Microsoft Intune
+title: Configure%20apps%20with%20mobile%20app%20configuration%20policies%20in%20Microsoft%20Intune
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-11-17
 ms.author: dbdc710f437843008017318979c6adba
 ---
-# Configure apps with mobile app configuration policies in Microsoft Intune
+# Configure%20apps%20with%20mobile%20app%20configuration%20policies%20in%20Microsoft%20Intune
 Use mobile app configuration policies in [!INC[wit_firstref](../Token/wit_firstref_md.md)] to supply settings that might be required when the user runs an app. For example, an app might require the user to specify:
 
 - A custom port number when it is run

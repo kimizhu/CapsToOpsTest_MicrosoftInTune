@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: Mac OS X configuration policy settings in Microsoft Intune
+title: Mac%20OS%20X%20configuration%20policy%20settings%20in%20Microsoft%20Intune
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-11-17
 ms.author: dbdc710f437843008017318979c6adba
 ---
-# Mac OS X configuration policy settings in Microsoft Intune
+# Mac%20OS%20X%20configuration%20policy%20settings%20in%20Microsoft%20Intune
 Use the [!INC[wit_firstref](../Token/wit_firstref_md.md)]**Mac OS X general configuration policy** to configure settings for:
 
 - **Device security settings** - Choose from a list of predefined settings that let you control a range of features and functionality on the device.

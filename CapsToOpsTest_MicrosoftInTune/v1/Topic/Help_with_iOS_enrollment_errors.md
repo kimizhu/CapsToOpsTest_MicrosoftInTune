@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: Help with iOS enrollment errors
+title: Help%20with%20iOS%20enrollment%20errors
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: 4/30/2015 8:00:00 AM
+ms.date: 4/30/2015%208:00:00%20AM
 ms.author: 79a318a2-4407-40ec-b4b0-435e7bd1296a
 ---
-# Help with iOS enrollment errors
+# Help%20with%20iOS%20enrollment%20errors
 This topic helps you to work around iOS enrollment errors.
 
 ## iOS enrollment errors

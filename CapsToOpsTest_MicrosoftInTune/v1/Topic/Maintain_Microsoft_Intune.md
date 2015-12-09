@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: Maintain Microsoft Intune
+title: Maintain%20Microsoft%20Intune
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-08-01
 ms.author: dbdc710f437843008017318979c6adba
 ---
-# Maintain Microsoft Intune
+# Maintain%20Microsoft%20Intune
 As a cloud service hosted by Microsoft, the [!INC[wit_firstref](../Token/wit_firstref_md.md)] service is maintained automatically with little maintenance required by you. However, you should be familiar with the following maintenance tasks that might be required to maintain your service:
 
 - [Common maintenance tasks](../Topic/Maintain_Microsoft_Intune.md#BKMK_Maintenance)

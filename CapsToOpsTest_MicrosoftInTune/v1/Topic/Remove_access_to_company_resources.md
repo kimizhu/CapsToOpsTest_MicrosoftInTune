@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: Remove access to company resources
+title: Remove%20access%20to%20company%20resources
 ms.service: mobile-device-management
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: na
 ms.author: d4484712-0a03-4345-bdeb-64372a73012b
 ---
-# Remove access to company resources
+# Remove%20access%20to%20company%20resources
 Insert introduction here.
 
 ## Section Heading

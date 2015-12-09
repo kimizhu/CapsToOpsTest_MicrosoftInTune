@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: Activate Your Product Key
+title: Activate%20Your%20Product%20Key
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: na
 ms.author: dbdc710f437843008017318979c6adba
 ---
-# Activate Your Product Key
+# Activate%20Your%20Product%20Key
 You can use a product key to redeem a subscription or add users to an existing subscription. A product key is a unique 25-character alpha-numeric code that is required to redeem a subscription, access online services, or download software. You can purchase product keys from a Microsoft partner or reseller.
 
 ## Redeem your product key

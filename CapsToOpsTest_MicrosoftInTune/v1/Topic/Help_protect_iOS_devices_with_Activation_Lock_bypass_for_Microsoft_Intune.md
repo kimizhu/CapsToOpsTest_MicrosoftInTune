@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: Help protect iOS devices with Activation Lock bypass for Microsoft Intune
+title: Help%20protect%20iOS%20devices%20with%20Activation%20Lock%20bypass%20for%20Microsoft%20Intune
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-08-20
 ms.author: dbdc710f437843008017318979c6adba
 ---
-# Help protect iOS devices with Activation Lock bypass for Microsoft Intune
+# Help%20protect%20iOS%20devices%20with%20Activation%20Lock%20bypass%20for%20Microsoft%20Intune
 [!INC[wit_firstref](../Token/wit_firstref_md.md)] can help you manage iOS Activation Lock, a feature of the Find My iPhone app for iOS 7.1 and later devices. Activation Lock is enabled automatically when the Find My iPhone app is used on a device. Once it is enabled, the user's Apple ID and password must be entered before anyone can:
 
 - Turn off Find My iPhone
