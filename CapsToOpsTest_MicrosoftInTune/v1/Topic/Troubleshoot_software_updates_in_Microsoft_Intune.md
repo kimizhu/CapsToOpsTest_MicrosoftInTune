@@ -1,3 +1,14 @@
+---
+description: na
+search: na
+title: Troubleshoot software updates in Microsoft Intune
+ms.service: na
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.date: na
+ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
+---
+# Troubleshoot software updates in Microsoft Intune
 
 ## <a name="BKMK_Updates"></a>Troubleshooting software updates
 Use the information in this section to help you solve software update problems in [!INC[wit_firstref](../Token/wit_firstref_md.md)].

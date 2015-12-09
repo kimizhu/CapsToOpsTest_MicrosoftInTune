@@ -1,3 +1,14 @@
+---
+description: na
+search: na
+title: How you can work on your device and keep your company safe
+ms.service: na
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.date: na
+ms.author: dbdc710f437843008017318979c6adba
+---
+# How you can work on your device and keep your company safe
 <?xml version="1.0" encoding="UTF-8"?>
 <developerConceptualDocument xmlns="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ddue.schemas.microsoft.com/authoring/2003/5 http://dduestorage.blob.core.windows.net/ddueschema/developer.xsd" xmlns:xlink="http://www.w3.org/1999/xlink">
     <introduction>

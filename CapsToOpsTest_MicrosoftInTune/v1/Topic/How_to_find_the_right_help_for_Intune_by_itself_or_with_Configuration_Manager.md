@@ -1,3 +1,14 @@
+---
+description: na
+search: na
+title: How to find the right help for Intune by itself or with Configuration Manager
+ms.service: microsoft-intune
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.date: 2015-09-17
+ms.author: dbdc710f437843008017318979c6adba
+---
+# How to find the right help for Intune by itself or with Configuration Manager
 When you work with [!INC[wit_firstref](../Token/wit_firstref_md.md)] by itself, you'll find all the information you need in this documentation library. However, if you've decided to use [!INC[wit_nextref](../Token/wit_nextref_md.md)] and [!INC[cm5long](../Token/cm5long_md.md)] together (what's known as a 'hybrid' scenario), most operations that you used to perform in the [!INC[wit_nextref](../Token/wit_nextref_md.md)] admin console will now need to be done in the [!INC[cmshort](../Token/cmshort_md.md)] console instead.
 
 Once you set up a hybrid scenario, you'll find the help you need in the [Configuration Manager documentation library](https://technet.microsoft.com/en-us/library/gg682041.aspx). This topic helps you to find the documentation for an operation both before and after you link [!INC[wit_nextref](../Token/wit_nextref_md.md)] to [!INC[cmshort](../Token/cmshort_md.md)].

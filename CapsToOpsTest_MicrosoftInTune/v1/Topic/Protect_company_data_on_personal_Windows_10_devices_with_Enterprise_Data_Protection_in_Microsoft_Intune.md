@@ -1,3 +1,14 @@
+---
+description: na
+search: na
+title: Protect company data on personal Windows 10 devices with Enterprise Data Protection in Microsoft Intune
+ms.service: na
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.date: na
+ms.author: dbdc710f437843008017318979c6adba
+---
+# Protect company data on personal Windows 10 devices with Enterprise Data Protection in Microsoft Intune
 With the increase of employee-owned devices in the enterprise, there’s also an increasing risk of accidental data disclosure through apps and services that are outside of the enterprise’s control like email, social media, and the public cloud.
 
 Many of the existing solutions that try to address this issue require employees to switch between personal and work containers and apps  , leading to a less than optimal user experience. The feature code-named Enterprise Data Protection (EDP) offers a better user experience, while helping to better separate and protect enterprise apps and data against disclosure risks across both company and personal devices, without requiring a change in environment.
