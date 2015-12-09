@@ -1,3 +1,14 @@
+---
+description: na
+search: na
+title: Accessibility Products and Services from Microsoft
+ms.service: microsoft-intune
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.date: 4/30/2015 8:00:00 AM
+ms.author: 79a318a2-4407-40ec-b4b0-435e7bd1296a
+---
+# Accessibility Products and Services from Microsoft
 [!INC[accessibility1](../Token/accessibility1_md.md)]
 
 - [!INC[accessibility2](../Token/accessibility2_md.md)]

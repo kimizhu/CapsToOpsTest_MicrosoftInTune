@@ -1,3 +1,14 @@
+---
+description: na
+search: na
+title: Terms of Delegated Administration for Microsoft Intune
+ms.service: microsoft-intune
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.date: 4/30/2015 8:00:00 AM
+ms.author: 79a318a2-4407-40ec-b4b0-435e7bd1296a
+---
+# Terms of Delegated Administration for Microsoft Intune
 > [!WARNING]
 > If you choose to authorize a partner to be a delegated administrator on behalf of your organization, the partner will have full administrative access to [!INC[wit_firstref](../Token/wit_firstref_md.md)] as well as to **any other services and subscriptions where you authenticate with the same user account**.  Administrative access can include functions such as assigning and maintaining user accounts, adding or removing users and groups, uploading and distributing licensed software to designated users.
 
