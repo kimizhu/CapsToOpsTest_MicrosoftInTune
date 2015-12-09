@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: MICROSOFT%20SOFTWARE%20SUPPLEMENTAL%20NOTICE
+title: MICROSOFT SOFTWARE SUPPLEMENTAL NOTICE
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: 4/30/2015%208:00:00%20AM
+ms.date: 4/30/2015 8:00:00 AM
 ms.author: dbdc710f437843008017318979c6adba
 ---
-# MICROSOFT%20SOFTWARE%20SUPPLEMENTAL%20NOTICE
+# MICROSOFT SOFTWARE SUPPLEMENTAL NOTICE
 
 ## MICROSOFT INTUNE COMPANY PORTAL
 Your use of this software is subject to the terms of your company’s agreement with Microsoft Corporation, or one of its affiliates. The terms below supplement your company’s agreement with Microsoft. If there is a conflict, your company’s agreement with Microsoft applies.

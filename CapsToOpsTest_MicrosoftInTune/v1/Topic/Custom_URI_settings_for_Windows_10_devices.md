@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: Custom%20URI%20settings%20for%20Windows%2010%20devices
+title: Custom URI settings for Windows 10 devices
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-11-16
 ms.author: dbdc710f437843008017318979c6adba
 ---
-# Custom%20URI%20settings%20for%20Windows%2010%20devices
+# Custom URI settings for Windows 10 devices
 This topic lists the settings that you can configure for Windows 10 and Windows 10 Mobile devices in a [!INC[wit_firstref](../Token/wit_firstref_md.md)]**Windows 10 Custom Policy**.
 
 For information about how to create and deploy these policies, see [Windows 10 custom policy settings in Microsoft Intune](../Topic/Windows_10_custom_policy_settings_in_Microsoft_Intune.md).

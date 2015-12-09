@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: Understand%20Microsoft%20Intune%20operations%20by%20using%20reports
+title: Understand Microsoft Intune operations by using reports
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-11-17
 ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
 ---
-# Understand%20Microsoft%20Intune%20operations%20by%20using%20reports
+# Understand Microsoft Intune operations by using reports
 Use the information in this topic to help you create and manage [!INC[wit_firstref](../Token/wit_firstref_md.md)] reports that provide information about software, hardware, and software licenses in your organization.
 
 ## Using Reports

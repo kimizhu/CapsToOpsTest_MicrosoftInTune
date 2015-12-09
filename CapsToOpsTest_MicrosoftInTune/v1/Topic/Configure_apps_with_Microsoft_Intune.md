@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: Configure%20apps%20with%20Microsoft%20Intune
+title: Configure apps with Microsoft Intune
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-11-17
 ms.author: dbdc710f437843008017318979c6adba
 ---
-# Configure%20apps%20with%20Microsoft%20Intune
+# Configure apps with Microsoft Intune
 [!INC[wit_firstref](../Token/wit_firstref_md.md)] gives you tools that help you manage, configure, and protect company data in your apps.
 
 ## Mobile app configuration policies

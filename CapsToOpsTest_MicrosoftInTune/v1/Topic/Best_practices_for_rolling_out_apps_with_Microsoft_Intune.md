@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: Best%20practices%20for%20rolling%20out%20apps%20with%20Microsoft%20Intune
+title: Best practices for rolling out apps with Microsoft Intune
 ms.service: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: na
 ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
 ---
-# Best%20practices%20for%20rolling%20out%20apps%20with%20Microsoft%20Intune
+# Best practices for rolling out apps with Microsoft Intune
 Insert introduction here.
 
 ## Section Heading

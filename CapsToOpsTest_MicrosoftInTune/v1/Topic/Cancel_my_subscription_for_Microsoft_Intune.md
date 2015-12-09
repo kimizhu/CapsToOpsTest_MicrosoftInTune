@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: Cancel%20my%20subscription%20for%20Microsoft%20Intune
+title: Cancel my subscription for Microsoft Intune
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: 4/30/2015%208:00:00%20AM
+ms.date: 4/30/2015 8:00:00 AM
 ms.author: 79a318a2-4407-40ec-b4b0-435e7bd1296a
 ---
-# Cancel%20my%20subscription%20for%20Microsoft%20Intune
+# Cancel my subscription for Microsoft Intune
 You can cancel your [!INC[wit_firstref](../Token/wit_firstref_md.md)] subscription:
 
 - At the end of your term

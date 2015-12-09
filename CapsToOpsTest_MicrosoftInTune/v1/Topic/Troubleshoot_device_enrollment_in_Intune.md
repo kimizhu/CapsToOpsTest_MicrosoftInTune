@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: Troubleshoot%20device%20enrollment%20in%20Intune
+title: Troubleshoot device enrollment in Intune
 ms.service: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: na
 ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
 ---
-# Troubleshoot%20device%20enrollment%20in%20Intune
+# Troubleshoot device enrollment in Intune
 
 ## Device enrollment issues
 Listed here are some device enrollment issues and how to troubleshoot and resolve them.

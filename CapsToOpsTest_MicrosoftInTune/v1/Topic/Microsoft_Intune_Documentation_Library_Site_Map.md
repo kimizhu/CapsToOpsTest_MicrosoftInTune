@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: Microsoft%20Intune%20Documentation%20Library%20Site%20Map
+title: Microsoft Intune Documentation Library Site Map
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: 5/20/2015%208:00:00%20AM
+ms.date: 5/20/2015 8:00:00 AM
 ms.author: 2acc2e0c-a3ea-42a3-8a95-f1f50c2bbe2f
 ---
-# Microsoft%20Intune%20Documentation%20Library%20Site%20Map
+# Microsoft Intune Documentation Library Site Map
 You can use this site map to help you to navigate the Microsoft Intune documentation library and other Intune documentation provided on TechNet.
 
 [Documentation for Microsoft Intune](../Topic/Documentation_for_Microsoft_Intune.md)

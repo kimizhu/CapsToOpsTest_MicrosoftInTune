@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: Ways%20to%20do%20enterprise%20mobility
+title: Ways to do enterprise mobility
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-11-17
 ms.author: 2acc2e0c-a3ea-42a3-8a95-f1f50c2bbe2f
 ---
-# Ways%20to%20do%20enterprise%20mobility
+# Ways to do enterprise mobility
 Microsoft provides several options for managing your mobile devices. We’ve provided information on this page to help you decide between these different options for meeting your enterprise mobility needs:
 
 - [Choose between Intune and MDM for Office 365](#BKMK_MDMOfferings)

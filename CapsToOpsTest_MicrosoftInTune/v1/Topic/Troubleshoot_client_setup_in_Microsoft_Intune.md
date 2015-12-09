@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: Troubleshoot%20client%20setup%20in%20Microsoft%20Intune
+title: Troubleshoot client setup in Microsoft Intune
 ms.service: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-10-15
 ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
 ---
-# Troubleshoot%20client%20setup%20in%20Microsoft%20Intune
+# Troubleshoot client setup in Microsoft Intune
 
 ## Troubleshooting client set up problems
 Use the following sections to help you troubleshoot common client setup problems.

@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: End-user%20experience%20for%20apps%20associated%20with%20Microsoft%20Intune%20mobile%20app%20management%20policies
+title: End-user experience for apps associated with Microsoft Intune mobile app management policies
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-11-17
 ms.author: fb8a7802-3b27-41b8-82f3-31bfdcf49ff2
 ---
-# End-user%20experience%20for%20apps%20associated%20with%20Microsoft%20Intune%20mobile%20app%20management%20policies
+# End-user experience for apps associated with Microsoft Intune mobile app management policies
 Mobile application management (MAM) polices are applied only when apps are used in the work context.  Read the following scenarios to help you educate your users so that they understand how managed apps work.
 
 **In this topic**

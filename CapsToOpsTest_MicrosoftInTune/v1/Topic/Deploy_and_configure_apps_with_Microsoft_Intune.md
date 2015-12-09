@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: Deploy%20and%20configure%20apps%20with%20Microsoft%20Intune
+title: Deploy and configure apps with Microsoft Intune
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-11-20
 ms.author: d4484712-0a03-4345-bdeb-64372a73012b
 ---
-# Deploy%20and%20configure%20apps%20with%20Microsoft%20Intune
+# Deploy and configure apps with Microsoft Intune
 ![](../Image/Nav_Icons/WIT_Tile_W_Overview.png)![](../Image/Nav_Icons/WIT_Tile_W_GetStarted.png)![](../Image/Nav_Icons/WIT_Tile_W_EnrollDevices.png)![](../Image/Nav_Icons/WIT_Tile_W_ManageDevices.png)![](../Image/Nav_Icons/WIT_Tile_W_ManageAppsHighlight.png)![](../Image/Nav_Icons/WIT_Tile_W_ProtectResources.png)![](../Image/Nav_Icons/WIT_Tile_W_RetireData.png)![](../Image/Nav_Icons/WIT_Tile_W_TechnicalReference.png)![](../Image/Nav_Icons/WIT_Tile_W_Troubleshooting.png)
 ![](../Image/Nav_Icons/WIT_Banner_ManageApps.png)
 

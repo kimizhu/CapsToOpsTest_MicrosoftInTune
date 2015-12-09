@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: Frequently%20asked%20questions%20for%20Microsoft%20Intune
+title: Frequently asked questions for Microsoft Intune
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: na
 ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
 ---
-# Frequently%20asked%20questions%20for%20Microsoft%20Intune
+# Frequently asked questions for Microsoft Intune
 This topic provides answers to frequently asked questions about Microsoft Intune. If you have suggestions for other questions you'd like to see answered, [let us know](https://microsoftintune.uservoice.com/).
 
 ## About this FAQ

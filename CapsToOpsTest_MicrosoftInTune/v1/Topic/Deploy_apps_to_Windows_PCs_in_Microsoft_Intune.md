@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: Deploy%20apps%20to%20Windows%20PCs%20in%20Microsoft%20Intune
+title: Deploy apps to Windows PCs in Microsoft Intune
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-11-17
 ms.author: dbdc710f437843008017318979c6adba
 ---
-# Deploy%20apps%20to%20Windows%20PCs%20in%20Microsoft%20Intune
+# Deploy apps to Windows PCs in Microsoft Intune
 Now that you've [learned the basics](https://technet.microsoft.com/library/dn646955.aspx) about [!INC[wit_firstref](../Token/wit_firstref_md.md)] app deployment, in this topic, you'll learn how to actually configure and deploy apps to Windows PCs you manage. This generally involves three steps:
 
 - [Configure the app](#BKMK_Conf)

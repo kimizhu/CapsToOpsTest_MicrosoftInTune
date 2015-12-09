@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: Resolve%20GPO%20and%20Microsoft%20Intune%20policy%20conflicts
+title: Resolve GPO and Microsoft Intune policy conflicts
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-08-01
 ms.author: dbdc710f437843008017318979c6adba
 ---
-# Resolve%20GPO%20and%20Microsoft%20Intune%20policy%20conflicts
+# Resolve GPO and Microsoft Intune policy conflicts
 [!INC[wit_nextref](../Token/wit_nextref_md.md)] uses policies that help you manage settings on the computers you manage. For example, you could use a policy to control settings for the Windows Firewall on computers. Many of the [!INC[wit_nextref](../Token/wit_nextref_md.md)] settings are similar to settings you might configure with Windows Group Policy. However, it is possible that, at times, the two methods might conflict with one another.
 
 When conflicts happen, domain-level Group Policy takes precedence over [!INC[wit_nextref](../Token/wit_nextref_md.md)] policy, unless the computer can’t logon to the domain. In this case, [!INC[wit_nextref](../Token/wit_nextref_md.md)] policy is applied to the client computer.
