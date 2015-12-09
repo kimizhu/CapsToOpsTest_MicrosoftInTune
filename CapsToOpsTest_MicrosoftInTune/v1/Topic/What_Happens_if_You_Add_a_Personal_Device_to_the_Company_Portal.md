@@ -1,14 +1,3 @@
----
-description: na
-search: na
-title: What Happens if You Add a Personal Device to the Company Portal
-ms.service: microsoft-intune
-ms.tgt_pltfrm: na
-ms.topic: article
-ms.date: 2015-09-10
-ms.author: f224bb9b442140c797af0e59b80f0d33
----
-# What Happens if You Add a Personal Device to the Company Portal
 If you add a device to the company portal, you can easily find company apps to install, see other devices you’ve added, and find contact information for your IT administrator. You are also giving your IT administrator permission to manage your device to help protect the company information on the device. Each device is added a little differently, some from settings on the device and others by downloading an app from the device’s app store.
 
 ## <a name="BKMK_IT_can_see"></a>What IT can and can't see when you enroll your device in Intune

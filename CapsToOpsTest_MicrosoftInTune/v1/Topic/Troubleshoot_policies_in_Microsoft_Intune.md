@@ -1,14 +1,3 @@
----
-description: na
-search: na
-title: Troubleshoot policies in Microsoft Intune
-ms.service: na
-ms.tgt_pltfrm: na
-ms.topic: article
-ms.date: 2015-10-15
-ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
----
-# Troubleshoot policies in Microsoft Intune
 
 ## Policy issues
 Listed here are some issues that may arise from your [!INC[wit_firstref](../Token/wit_firstref_md.md)] policy configuration and troubleshooting recommendations for those issues.

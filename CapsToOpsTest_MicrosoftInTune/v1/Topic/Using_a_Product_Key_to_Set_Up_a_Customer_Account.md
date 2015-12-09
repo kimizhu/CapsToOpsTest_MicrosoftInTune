@@ -1,14 +1,3 @@
----
-description: na
-search: na
-title: Using a Product Key to Set Up a Customer Account
-ms.service: microsoft-intune
-ms.tgt_pltfrm: na
-ms.topic: article
-ms.date: na
-ms.author: dbdc710f437843008017318979c6adba
----
-# Using a Product Key to Set Up a Customer Account
 
 ## Redeeming the product keys for your customer
 Complete the following procedure to redeem the product keys for your customer.

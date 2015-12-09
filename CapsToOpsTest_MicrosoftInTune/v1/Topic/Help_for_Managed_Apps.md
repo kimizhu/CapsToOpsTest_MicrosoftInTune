@@ -1,14 +1,3 @@
----
-description: na
-search: na
-title: Help for Managed Apps
-ms.service: microsoft-intune
-ms.tgt_pltfrm: na
-ms.topic: article
-ms.date: 4/30/2015 8:00:00 AM
-ms.author: 2acc2e0c-a3ea-42a3-8a95-f1f50c2bbe2f
----
-# Help for Managed Apps
 
 ## What are managed apps?
 To help protect company data on a device that has been enrolled with [!INC[wit_firstref](../Token/wit_firstref_md.md)], your IT department can use managed apps.

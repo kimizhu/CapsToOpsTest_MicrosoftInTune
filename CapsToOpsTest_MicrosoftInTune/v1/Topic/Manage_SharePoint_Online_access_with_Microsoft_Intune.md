@@ -1,14 +1,3 @@
----
-description: na
-search: na
-title: Manage SharePoint Online access with Microsoft Intune
-ms.service: microsoft-intune
-ms.tgt_pltfrm: na
-ms.topic: article
-ms.date: 2015-11-04
-ms.author: dbdc710f437843008017318979c6adba
----
-# Manage SharePoint Online access with Microsoft Intune
 Use the [!INC[wit_firstref](../Token/wit_firstref_md.md)]**SharePoint Online** conditional access policy to manage access to OneDrive for Business files located on SharePoint online, based on conditions you specify.
 
 When a targeted user attempts to connect to a file using a supported app such as OneDrive on their device, the following evaluation occurs:

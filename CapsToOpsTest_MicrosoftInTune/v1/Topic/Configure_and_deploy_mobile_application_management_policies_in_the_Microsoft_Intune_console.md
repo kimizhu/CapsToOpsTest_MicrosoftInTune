@@ -1,14 +1,3 @@
----
-description: na
-search: na
-title: Configure and deploy mobile application management policies in the Microsoft Intune console
-ms.service: microsoft-intune
-ms.tgt_pltfrm: na
-ms.topic: article
-ms.date: 2015-11-17
-ms.author: dbdc710f437843008017318979c6adba
----
-# Configure and deploy mobile application management policies in the Microsoft Intune console
 Mobile application management policies in [!INC[wit_firstref](../Token/wit_firstref_md.md)] let you modify the functionality of apps that you deploy to help bring them into line with your company compliance and security policies. For example, you can restrict cut, copy and paste operations within a managed app, or configure an app to open all web links inside a managed browser.
 
 Mobile application management policies support:

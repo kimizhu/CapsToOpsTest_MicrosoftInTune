@@ -1,14 +1,3 @@
----
-description: na
-search: na
-title: Help users connect to their work using VPN profiles with Microsoft Intune
-ms.service: microsoft-intune
-ms.tgt_pltfrm: na
-ms.topic: article
-ms.date: 2015-11-17
-ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
----
-# Help users connect to their work using VPN profiles with Microsoft Intune
 <?xml version="1.0" encoding="utf-8"?>
 <developerWalkthroughDocument xmlns="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ddue.schemas.microsoft.com/authoring/2003/5 http://dduestorage.blob.core.windows.net/ddueschema/developer.xsd">
   <introduction>

@@ -1,14 +1,3 @@
----
-description: na
-search: na
-title: Manage app access to Office 365 services
-ms.service: na
-ms.tgt_pltfrm: na
-ms.topic: article
-ms.date: na
-ms.author: fb8a7802-3b27-41b8-82f3-31bfdcf49ff2
----
-# Manage app access to Office 365 services
 Insert introduction here.
 
 ## How app access can protect your data

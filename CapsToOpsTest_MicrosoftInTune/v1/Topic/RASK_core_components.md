@@ -1,14 +1,3 @@
----
-description: na
-search: na
-title: RASK core components
-ms.service: na
-ms.tgt_pltfrm: na
-ms.topic: article
-ms.date: na
-ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
----
-# RASK core components
 RASK is organized into 3 core components: Rollout Phases, Readiness Focus Areas, and the Deployment Readiness Report.  Together, these components create a framework designed for maximum flexibility and easy customization to reflect the unique characteristics of your organization and be relevant to deployments of almost any size or complexity. This adaptable framework allows for easy navigation between phases to support good visibility of what's ahead or what you may have missed if you've discovered RASK after your deployment is already underway.
 
 ## RASK rollout phases

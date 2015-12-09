@@ -1,14 +1,3 @@
----
-description: na
-search: na
-title: Manage email access with Microsoft Intune
-ms.service: microsoft-intune
-ms.tgt_pltfrm: na
-ms.topic: article
-ms.date: 2015-11-09
-ms.author: dbdc710f437843008017318979c6adba
----
-# Manage email access with Microsoft Intune
 Use the [!INC[wit_firstref](../Token/wit_firstref_md.md)]**conditional access policies** for Exchange to manage access to Exchange email based on conditions you specify.
 
 You can manage access to:

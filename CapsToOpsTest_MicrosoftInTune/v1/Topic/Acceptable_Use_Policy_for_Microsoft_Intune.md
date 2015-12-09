@@ -1,14 +1,3 @@
----
-description: na
-search: na
-title: Acceptable Use Policy for Microsoft Intune
-ms.service: microsoft-intune
-ms.tgt_pltfrm: na
-ms.topic: article
-ms.date: 4/30/2015 8:00:00 AM
-ms.author: dbdc710f437843008017318979c6adba
----
-# Acceptable Use Policy for Microsoft Intune
 This Acceptable Use Policy for [!INC[wit_firstref](../Token/wit_firstref_md.md)] (“Policy”) identifies activities that you and your organization are prohibited from engaging in when using [!INC[wit_nextref](../Token/wit_nextref_md.md)] or any subsequent release of [!INC[wit_nextref](../Token/wit_nextref_md.md)] ("Service") which link to this Policy.
 
 Please report violations of this Policy to [Intune Support](http://go.microsoft.com/fwlink/?LinkID=242283). When reporting by email, please include the words "Acceptable Use Policy" in the subject.

@@ -1,14 +1,3 @@
----
-description: na
-search: na
-title: Keep Windows PCs up to date with software updates in Microsoft Intune
-ms.service: microsoft-intune
-ms.tgt_pltfrm: na
-ms.topic: article
-ms.date: 2015-08-31
-ms.author: dbdc710f437843008017318979c6adba
----
-# Keep Windows PCs up to date with software updates in Microsoft Intune
 [!INC[wit_firstref](../Token/wit_firstref_md.md)] can help you to secure your managed computers in a number of ways, including the management of software updates that keep your computers up to date by ensuring the latest patches and software updates are quickly installed.
 
 If you have not yet installed the [!INC[wit_firstref](../Token/wit_firstref_md.md)] client on your computers, see [Install the Windows PC client with Microsoft Intune](../Topic/Install_the_Windows_PC_client_with_Microsoft_Intune.md).

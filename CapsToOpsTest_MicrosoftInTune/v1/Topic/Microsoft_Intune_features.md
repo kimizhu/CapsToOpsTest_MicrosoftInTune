@@ -1,14 +1,3 @@
----
-description: na
-search: na
-title: Microsoft Intune features
-ms.service: na
-ms.tgt_pltfrm: na
-ms.topic: article
-ms.date: 4/24/2015 8:00:00 AM
-ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
----
-# Microsoft Intune features
 [!INC[wit_firstref](../Token/wit_firstref_md.md)] provides a cloud-based service that can help your business protect and manage devices. Because it is cloud-based, it can be administered from any Silverlight-enabled web browser. [!INC[wit_nextref](../Token/wit_nextref_md.md)] can manage:
 
 - **Mobile devices** (including phones and tablets running Android, iOS, Windows Phone and Windows RT operating systems). Computers running Windows 8.1 can be managed as mobile devices, or can be managed as computers using the [!INC[wit_nextref](../Token/wit_nextref_md.md)] client software.
