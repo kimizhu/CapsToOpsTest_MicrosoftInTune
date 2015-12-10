@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-11-10
 ms.author: f224bb9b442140c797af0e59b80f0d33
+capscontentguid: 0de5f03a-c288-423b-b9ea-493a39eb715a
 ---
 # Using your Windows device with Intune
 Use these steps  for tasks that you need to do on your Windows device or computer when your company is using Microsoft Intune:

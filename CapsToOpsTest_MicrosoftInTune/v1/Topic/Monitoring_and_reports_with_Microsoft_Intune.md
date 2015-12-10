@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-08-01
 ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
+capscontentguid: 0f7dc155-cb8e-477b-ba02-2623194a9575
 ---
 # Monitoring and reports with Microsoft Intune
 As an IT Administrator, you want to monitor the status of devices in your organization. [!INC[wit_firstref](../Token/wit_firstref_md.md)] provides two ways that you can monitor these devices, as well as software license status and actions that affect devices (such as wiping a device).

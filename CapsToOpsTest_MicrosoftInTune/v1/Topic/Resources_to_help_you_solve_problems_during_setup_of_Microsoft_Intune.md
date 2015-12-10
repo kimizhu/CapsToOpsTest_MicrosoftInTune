@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 5/18/2015 8:00:00 AM
 ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
+capscontentguid: 6865f1fb-c2c1-47af-83f5-5704e7210a49
 ---
 # Resources to help you solve problems during setup of Microsoft Intune
 Because [!INC[wit_firstref](../Token/wit_firstref_md.md)] is a cloud service, there should be little need to repair or troubleshoot operational issues. When you experience problems in accessing the service, the following sections can help you identify next steps to take.

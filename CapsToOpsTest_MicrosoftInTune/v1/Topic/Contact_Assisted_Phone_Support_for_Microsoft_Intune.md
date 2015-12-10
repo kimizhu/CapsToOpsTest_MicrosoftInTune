@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 4/30/2015 8:00:00 AM
 ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
+capscontentguid: 01c096eb-088b-4d2b-a1fa-dce6cdb12294
 ---
 # Contact Assisted Phone Support for Microsoft Intune
 

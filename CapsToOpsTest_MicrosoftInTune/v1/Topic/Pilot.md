@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: na
 ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
+capscontentguid: 14e55841-37f1-472c-9678-a1ba847cb331
 ---
 # Pilot
 The pilot phase is an opportunity to test the technical implementation, communication plan, and training and support plans in a small production environment.

@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-09-12
 ms.author: f224bb9b442140c797af0e59b80f0d33
+capscontentguid: a3ab3bcc-ac45-4df3-88cc-5eb2ba5c3aed
 ---
 # What Happens if You Remove a Personal Device Using the Company Portal
 <?xml version="1.0" encoding="utf-8"?>

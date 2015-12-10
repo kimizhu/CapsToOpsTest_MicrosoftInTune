@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-11-17
 ms.author: f224bb9b442140c797af0e59b80f0d33
+capscontentguid: e9c349c8-51ae-4d73-b74a-6173728a520b
 ---
 # Prepare Android apps for mobile application management with the Microsoft Intune App Wrapping Tool
 Use the **Microsoft Intune App Wrapping Tool for Android** to modify the behavior of your in-house Android apps to let you configure features of the app without modifying the code of the app itself.

@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 5/18/2015 8:00:00 AM
 ms.author: f224bb9b442140c797af0e59b80f0d33
+capscontentguid: 523caa6b-d792-4bb6-bddb-24b2479932d8
 ---
 # Company Portal Frequently Asked Questions
 

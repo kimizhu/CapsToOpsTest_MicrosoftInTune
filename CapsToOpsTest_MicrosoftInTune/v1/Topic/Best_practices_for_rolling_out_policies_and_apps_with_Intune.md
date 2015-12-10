@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: na
 ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
+capscontentguid: e76c71f4-1526-4d10-b5ff-d977d05577a4
 ---
 # Best practices for rolling out policies and apps with Intune
 This content is designed to help you introduce [!INC[wit_firstref](../Token/wit_firstref_md.md)] policies, and applications distributed by [!INC[wit_nextref](../Token/wit_nextref_md.md)], to your organization. It includes specific information about approaches to policy and application rollout, as well as general recommendations about preparing your organization for new software and services for successful deployment,  rapid adoption, and support preparedness.

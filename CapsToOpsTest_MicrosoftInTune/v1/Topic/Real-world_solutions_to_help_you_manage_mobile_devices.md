@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-08-01
 ms.author: d4484712-0a03-4345-bdeb-64372a73012b
+capscontentguid: 2aea9452-dca8-465f-9092-a257b4233c74
 ---
 # Real-world solutions to help you manage mobile devices
 ![](../Image/WIT_Nav_OverviewGray.png)![](../Image/WIT_Nav_GetStartedGray.png)![](../Image/WIT_Nav_EnrollDevicesGray.png)![](../Image/WIT_Nav_ConfigureDevicesGray.png)![](../Image/WIT_Nav_DeployAppsGray.png)![](../Image/WIT_Nav_ProtectResourcesGray.png)![](../Image/WIT_Nav_RetireDataDevicesGray.png)![](../Image/WIT_Nav_TroubleshootingGray.png)![](../Image/WIT_Nav_RealworldSolutions.png)![](../Image/WIT_Nav_TechnicalReferenceGray.png)

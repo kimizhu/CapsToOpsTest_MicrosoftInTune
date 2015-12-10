@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 4/30/2015 8:00:00 AM
 ms.author: f224bb9b442140c797af0e59b80f0d33
+capscontentguid: 98034875-cd3a-4367-a8d7-c5d4a438d496
 ---
 # How to set the period before your Android device is locked
 To reconnect to your work, you’ll need to set the password timeout on your device by following these instructions:

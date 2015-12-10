@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-11-17
 ms.author: dbdc710f437843008017318979c6adba
+capscontentguid: ab46be6c-ab73-4c99-8492-66d1dd418293
 ---
 # iOS configuration policy settings in Microsoft Intune
 <?xml version="1.0" encoding="utf-8"?>

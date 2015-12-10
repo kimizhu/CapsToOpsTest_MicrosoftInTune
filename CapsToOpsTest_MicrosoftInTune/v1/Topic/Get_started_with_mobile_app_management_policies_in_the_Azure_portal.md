@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-11-17
 ms.author: fb8a7802-3b27-41b8-82f3-31bfdcf49ff2
+capscontentguid: 7e6a85e7-e007-41b6-9034-64d77f547b87
 ---
 # Get started with mobile app management policies in the Azure portal
 This topic tells you what you need to get started creating mobile app management policies (MAM) in the Azure portal.

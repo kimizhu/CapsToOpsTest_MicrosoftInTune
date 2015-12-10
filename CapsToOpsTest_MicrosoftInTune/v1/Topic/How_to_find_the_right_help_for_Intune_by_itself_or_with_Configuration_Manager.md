@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-09-17
 ms.author: dbdc710f437843008017318979c6adba
+capscontentguid: fca3886a-51f5-4f67-88cf-a9844bba2923
 ---
 # How to find the right help for Intune by itself or with Configuration Manager
 When you work with [!INC[wit_firstref](../Token/wit_firstref_md.md)] by itself, you'll find all the information you need in this documentation library. However, if you've decided to use [!INC[wit_nextref](../Token/wit_nextref_md.md)] and [!INC[cm5long](../Token/cm5long_md.md)] together (what's known as a 'hybrid' scenario), most operations that you used to perform in the [!INC[wit_nextref](../Token/wit_nextref_md.md)] admin console will now need to be done in the [!INC[cmshort](../Token/cmshort_md.md)] console instead.

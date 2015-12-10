@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: get-started-article
 ms.date: 2015-12-02
 ms.author: d4484712-0a03-4345-bdeb-64372a73012b
+capscontentguid: fab51ee0-638d-4dd4-8d8f-1f263bc11e5c
 ---
 # What&#39;s new in Microsoft Intune
 

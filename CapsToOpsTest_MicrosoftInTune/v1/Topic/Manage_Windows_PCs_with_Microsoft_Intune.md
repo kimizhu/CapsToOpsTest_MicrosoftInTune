@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-08-31
 ms.author: dbdc710f437843008017318979c6adba
+capscontentguid: 3b8d22fe-c318-4796-b760-44f1ccf34312
 ---
 # Manage Windows PCs with Microsoft Intune
 In addition to managing mobile devices, you can also use [!INC[wit_firstref](../Token/wit_firstref_md.md)] to manage computers running supported operating systems using the [!INC[wit_nextref](../Token/wit_nextref_md.md)] computer client software. The [hardware and software requirements](https://technet.microsoft.com/library/dn646975.aspx)    to run the computer client are  minimal --basically any system capable of running Windows Vista or later is supported.  The client software can also be easily installed on either domain-joined computers (in any domain) or non-domain-joined computers.

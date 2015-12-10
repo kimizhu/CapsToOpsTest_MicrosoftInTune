@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: get-started-article
 ms.date: 2015-10-24
 ms.author: f224bb9b442140c797af0e59b80f0d33
+capscontentguid: 48914533-f138-4dc0-8b93-4cea3ac61f7b
 ---
 # What to tell your end users about using Microsoft Intune
 <?xml version="1.0" encoding="utf-8"?>

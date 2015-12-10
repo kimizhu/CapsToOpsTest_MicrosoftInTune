@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-11-17
 ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
+capscontentguid: abc57093-7351-408f-9f41-a30877f96f73
 ---
 # Help users connect to their work using VPN profiles with Microsoft Intune
 <?xml version="1.0" encoding="utf-8"?>

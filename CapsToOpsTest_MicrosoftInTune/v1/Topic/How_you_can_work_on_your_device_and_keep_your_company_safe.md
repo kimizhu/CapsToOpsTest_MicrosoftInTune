@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: na
 ms.author: dbdc710f437843008017318979c6adba
+capscontentguid: 10411400-d177-4526-8928-e2f356986a64
 ---
 # How you can work on your device and keep your company safe
 <?xml version="1.0" encoding="UTF-8"?>

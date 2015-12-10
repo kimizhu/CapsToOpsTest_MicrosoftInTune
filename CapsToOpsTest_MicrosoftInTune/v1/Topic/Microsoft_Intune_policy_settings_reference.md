@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-09-01
 ms.author: dbdc710f437843008017318979c6adba
+capscontentguid: 59e512be-5950-4ce5-8c00-fc3631ba2a42
 ---
 # Microsoft Intune policy settings reference
 Use the information in this section as a reference to help you understand the many settings and configurations you can create in [!INC[wit_firstref](../Token/wit_firstref_md.md)] configuration and custom policies.

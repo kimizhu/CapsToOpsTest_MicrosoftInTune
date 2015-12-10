@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-08-31
 ms.author: dbdc710f437843008017318979c6adba
+capscontentguid: 64ba8e58-fab1-4480-a440-164268810138
 ---
 # Keep Windows PCs up to date with software updates in Microsoft Intune
 [!INC[wit_firstref](../Token/wit_firstref_md.md)] can help you to secure your managed computers in a number of ways, including the management of software updates that keep your computers up to date by ensuring the latest patches and software updates are quickly installed.
