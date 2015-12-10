@@ -81,9 +81,9 @@ As outlined earlier , the SDK requires changes to the app's source code to enabl
 | android.provider.DocumentsProvider | MAMDocumentsProvider |
 | android.preference.PreferenceActivity | MAMPreferenceActivity |
 
-    *It is only necessary to replace Binder with MAMBinder if the Binder is not generated from an AIDL interface.
+*It is only necessary to replace Binder with MAMBinder if the Binder is not generated from an AIDL interface.
 
-    **Microsoft.Intune.MAM.SDK.Support.v4.jar**:
+**Microsoft.Intune.MAM.SDK.Support.v4.jar**:
 
 | Android Class	Intune MAM | SDK Replacement |
 |--|--|
@@ -93,7 +93,7 @@ As outlined earlier , the SDK requires changes to the app's source code to enabl
 | android.support.v4.app.TaskStackBuilder | MAMTaskStackBuilder
 | android.support.v4.content.FileProvider | MAMFileProvider
     
-    **Microsoft.Intune.MAM.SDK.Support.v7.jar**:
+**Microsoft.Intune.MAM.SDK.Support.v7.jar**:
 
 |Android Class | Intune MAM SDK Replacement |
 |--|--|
