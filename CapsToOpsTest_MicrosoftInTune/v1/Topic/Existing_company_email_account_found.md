@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 5/19/2015 8:00:00 AM
 ms.author: f224bb9b442140c797af0e59b80f0d33
+capscontentguid: 74c51f7b-7bd8-45cf-99bd-02d1972267cb
 ---
 # Existing company email account found
 You already have a company email account. To continue to connect to your company email, you’ll need to take the following steps to enable your IT admin to properly set up and manage your account:

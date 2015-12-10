@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-10-15
 ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
+capscontentguid: 99fb6db6-21c5-46cd-980d-50f063ab8ab8
 ---
 # Troubleshoot policies in Microsoft Intune
 

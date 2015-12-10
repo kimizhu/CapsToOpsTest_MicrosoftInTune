@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-11-17
 ms.author: dbdc710f437843008017318979c6adba
+capscontentguid: 6fbf0805-1144-4e08-bafd-4f181d932bf2
 ---
 # Retire apps using Microsoft Intune
 [!INC[wit_firstref](../Token/wit_firstref_md.md)] can help you retire apps. Use the information in this topic to understand how you can uninstall an ap when it is no longer required.

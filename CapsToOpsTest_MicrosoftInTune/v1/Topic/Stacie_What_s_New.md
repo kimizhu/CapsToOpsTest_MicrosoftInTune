@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: na
 ms.author: na
+capscontentguid: 280c1dca-e7ae-45b2-baf6-e2179b0c92f2
 ---
 # Stacie What&#39;s New
 

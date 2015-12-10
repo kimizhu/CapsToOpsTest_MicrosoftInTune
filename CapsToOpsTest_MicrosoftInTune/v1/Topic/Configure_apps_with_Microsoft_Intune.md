@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-11-17
 ms.author: dbdc710f437843008017318979c6adba
+capscontentguid: f9a1fe51-7fff-46d2-a2e3-cbd21c67d76d
 ---
 # Configure apps with Microsoft Intune
 [!INC[wit_firstref](../Token/wit_firstref_md.md)] gives you tools that help you manage, configure, and protect company data in your apps.

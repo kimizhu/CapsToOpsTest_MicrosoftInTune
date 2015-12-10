@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: na
 ms.author: dbdc710f437843008017318979c6adba
+capscontentguid: c7113c41-f32d-4bfc-b061-520461e18f8a
 ---
 # Using a Product Key to Set Up a Customer Account
 

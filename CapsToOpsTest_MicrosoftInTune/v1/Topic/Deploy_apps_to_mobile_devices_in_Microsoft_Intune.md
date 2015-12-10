@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-11-17
 ms.author: dbdc710f437843008017318979c6adba
+capscontentguid: 6da30550-9e8e-4333-b9b3-83928de3807a
 ---
 # Deploy apps to mobile devices in Microsoft Intune
 Now that you've [learned the basics](https://technet.microsoft.com/library/dn646955.aspx) about [!INC[wit_firstref](../Token/wit_firstref_md.md)] app deployment, you'll now learn how to configure and deploy apps to devices enrolled with [!INC[wit_nextref](../Token/wit_nextref_md.md)]. This generally involves three steps:

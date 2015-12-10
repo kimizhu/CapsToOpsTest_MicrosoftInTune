@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 4/30/2015 8:00:00 AM
 ms.author: 79a318a2-4407-40ec-b4b0-435e7bd1296a
+capscontentguid: 5e3d711a-0b96-4fa4-bd72-5e29f87a81b1
 ---
 # Cancel my subscription for Microsoft Intune
 You can cancel your [!INC[wit_firstref](../Token/wit_firstref_md.md)] subscription:

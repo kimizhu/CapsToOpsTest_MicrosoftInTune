@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-11-29
 ms.author: dbdc710f437843008017318979c6adba
+capscontentguid: eb912c73-54d2-4d78-ac34-3cbe825804c7
 ---
 # Common Windows PC management tasks with the Microsoft Intune computer client
 Review the information in this topic to learn how to manage your computers that run the [!INC[wit_firstref](../Token/wit_firstref_md.md)] client. If you have not yet installed the client on your computers, see [Install the Windows PC client with Microsoft Intune](../Topic/Install_the_Windows_PC_client_with_Microsoft_Intune.md).

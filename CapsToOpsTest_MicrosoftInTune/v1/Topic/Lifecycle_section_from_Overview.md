@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: na
 ms.author: f93f38ed286b4cbb94b9b427a0abc63e
+capscontentguid: ae4b6d14-2c7c-4544-abe4-aca324cdecd0
 ---
 # Lifecycle section from Overview
 Insert introduction here.

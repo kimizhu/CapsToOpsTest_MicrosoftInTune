@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-11-16
 ms.author: dbdc710f437843008017318979c6adba
+capscontentguid: b05bbc3f-6256-490d-901f-3746203ca160
 ---
 # Custom URI settings for Windows 10 devices
 This topic lists the settings that you can configure for Windows 10 and Windows 10 Mobile devices in a [!INC[wit_firstref](../Token/wit_firstref_md.md)]**Windows 10 Custom Policy**.

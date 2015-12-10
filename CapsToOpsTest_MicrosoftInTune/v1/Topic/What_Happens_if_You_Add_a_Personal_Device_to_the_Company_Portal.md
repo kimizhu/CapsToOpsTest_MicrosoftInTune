@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-09-10
 ms.author: f224bb9b442140c797af0e59b80f0d33
+capscontentguid: 5703d18a-8b5b-4f47-a393-c2cc6cf7a614
 ---
 # What Happens if You Add a Personal Device to the Company Portal
 If you add a device to the company portal, you can easily find company apps to install, see other devices you’ve added, and find contact information for your IT administrator. You are also giving your IT administrator permission to manage your device to help protect the company information on the device. Each device is added a little differently, some from settings on the device and others by downloading an app from the device’s app store.

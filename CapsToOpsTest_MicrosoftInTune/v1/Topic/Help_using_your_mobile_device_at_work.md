@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 4/20/2015 8:00:00 AM
 ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
+capscontentguid: d5c9c7cf-0130-4df4-81d6-aec90952ce36
 ---
 # Help using your mobile device at work
 These help topics will help you use your device in your corporate environment, or remove your device if you’d like to.

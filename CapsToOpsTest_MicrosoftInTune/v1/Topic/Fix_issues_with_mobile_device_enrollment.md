@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-09-02
 ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
+capscontentguid: 7e5979ab-fc4c-4c7b-a60c-15317496dfa2
 ---
 # Fix issues with mobile device enrollment
 This information has been moved. See the topic that matches the type of device you're using:

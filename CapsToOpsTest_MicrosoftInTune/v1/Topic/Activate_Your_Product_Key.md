@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: na
 ms.author: dbdc710f437843008017318979c6adba
+capscontentguid: 844c2ca8-2721-4f72-b1dd-be9b1da1f220
 ---
 # Activate Your Product Key
 You can use a product key to redeem a subscription or add users to an existing subscription. A product key is a unique 25-character alpha-numeric code that is required to redeem a subscription, access online services, or download software. You can purchase product keys from a Microsoft partner or reseller.

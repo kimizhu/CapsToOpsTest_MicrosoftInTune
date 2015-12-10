@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: get-started-article
 ms.date: 2015-11-30
 ms.author: f224bb9b442140c797af0e59b80f0d33
+capscontentguid: 5d1ac59c-a885-4276-8576-f3cf81c2d268
 ---
 # What to know before setting up Microsoft Intune
 <?xml version="1.0" encoding="utf-8"?>

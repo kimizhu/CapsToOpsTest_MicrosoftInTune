@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-11-04
 ms.author: dbdc710f437843008017318979c6adba
+capscontentguid: 0775107a-6662-41c8-9404-be14bbb599f3
 ---
 # Manage device compliance policies for Microsoft Intune
 <?xml version="1.0" encoding="utf-8"?>

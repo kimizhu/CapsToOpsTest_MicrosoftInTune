@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: get-started-article
 ms.date: 2015-11-17
 ms.author: f224bb9b442140c797af0e59b80f0d33
+capscontentguid: 074de65b-84a5-4a01-a824-18ffd838eab0
 ---
 # Network infrastructure requirements for Microsoft Intune
 <?xml version="1.0" encoding="utf-8"?>

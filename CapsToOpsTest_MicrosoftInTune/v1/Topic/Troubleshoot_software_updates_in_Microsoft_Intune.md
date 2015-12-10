@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: na
 ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
+capscontentguid: d17b70f4-17b4-4d89-88fd-70fa4f34fbea
 ---
 # Troubleshoot software updates in Microsoft Intune
 

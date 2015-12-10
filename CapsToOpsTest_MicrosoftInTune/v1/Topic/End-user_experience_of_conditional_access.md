@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: na
 ms.author: 70da87b7-2f4c-4e11-98d3-a3b38e8154d2
+capscontentguid: 3e186dd2-e17c-40d8-b160-48038b2c6593
 ---
 # End-user experience of conditional access
 This topic describes the end-user experience after conditional access is enabled and an end user tries to access email on their mobile device.
