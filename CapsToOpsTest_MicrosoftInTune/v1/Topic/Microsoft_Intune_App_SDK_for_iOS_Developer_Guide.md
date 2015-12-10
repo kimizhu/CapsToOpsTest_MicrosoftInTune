@@ -1,3 +1,16 @@
+---
+description: na
+search: na
+title: Microsoft Intune App SDK for iOS Developer Guide
+ms.service: na
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.date: na
+ms.author: f459630d47d34d12a44295cd5237dc68
+---
+# Microsoft Intune App SDK for iOS Developer Guide
+***Note**:  You may wish to first read the __remove by Jason Zhu__, which explains how to prepare for integration on each supported platform.* 
+
 The Microsoft Intune App SDK for iOS allows you to incorporate Intune Mobile App Management (MAM) into your iOS app. A MAM-enabled application is one integrated with the Intune App SDK, and allows IT administrators to deploy policies to your mobile app when the app is actively managed.
 
 # What’s in the SDK
@@ -94,6 +107,8 @@ Complete the steps below to enable the Intune App SDK:
 9. If the app defines URL schemes in its `info.plist file`, add another scheme, with a `-intunemam` suffix, for each URL scheme.
 
 10. If the app has app groups defined in its entitlements, add these groups to the `IntuneMAMSettings` dictionary under the `AppGroupIdentitifiers` key as an array of strings.
+
+11. Link your mobile application to the ADAL library. The ADAL library for Objective C is __remove by Jason Zhu__.
 
     **Note**: The Intune App SDK has been tested against the ADAL broker branch code from 6/19/2015. Please ensure that you are linking with the latest/working version of the ADAL library.
 

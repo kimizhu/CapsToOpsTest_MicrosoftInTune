@@ -1,14 +1,14 @@
 ---
 description: na
 search: na
-title: What's%20new%20in%20Microsoft%20Intune
+title: What&#39;s new in Microsoft Intune
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: get-started-article
 ms.date: 2015-12-02
 ms.author: d4484712-0a03-4345-bdeb-64372a73012b
 ---
-# What's new in Microsoft Intune
+# What&#39;s new in Microsoft Intune
 
 ## What’s new in Intune -- November 2015
 

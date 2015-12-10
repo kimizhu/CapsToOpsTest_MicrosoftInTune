@@ -1,3 +1,14 @@
+---
+description: na
+search: na
+title: How Microsoft Intune helps you comply with security and privacy requirements
+ms.service: na
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.date: na
+ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
+---
+# How Microsoft Intune helps you comply with security and privacy requirements
 When you manage devices owned by your company or that your users bring to work, one of your first concerns is your ability to keep those devices and their data secure. You also want to respect the privacy of your users who want the flexibility of bringing their devices to work, but not at the cost of losing control of their own data. [!INC[wit_nextref](../Token/wit_nextref_md.md)] has safeguards in place to help you provide that kind of environment for your company and your employees.
 
 In this topic you'll learn about Microsoft's documentation of [!INC[wit_nextref](../Token/wit_nextref_md.md)]'s security, privacy, and compliance credentials. You'll also read examples of how companies worldwide use [!INC[wit_nextref](../Token/wit_nextref_md.md)] to create a secure and private data environment.
@@ -16,6 +27,8 @@ Microsoft has several resources available to you so that you can learn how [!INC
 - Microsoft Trust Center
 
    - [Security](http://www.microsoft.com/en-us/server-cloud/products/intune-trust-center/security.aspx) contains detailed information on things like how your data is protected in the Microsoft Cloud.
+
+   - __remove by Jason Zhu__
 
    - [Compliance](http://www.microsoft.com/en-us/server-cloud/products/intune-trust-center/compliance.aspx) provides information about [!INC[wit_nextref](../Token/wit_nextref_md.md)]'s certifications.
 
