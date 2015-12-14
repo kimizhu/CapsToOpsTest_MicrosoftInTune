@@ -1,13 +1,14 @@
 ---
 description: na
+keywords: na
+pagetitle: Reference for the Microsoft Intune administrative consoles
 search: na
-title: Reference for the Microsoft Intune administrative consoles
-ms.service: na
+ms.author: f224bb9b442140c797af0e59b80f0d33
+ms.date: 6/22/2015 12:00:00 PM
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: 6/22/2015 12:00:00 PM
-ms.author: f224bb9b442140c797af0e59b80f0d33
-capscontentguid: 345b5264-ab29-4c46-b122-e986fa320c9b
+ms.assetid: 345b5264-ab29-4c46-b122-e986fa320c9b
+robots: noindex,nofollow
 ---
 # Reference for the Microsoft Intune administrative consoles
 <?xml version="1.0" encoding="utf-8"?>

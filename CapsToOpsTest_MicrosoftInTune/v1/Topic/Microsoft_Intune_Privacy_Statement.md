@@ -1,13 +1,14 @@
 ---
 description: na
+keywords: na
+pagetitle: Microsoft Intune Privacy Statement
 search: na
-title: Microsoft Intune Privacy Statement
+ms.author: dbdc710f437843008017318979c6adba
+ms.date: 4/30/2015 8:00:00 AM
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: 4/30/2015 8:00:00 AM
-ms.author: dbdc710f437843008017318979c6adba
-capscontentguid: ca2f13b7-9a88-4ede-b4ed-589500489953
+ms.assetid: ca2f13b7-9a88-4ede-b4ed-589500489953
 ---
 # Microsoft Intune Privacy Statement
 For the latest [!INC[wit_firstref](../Token/wit_firstref_md.md)] Privacy Statement, see [this page](http://www.microsoft.com/privacystatement/WindowsIntune/Default.aspx).

@@ -1,13 +1,13 @@
 ---
 description: na
+keywords: na
+pagetitle: Manage app access to Office 365 services
 search: na
-title: Manage app access to Office 365 services
-ms.service: na
+ms.author: fb8a7802-3b27-41b8-82f3-31bfdcf49ff2
+ms.date: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: na
-ms.author: fb8a7802-3b27-41b8-82f3-31bfdcf49ff2
-capscontentguid: 2e7d757f-5423-4b2b-a371-d8da799fc11e
+ms.assetid: 2e7d757f-5423-4b2b-a371-d8da799fc11e
 ---
 # Manage app access to Office 365 services
 Insert introduction here.

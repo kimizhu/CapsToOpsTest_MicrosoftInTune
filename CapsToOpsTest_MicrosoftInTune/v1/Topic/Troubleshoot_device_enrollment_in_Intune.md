@@ -1,13 +1,13 @@
 ---
 description: na
+keywords: na
+pagetitle: Troubleshoot device enrollment in Intune
 search: na
-title: Troubleshoot device enrollment in Intune
-ms.service: na
+ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
+ms.date: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: na
-ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
-capscontentguid: 6982ba0e-90ff-4fc4-9594-55797e504b62
+ms.assetid: 6982ba0e-90ff-4fc4-9594-55797e504b62
 ---
 # Troubleshoot device enrollment in Intune
 

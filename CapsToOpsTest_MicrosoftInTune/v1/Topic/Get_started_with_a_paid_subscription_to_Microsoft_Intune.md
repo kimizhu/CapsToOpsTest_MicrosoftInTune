@@ -1,13 +1,14 @@
 ---
 description: na
+keywords: na
+pagetitle: Get started with a paid subscription to Microsoft Intune
 search: na
-title: Get started with a paid subscription to Microsoft Intune
+ms.author: f224bb9b442140c797af0e59b80f0d33
+ms.date: 2015-12-01
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: get-started-article
-ms.date: 2015-12-01
-ms.author: f224bb9b442140c797af0e59b80f0d33
-capscontentguid: d158503c-1276-422b-ab81-5f66c1cd7e7a
+ms.assetid: d158503c-1276-422b-ab81-5f66c1cd7e7a
 ---
 # Get started with a paid subscription to Microsoft Intune
 <?xml version="1.0" encoding="utf-8"?>

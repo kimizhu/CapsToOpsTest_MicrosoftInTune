@@ -1,13 +1,13 @@
 ---
 description: na
+keywords: na
+pagetitle: Microsoft Intune App SDK Frequently Asked Questions
 search: na
-title: Microsoft Intune App SDK Frequently Asked Questions
-ms.service: na
+ms.author: f459630d47d34d12a44295cd5237dc68
+ms.date: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: na
-ms.author: f459630d47d34d12a44295cd5237dc68
-capscontentguid: 133d81c4-e550-404a-980e-64f6e843c649
+ms.assetid: 133d81c4-e550-404a-980e-64f6e843c649
 ---
 # Microsoft Intune App SDK Frequently Asked Questions
 Here are some frequently asked questions regarding the Intune App SDK.

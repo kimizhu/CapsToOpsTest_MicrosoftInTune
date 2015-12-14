@@ -1,13 +1,13 @@
 ---
 description: na
+keywords: na
+pagetitle: Proof of concept
 search: na
-title: Proof of concept
-ms.service: na
+ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
+ms.date: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: na
-ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
-capscontentguid: f3c97380-23ca-40da-acbc-78108507cad7
+ms.assetid: f3c97380-23ca-40da-acbc-78108507cad7
 ---
 # Proof of concept
 The proof of concept phase should focus on determining the feasibility of your deployment to meet your company's requirements. This phase includes a simple topology designed to validate specific technical scenarios.  The deployment should be in a test environment and should not host any production users.

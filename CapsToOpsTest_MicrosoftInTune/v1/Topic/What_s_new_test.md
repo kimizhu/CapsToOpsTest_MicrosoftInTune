@@ -1,13 +1,13 @@
 ---
 description: na
+keywords: na
+pagetitle: What&#39;s new test
 search: na
-title: What&#39;s new test
-ms.service: na
+ms.author: d4484712-0a03-4345-bdeb-64372a73012b
+ms.date: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: na
-ms.author: d4484712-0a03-4345-bdeb-64372a73012b
-capscontentguid: ff2fd922-23c1-4ea3-8dd7-30c1d8335c5b
+ms.assetid: ff2fd922-23c1-4ea3-8dd7-30c1d8335c5b
 ---
 # What&#39;s new test
 

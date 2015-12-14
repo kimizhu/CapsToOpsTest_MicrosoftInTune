@@ -1,13 +1,17 @@
 ---
 description: na
+keywords: na
+pagetitle: Microsoft Intune App SDK for iOS Developer Guide
 search: na
-title: Microsoft Intune App SDK for iOS Developer Guide
-ms.service: na
+ms.author: f459630d47d34d12a44295cd5237dc68
+ms.date: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: na
-ms.author: f459630d47d34d12a44295cd5237dc68
-capscontentguid: 8e280d23-2a25-4a84-9bcb-210b30c63c0b
+ms.assetid: 8e280d23-2a25-4a84-9bcb-210b30c63c0b
+topic_type: apiref
+api_type: Assembly
+api_location: ['System.Runtime.dll', 'mscorlib.dll']
+api_name: System.String
 ---
 # Microsoft Intune App SDK for iOS Developer Guide
 ***Note**:  You may wish to first read the __remove by Jason Zhu__, which explains how to prepare for integration on each supported platform.* 
@@ -109,7 +113,7 @@ Complete the steps below to enable the Intune App SDK:
 
 10. If the app has app groups defined in its entitlements, add these groups to the `IntuneMAMSettings` dictionary under the `AppGroupIdentitifiers` key as an array of strings.
 
-11. Link your mobile application to the ADAL library. The ADAL library for Objective C is __remove by Jason Zhu__.
+11. Link your mobile application to the ADAL library. The ADAL library for Objective C is [available on Github](https://github.com/AzureAD/azure-activedirectory-library-for-objc).
 
     **Note**: The Intune App SDK has been tested against the ADAL broker branch code from 6/19/2015. Please ensure that you are linking with the latest/working version of the ADAL library.
 

@@ -1,13 +1,14 @@
 ---
 description: na
+keywords: na
+pagetitle: Troubleshoot Endpoint Protection in Microsoft Intune
 search: na
-title: Troubleshoot Endpoint Protection in Microsoft Intune
+ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
+ms.date: 2015-10-15
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: 2015-10-15
-ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
-capscontentguid: e31df2d2-bb1b-491b-9a71-04e0b18829c1
+ms.assetid: e31df2d2-bb1b-491b-9a71-04e0b18829c1
 ---
 # Troubleshoot Endpoint Protection in Microsoft Intune
 

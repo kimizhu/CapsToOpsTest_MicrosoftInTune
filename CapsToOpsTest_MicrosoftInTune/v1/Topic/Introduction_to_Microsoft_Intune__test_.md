@@ -1,13 +1,14 @@
 ---
 description: na
+keywords: na
+pagetitle: Introduction to Microsoft Intune &lt;test&gt;
 search: na
-title: Introduction to Microsoft Intune &lt;test&gt;
-ms.service: na
+ms.author: 46e42689-2c99-4b8e-ac9f-681223f0298f
+ms.date: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: na
-ms.author: 46e42689-2c99-4b8e-ac9f-681223f0298f
-capscontentguid: 5e2d548b-3858-453b-a31b-3e570d7b6fc8
+ms.assetid: 5e2d548b-3858-453b-a31b-3e570d7b6fc8
+robots: noindex,nofollow
 ---
 # Introduction to Microsoft Intune &lt;test&gt;
 ![](../Image/Nav_Icons/WIT_Tile_W_OverviewHighlight.png)![](../Image/Nav_Icons/WIT_Tile_W_GetStarted.png)![](../Image/Nav_Icons/WIT_Tile_W_EnrollDevices.png)![](../Image/Nav_Icons/WIT_Tile_W_ManageDevices.png)![](../Image/Nav_Icons/WIT_Tile_W_ManageApps.png)![](../Image/Nav_Icons/WIT_Tile_W_ProtectResources.png)![](../Image/Nav_Icons/WIT_Tile_W_RetireData.png)![](../Image/Nav_Icons/WIT_Tile_W_TechnicalReference.png)

@@ -1,13 +1,14 @@
 ---
 description: na
+keywords: na
+pagetitle: Mobile device security policy settings in Microsoft Intune
 search: na
-title: Mobile device security policy settings in Microsoft Intune
+ms.author: dbdc710f437843008017318979c6adba
+ms.date: 2015-10-08
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: 2015-10-08
-ms.author: dbdc710f437843008017318979c6adba
-capscontentguid: e5ab3b76-08af-4893-b294-fb6627fdc4c6
+ms.assetid: e5ab3b76-08af-4893-b294-fb6627fdc4c6
 ---
 # Mobile device security policy settings in Microsoft Intune
 <?xml version="1.0" encoding="utf-8"?>

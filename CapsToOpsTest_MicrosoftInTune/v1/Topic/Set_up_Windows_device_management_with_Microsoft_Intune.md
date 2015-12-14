@@ -1,13 +1,14 @@
 ---
 description: na
+keywords: na
+pagetitle: Set up Windows device management with Microsoft Intune
 search: na
-title: Set up Windows device management with Microsoft Intune
+ms.author: f93f38ed286b4cbb94b9b427a0abc63e
+ms.date: 2015-11-17
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: 2015-11-17
-ms.author: f93f38ed286b4cbb94b9b427a0abc63e
-capscontentguid: 9a18c0fe-9f03-4e84-a4d0-b63821bf5d25
+ms.assetid: 9a18c0fe-9f03-4e84-a4d0-b63821bf5d25
 ---
 # Set up Windows device management with Microsoft Intune
 You can use  [!INC[wit_nextref](../Token/wit_nextref_md.md)] to manage desktops, laptops, and other devices running Windows as mobile devices. You may also want to [Set up Windows Phone management with Microsoft Intune](../Topic/Set_up_Windows_Phone_management_with_Microsoft_Intune.md) or [manage computers with Intune client software](http://technet.microsoft.com/library/dn646959.aspx) using the [!INC[wit_nextref](../Token/wit_nextref_md.md)] client.

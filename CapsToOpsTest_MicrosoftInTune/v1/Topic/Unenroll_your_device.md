@@ -1,13 +1,14 @@
 ---
 description: na
+keywords: na
+pagetitle: Unenroll your device
 search: na
-title: Unenroll your device
+ms.author: f224bb9b442140c797af0e59b80f0d33
+ms.date: 11/21/2014 8:00:00 AM
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: 11/21/2014 8:00:00 AM
-ms.author: f224bb9b442140c797af0e59b80f0d33
-capscontentguid: 0d98b7e1-baac-47e6-b122-d5a453c4db24
+ms.assetid: 0d98b7e1-baac-47e6-b122-d5a453c4db24
 ---
 # Unenroll your device
 You can unenroll (remove) your device from the corporate environment.

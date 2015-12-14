@@ -1,13 +1,13 @@
 ---
 description: na
+keywords: na
+pagetitle: robstack - Understand how Intune service updates affect you
 search: na
-title: robstack - Understand how Intune service updates affect you
-ms.service: na
+ms.author: dbdc710f437843008017318979c6adba
+ms.date: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: na
-ms.author: dbdc710f437843008017318979c6adba
-capscontentguid: 594ee47b-8583-400c-a2ef-5b41715528aa
+ms.assetid: 594ee47b-8583-400c-a2ef-5b41715528aa
 ---
 # robstack - Understand how Intune service updates affect you
 Because [!INC[wit_nextref](../Token/wit_nextref_md.md)] is an online service, Microsoft can update it on a regular basis.

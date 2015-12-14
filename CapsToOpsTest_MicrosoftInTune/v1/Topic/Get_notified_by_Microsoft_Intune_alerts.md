@@ -1,13 +1,14 @@
 ---
 description: na
+keywords: na
+pagetitle: Get notified by Microsoft Intune alerts
 search: na
-title: Get notified by Microsoft Intune alerts
+ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
+ms.date: 2015-09-14
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: 2015-09-14
-ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
-capscontentguid: 396ea714-0433-4bd5-a934-8d0b477f28e4
+ms.assetid: 396ea714-0433-4bd5-a934-8d0b477f28e4
 ---
 # Get notified by Microsoft Intune alerts
 Alerts keep you in touch with what's happening in [!INC[wit_firstref](../Token/wit_firstref_md.md)].

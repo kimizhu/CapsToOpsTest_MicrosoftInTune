@@ -1,13 +1,14 @@
 ---
 description: na
+keywords: na
+pagetitle: Troubleshoot Microsoft Intune
 search: na
-title: Troubleshoot Microsoft Intune
+ms.author: d4484712-0a03-4345-bdeb-64372a73012b
+ms.date: 2015-11-20
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: 2015-11-20
-ms.author: d4484712-0a03-4345-bdeb-64372a73012b
-capscontentguid: c86a4e4a-6b9f-4835-a3d3-61a3f5f4c1ec
+ms.assetid: c86a4e4a-6b9f-4835-a3d3-61a3f5f4c1ec
 ---
 # Troubleshoot Microsoft Intune
 ![](../Image/Nav_Icons/WIT_Tile_W_Overview.png)![](../Image/Nav_Icons/WIT_Tile_W_GetStarted.png)![](../Image/Nav_Icons/WIT_Tile_W_EnrollDevices.png)![](../Image/Nav_Icons/WIT_Tile_W_ManageDevices.png)![](../Image/Nav_Icons/WIT_Tile_W_ManageApps.png)![](../Image/Nav_Icons/WIT_Tile_W_ProtectResources.png)![](../Image/Nav_Icons/WIT_Tile_W_RetireData.png)![](../Image/Nav_Icons/WIT_Tile_W_TechnicalReference.png)![](../Image/Nav_Icons/WIT_Tile_W_TroubleshootingHighlight.png)

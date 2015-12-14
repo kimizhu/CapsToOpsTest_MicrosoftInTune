@@ -1,13 +1,14 @@
 ---
 description: na
+keywords: na
+pagetitle: Android configuration policy settings in Microsoft Intune
 search: na
-title: Android configuration policy settings in Microsoft Intune
+ms.author: dbdc710f437843008017318979c6adba
+ms.date: 2015-10-19
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: 2015-10-19
-ms.author: dbdc710f437843008017318979c6adba
-capscontentguid: 71cc39cf-e726-40fd-8d08-78776e099a4b
+ms.assetid: 71cc39cf-e726-40fd-8d08-78776e099a4b
 ---
 # Android configuration policy settings in Microsoft Intune
 <?xml version="1.0" encoding="utf-8"?>

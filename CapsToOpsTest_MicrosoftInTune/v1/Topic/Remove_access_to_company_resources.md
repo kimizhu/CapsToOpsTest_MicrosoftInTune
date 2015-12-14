@@ -1,13 +1,15 @@
 ---
 description: na
+keywords: na
+pagetitle: Remove access to company resources
 search: na
-title: Remove access to company resources
+ms.author: d4484712-0a03-4345-bdeb-64372a73012b
+ms.date: na
 ms.service: mobile-device-management
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: na
-ms.author: d4484712-0a03-4345-bdeb-64372a73012b
-capscontentguid: f629f53a-811d-45b0-8516-42986bab8fa0
+ms.assetid: f629f53a-811d-45b0-8516-42986bab8fa0
+robots: noindex,nofollow
 ---
 # Remove access to company resources
 Insert introduction here.

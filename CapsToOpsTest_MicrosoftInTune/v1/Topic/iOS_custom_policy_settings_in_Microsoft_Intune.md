@@ -1,13 +1,14 @@
 ---
 description: na
+keywords: na
+pagetitle: iOS custom policy settings in Microsoft Intune
 search: na
-title: iOS custom policy settings in Microsoft Intune
+ms.author: dbdc710f437843008017318979c6adba
+ms.date: 2015-10-08
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: 2015-10-08
-ms.author: dbdc710f437843008017318979c6adba
-capscontentguid: 04e60d5a-3da6-4943-b6ff-e6a331bcbcfa
+ms.assetid: 04e60d5a-3da6-4943-b6ff-e6a331bcbcfa
 ---
 # iOS custom policy settings in Microsoft Intune
 Use the [!INC[wit_firstref](../Token/wit_firstref_md.md)]**iOS custom configuration policy** to deploy settings that you created using the [Apple Configurator tool](https://itunes.apple.com/us/app/apple-configurator/id434433123?mt=12) to iOS devices. This tool lets you create many settings that control the operation of these devices and export them to a configuration profile. You can then import this configuration profile into a [!INC[wit_nextref](../Token/wit_nextref_md.md)] iOS custom policy and deploy the settings to users and devices in your organization.
