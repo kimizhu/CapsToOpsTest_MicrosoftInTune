@@ -8,12 +8,6 @@ ms.date: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 8e280d23-2a25-4a84-9bcb-210b30c63c0b
-topic_type: apiref
-api_type: Assembly
-api_location: 
-  - "System.Runtime.dll"
-  - "mscorlib.dll"
-api_name: System.String
 ---
 # Microsoft Intune App SDK for iOS Developer Guide
 ***Note**:  You may wish to first read the __remove by Jason Zhu__, which explains how to prepare for integration on each supported platform.* 
