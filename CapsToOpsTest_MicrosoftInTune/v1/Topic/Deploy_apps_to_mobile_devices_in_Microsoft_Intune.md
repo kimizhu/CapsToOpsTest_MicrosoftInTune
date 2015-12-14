@@ -11,7 +11,7 @@ ms.topic: article
 ms.assetid: 6da30550-9e8e-4333-b9b3-83928de3807a
 ---
 # Deploy apps to mobile devices in Microsoft Intune
-Now that you've [learned the basics](https://technet.microsoft.com/library/dn646955.aspx) about [!INC[wit_firstref](../Token/wit_firstref_md.md)] app deployment, you'll now learn how to configure and deploy apps to devices enrolled with [!INC[wit_nextref](../Token/wit_nextref_md.md)]. This generally involves three steps:
+Now that you've [learned the basics](https://technet.microsoft.com/library/dn646955.aspx) about [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] app deployment, you'll now learn how to configure and deploy apps to devices enrolled with [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)]. This generally involves three steps:
 
 - [Configure the app](#BKMK_Conf)
 
@@ -122,7 +122,7 @@ In this procedure, you'll deploy the app to selected devices or users.
 |![](../Image/iOS_Required_install.PNG) <br /> <br />|If you deployed the app as required, the user will get a notification that an app is ready to install. For example, in this screenshot, the Work Folders for iOS app was deployed using the **Managed iOS app from the app store** installation type. <br /> <br />|
 
 ## <a name="BKMK_Monitor"></a>Monitor the app
-You can see the apps you manage, and their deployment status in the [!INC[wit_nextref](../Token/wit_nextref_md.md)] console.
+You can see the apps you manage, and their deployment status in the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] console.
 
 ### To view the apps you manage and their status
 In the **Apps** workspace, click the **Apps** node.

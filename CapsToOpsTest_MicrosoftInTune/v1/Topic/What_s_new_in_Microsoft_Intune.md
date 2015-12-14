@@ -52,9 +52,9 @@ The list of [Microsoft apps you can use with Microsoft Intune mobile application
 ### Device management
 
 #### Mac OS X device management
-With [!INC[wit_nextref](../Token/wit_nextref_md.md)], you can now enroll and manage Mac OS X devices. You can do the following with your Mac OS X devices:
+With [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)], you can now enroll and manage Mac OS X devices. You can do the following with your Mac OS X devices:
 
-- Enroll devices to be managed by [!INC[wit_nextref](../Token/wit_nextref_md.md)]. See [Set up iOS and Mac management with Microsoft Intune](../Topic/Set_up_iOS_and_Mac_management_with_Microsoft_Intune.md)
+- Enroll devices to be managed by [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)]. See [Set up iOS and Mac management with Microsoft Intune](../Topic/Set_up_iOS_and_Mac_management_with_Microsoft_Intune.md)
 
 - Control device settings with a general configuration policy. See [Mac OS X configuration policy settings in Microsoft Intune](../Topic/Mac_OS_X_configuration_policy_settings_in_Microsoft_Intune.md)
 
@@ -193,15 +193,15 @@ When managing Windows 10 devices, Intune will be able to create and deploy confi
 
 - **Android**
 
-   All [!INC[wit_nextref](../Token/wit_nextref_md.md)] management features now support Android 6.0 (Marshmallow) as described in this blog post: [Microsoft Intune Provides Day 0 Support for Android Marshmallow](http://blogs.technet.com/b/microsoftintune/archive/2015/10/09/microsoft-intune-to-provide-day-0-support-for-android-marshmallow.aspx).
+   All [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] management features now support Android 6.0 (Marshmallow) as described in this blog post: [Microsoft Intune Provides Day 0 Support for Android Marshmallow](http://blogs.technet.com/b/microsoftintune/archive/2015/10/09/microsoft-intune-to-provide-day-0-support-for-android-marshmallow.aspx).
 
 - **iOS**
 
-   You can no longer create new app deployments to iOS devices running a version earlier than iOS 7.1. Any existing app deployments to devices running an earlier version than iOS 7.1 will continue to work and be managed by [!INC[wit_nextref](../Token/wit_nextref_md.md)].
+   You can no longer create new app deployments to iOS devices running a version earlier than iOS 7.1. Any existing app deployments to devices running an earlier version than iOS 7.1 will continue to work and be managed by [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)].
 
 - **Windows 10**
 
-   [!INC[wit_nextref](../Token/wit_nextref_md.md)] now supports deploying Windows 10 Universal apps using the **Windows app package** software installer type. For details and requirements, see [Plan for app deployment in Microsoft Intune](../Topic/Plan_for_app_deployment_in_Microsoft_Intune.md).
+   [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] now supports deploying Windows 10 Universal apps using the **Windows app package** software installer type. For details and requirements, see [Plan for app deployment in Microsoft Intune](../Topic/Plan_for_app_deployment_in_Microsoft_Intune.md).
 
 #### Changes and updates to Microsoft Company Portal apps
 The following changes have been made to the company portal apps in this release:
@@ -219,14 +219,14 @@ The following changes have been made to the company portal apps in this release:
 
 #### Mobile device and app management updates
 
-- **All [!INC[wit_nextref](../Token/wit_nextref_md.md)] iOS management features now support iOS 9**
+- **All [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] iOS management features now support iOS 9**
    For details about iOS 9 management capabilities, see [this blog post](http://blogs.technet.com/b/microsoftintune/archive/2015/09/09/day-zero-support-for-ios-9-with-intune.aspx).
 
 - **New mobile app configuration policy for iOS**
    Use the new mobile app configuration policy to automatically supply settings that an iOS app might need when it is run. For example, you could supply a network port, or a user name. For details, see [Configure apps with mobile app configuration policies in Microsoft Intune](../Topic/Configure_apps_with_mobile_app_configuration_policies_in_Microsoft_Intune.md).
 
 - **Easier app management for iOS 9 users** 
-   In this release, you can bring already-deployed apps under Intune management for iOS 9 users. For earlier versions of iOS, when you deploy an app and an unmanaged version of the app is already installed on a device, you still have to ask the user to uninstall the app manually before [!INC[wit_nextref](../Token/wit_nextref_md.md)] can install the managed app.
+   In this release, you can bring already-deployed apps under Intune management for iOS 9 users. For earlier versions of iOS, when you deploy an app and an unmanaged version of the app is already installed on a device, you still have to ask the user to uninstall the app manually before [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] can install the managed app.
 
    But starting with this release of Intune, you   can now prompt users of iOS 9 devices to allow Intune to take over management of the app and apply any relevant mobile application management policies.
 
@@ -447,14 +447,14 @@ When end users are installing an app from the Windows Phone Company Portal, they
 |[Windows 10 custom policy settings in Microsoft Intune](../Topic/Windows_10_custom_policy_settings_in_Microsoft_Intune.md) <br /> <br />|This new policy lets you control certain device settings by using OMA-URI settings. <br /> <br />|
 |[Custom URI settings for Windows 10 devices](../Topic/Custom_URI_settings_for_Windows_10_devices.md) <br /> <br />|Contains a list of the OMA-URI settings that you can deploy using a Windows 10 custom policy. <br /> <br />|
 |[Prepare Android apps for mobile application management with the Microsoft Intune App Wrapping Tool](../Topic/Prepare_Android_apps_for_mobile_application_management_with_the_Microsoft_Intune_App_Wrapping_Tool.md) <br /> <br />|This tool lets you modify the behavior of in-house Android apps so that you can control them with mobile application management policies. <br /> <br />|
-|[Control what admins can see in the Microsoft Intune admin console](../Topic/Control_what_admins_can_see_in_the_Microsoft_Intune_admin_console.md) <br /> <br />|Explains the preset designations you can apply to service administrators such as staff who work on the helpdesk. These can help you delegate administrative tasks while still ensuring the security of your [!INC[wit_nextref](../Token/wit_nextref_md.md)] infrastructure. <br /> <br />|
+|[Control what admins can see in the Microsoft Intune admin console](../Topic/Control_what_admins_can_see_in_the_Microsoft_Intune_admin_console.md) <br /> <br />|Explains the preset designations you can apply to service administrators such as staff who work on the helpdesk. These can help you delegate administrative tasks while still ensuring the security of your [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] infrastructure. <br /> <br />|
 
 #### Updated topics
 
 |Name <br /> <br />|Details <br /> <br />|
 |--------|-----------|
 |[Manage settings and features on your devices with Microsoft Intune policies](../Topic/Manage_settings_and_features_on_your_devices_with_Microsoft_Intune_policies.md) <br /> <br />|Added information to help you choose the right security policy to use. <br /> <br />|
-|[Use policies to manage computers and mobile devices with Microsoft Intune](../Topic/Use_policies_to_manage_computers_and_mobile_devices_with_Microsoft_Intune.md) <br /> <br />|Updated to list all new [!INC[wit_nextref](../Token/wit_nextref_md.md)] policies. Additionally, the procedures in the topic are updated to include the latest information. <br /> <br />|
+|[Use policies to manage computers and mobile devices with Microsoft Intune](../Topic/Use_policies_to_manage_computers_and_mobile_devices_with_Microsoft_Intune.md) <br /> <br />|Updated to list all new [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] policies. Additionally, the procedures in the topic are updated to include the latest information. <br /> <br />|
 |[Mobile Device Management Capabilites in Microsoft Intune [replacement]](http://msdn.microsoft.com/en-us/library/6b2f4ca9-5861-4fa0-8888-eba4cea25025) <br /> <br />|Updated to include information about the latest product capabilities. <br /> <br />|
 |[What to tell your end users about using Microsoft Intune](../Topic/What_to_tell_your_end_users_about_using_Microsoft_Intune.md) <br /> <br />|Describes how IT Pros can now deploy Android apps from the Google Play Store as Required installations. <br /> <br />|
 
@@ -482,7 +482,7 @@ See [Manage access to email and SharePoint with Microsoft Intune](../Topic/Manag
 You can now deploy software to Windows Phone 8.1 devices in **.appx bundle** format. For details, see [Deploy apps to mobile devices in Microsoft Intune](../Topic/Deploy_apps_to_mobile_devices_in_Microsoft_Intune.md).
 
 #### Windows Defender management for Windows 10 Technical Preview
-[!INC[wit_nextref](../Token/wit_nextref_md.md)] adds management settings for Windows Defender. Windows Defender provides malware protection and replaces Endpoint Protection in Windows 10 Technical Preview. See [Help secure Windows PCs with Endpoint Protection for Microsoft Intune](../Topic/Help_secure_Windows_PCs_with_Endpoint_Protection_for_Microsoft_Intune.md) for more information.
+[!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] adds management settings for Windows Defender. Windows Defender provides malware protection and replaces Endpoint Protection in Windows 10 Technical Preview. See [Help secure Windows PCs with Endpoint Protection for Microsoft Intune](../Topic/Help_secure_Windows_PCs_with_Endpoint_Protection_for_Microsoft_Intune.md) for more information.
 
 #### Changes and updates to the Microsoft Company Portal apps
 The following changes have been made to the company portal apps in this release:
@@ -505,7 +505,7 @@ The following changes have been made to the company portal apps in this release:
 Intune mobile device management can now manage iOS devices purchased through Apple’s Device Enrollment program. This allows for over-the-air management of corporate-owned iOS mobile devices. For details, see [Enroll corporate-owned iOS devices in Microsoft Intune](../Topic/Enroll_corporate-owned_iOS_devices_in_Microsoft_Intune.md).
 
 #### Limit device enrollment
-Administrators can limit the number of devices each user can enroll to be managed with [!INC[wit_nextref](../Token/wit_nextref_md.md)]. For details, see “Set device enrollment limits” in [Enable mobile device enrollment with the Microsoft Intune Account Portal](../Topic/Enable_mobile_device_enrollment_with_the_Microsoft_Intune_Account_Portal.md).
+Administrators can limit the number of devices each user can enroll to be managed with [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)]. For details, see “Set device enrollment limits” in [Enable mobile device enrollment with the Microsoft Intune Account Portal](../Topic/Enable_mobile_device_enrollment_with_the_Microsoft_Intune_Account_Portal.md).
 
 #### Manage software
 You can now deploy software to Windows Phone 8.1 devices in **.appx** format. For details, see [Deploy apps to mobile devices in Microsoft Intune](../Topic/Deploy_apps_to_mobile_devices_in_Microsoft_Intune.md).
@@ -523,7 +523,7 @@ The following changes have been made to the company portal apps in this release:
 
 - Added support for Wi-Fi profiles with passkeys when Intune is used with Configuration Manager
 
-- Added Support for **Remote Lock** and **Passcode Reset** features when [!INC[wit_nextref](../Token/wit_nextref_md.md)] is used with [!INC[cmshort](../Token/cmshort_md.md)]
+- Added Support for **Remote Lock** and **Passcode Reset** features when [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] is used with [!INCLUDE[cmshort](../Token/cmshort_md.md)]
 
 - Added a **Verbose Logging** setting to improve troubleshooting
 
@@ -596,14 +596,14 @@ A new report, **Device History**, lets you view a record of retire, wipe and del
 In addition to the following, review [Network infrastructure requirements for Microsoft Intune](../Topic/Network_infrastructure_requirements_for_Microsoft_Intune.md) for recent changes.
 
 #### Product name change
-With this release, Windows Intune is now called [!INC[wit_firstref](../Token/wit_firstref_md.md)].
+With this release, Windows Intune is now called [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)].
 
 #### Intune admin console improvements
-A number of improvements have been made to the [!INC[wit_nextref](../Token/wit_nextref_md.md)] admin console including a new **Dashboard** page that provides quick access to status details that help you manage [!INC[wit_nextref](../Token/wit_nextref_md.md)] and find details about your managed devices. For details about the admin console, see [Reference for the Microsoft Intune administrative consoles](../Topic/Reference_for_the_Microsoft_Intune_administrative_consoles.md).
+A number of improvements have been made to the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] admin console including a new **Dashboard** page that provides quick access to status details that help you manage [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] and find details about your managed devices. For details about the admin console, see [Reference for the Microsoft Intune administrative consoles](../Topic/Reference_for_the_Microsoft_Intune_administrative_consoles.md).
 
 #### Conditional access to on-premises Exchange
 
-- Let’s you block access to on-premises Microsoft Exchange email from mobile devices, if the device is not managed by [!INC[wit_nextref](../Token/wit_nextref_md.md)]. For details, see [Manage access to email and SharePoint with Microsoft Intune](../Topic/Manage_access_to_email_and_SharePoint_with_Microsoft_Intune.md).
+- Let’s you block access to on-premises Microsoft Exchange email from mobile devices, if the device is not managed by [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)]. For details, see [Manage access to email and SharePoint with Microsoft Intune](../Topic/Manage_access_to_email_and_SharePoint_with_Microsoft_Intune.md).
 
 #### Company resource access
 
@@ -627,7 +627,7 @@ A number of improvements have been made to the [!INC[wit_nextref](../Token/wit_n
 
 - **Remote passcode reset** is now supported by Windows Phone 8 and Windows Phone 8.1. For details, see [Help protect your data with remote wipe, remote lock, or passcode reset using Microsoft Intune](../Topic/Help_protect_your_data_with_remote_wipe,_remote_lock,_or_passcode_reset_using_Microsoft_Intune.md).
 
-- **Multi-Factor Authentication** is now supported by [!INC[wit_nextref](../Token/wit_nextref_md.md)]. For details, see [Protect Windows devices with multi-factor authentication in Microsoft Intune](../Topic/Protect_Windows_devices_with_multi-factor_authentication_in_Microsoft_Intune.md).
+- **Multi-Factor Authentication** is now supported by [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)]. For details, see [Protect Windows devices with multi-factor authentication in Microsoft Intune](../Topic/Protect_Windows_devices_with_multi-factor_authentication_in_Microsoft_Intune.md).
 
 - **Filtered groups** - Let you restrict the management actions an IT admin in your organization can take to only the groups you specify. For details, see [Use groups to manage users and devices with Microsoft Intune](../Topic/Use_groups_to_manage_users_and_devices_with_Microsoft_Intune.md).
 
@@ -673,10 +673,10 @@ You can now wipe EFS-enabled content such as content relating the Mail app for W
 You can lock mobile devices remotely and also reset the passcode. For more information, see [Help protect your data with remote wipe, remote lock, or passcode reset using Microsoft Intune](../Topic/Help_protect_your_data_with_remote_wipe,_remote_lock,_or_passcode_reset_using_Microsoft_Intune.md).
 
 #### Featured Apps
-[!INC[wit_nextref](../Token/wit_nextref_md.md)] now allows you to configure an app as a featured app. This app will then be displayed prominently in the company portal. For more information, see [Deploy apps to mobile devices in Microsoft Intune](../Topic/Deploy_apps_to_mobile_devices_in_Microsoft_Intune.md).
+[!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] now allows you to configure an app as a featured app. This app will then be displayed prominently in the company portal. For more information, see [Deploy apps to mobile devices in Microsoft Intune](../Topic/Deploy_apps_to_mobile_devices_in_Microsoft_Intune.md).
 
 #### Microsoft Intune Endpoint Protection Installed by Default
-In the previous release of [!INC[wit_nextref](../Token/wit_nextref_md.md)], [!INC[wit_firstref](../Token/wit_firstref_md.md)] Endpoint Protection was only installed if a policy was created to require this installation on newly enrolled clients. In the current release of [!INC[wit_nextref](../Token/wit_nextref_md.md)], the endpoint protection client is installed on computers with [!INC[wit_nextref](../Token/wit_nextref_md.md)], unless a policy is created to prevent this installation. This change was made in response to customer feedback, and to better secure computers running [!INC[wit_nextref](../Token/wit_nextref_md.md)]. For more information, see [Help secure Windows PCs with Endpoint Protection for Microsoft Intune](../Topic/Help_secure_Windows_PCs_with_Endpoint_Protection_for_Microsoft_Intune.md).
+In the previous release of [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)], [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] Endpoint Protection was only installed if a policy was created to require this installation on newly enrolled clients. In the current release of [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)], the endpoint protection client is installed on computers with [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)], unless a policy is created to prevent this installation. This change was made in response to customer feedback, and to better secure computers running [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)]. For more information, see [Help secure Windows PCs with Endpoint Protection for Microsoft Intune](../Topic/Help_secure_Windows_PCs_with_Endpoint_Protection_for_Microsoft_Intune.md).
 
 #### The following January 2014 updates apply to Microsoft Intune standalone only and do not require Configuration Manager
 
@@ -687,15 +687,15 @@ New policy settings have been added to help you manage more features on your inv
 A new report type has been added specifically to report on inventoried mobile devices in your organization.  For more information, see [Understand Microsoft Intune operations by using reports](../Topic/Understand_Microsoft_Intune_operations_by_using_reports.md).
 
 ##### Web Apps
-[!INC[wit_nextref](../Token/wit_nextref_md.md)] now allows you to deploy a shortcut to an application on the Web to your devices. For more information, see [Plan for app deployment in Microsoft Intune](../Topic/Plan_for_app_deployment_in_Microsoft_Intune.md).
+[!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] now allows you to deploy a shortcut to an application on the Web to your devices. For more information, see [Plan for app deployment in Microsoft Intune](../Topic/Plan_for_app_deployment_in_Microsoft_Intune.md).
 
 ##### Android Support
-[!INC[wit_nextref](../Token/wit_nextref_md.md)] now lets you enroll Android devices for direct management. For more information, see [Set up Android management with Microsoft Intune](../Topic/Set_up_Android_management_with_Microsoft_Intune.md).
+[!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] now lets you enroll Android devices for direct management. For more information, see [Set up Android management with Microsoft Intune](../Topic/Set_up_Android_management_with_Microsoft_Intune.md).
 
 ### <a name="bkmk_Oct2013"></a>October 2013
 
 #### Windows 8.1 Support
-[!INC[wit_nextref](../Token/wit_nextref_md.md)] now supports Windows 8.1 devices, including Windows Professional, Surface, Surface Pro, and Windows Phone.
+[!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] now supports Windows 8.1 devices, including Windows Professional, Surface, Surface Pro, and Windows Phone.
 
 #### Enroll Clients with Device Management on Windows 8.1
 Devices running Windows 8.1 and Windows RT 8.1 can now enable Device Management and automatically enroll and install apps. For more information, see [Enable mobile device enrollment with the Microsoft Intune Account Portal](../Topic/Enable_mobile_device_enrollment_with_the_Microsoft_Intune_Account_Portal.md).
@@ -714,18 +714,18 @@ Two new policy settings have been added to help administrators streamline client
 - **Microsoft Intune client agent mandatory updates installation schedule**, with the parameters **Day scheduled**, and **Time scheduled**.
 
 #### New Policy Setting for Installing Endpoint Protection
-A new value has been added to the [!INC[wit_nextref](../Token/wit_nextref_md.md)] Agent policy setting **Install Endpoint Protection**. The new value is **No**, and is the default value.
+A new value has been added to the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] Agent policy setting **Install Endpoint Protection**. The new value is **No**, and is the default value.
 
 > [!NOTE]
-> This behavior is different than previous version of [!INC[wit_nextref](../Token/wit_nextref_md.md)], where [!INC[wit_nextref](../Token/wit_nextref_md.md)] Endpoint Protection was installed automatically during client installation. After upgrading, you may need to create a new policy to ensure that new clients will have Endpoint Protection installed, and that existing clients will continue to receive updates.  .
+> This behavior is different than previous version of [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)], where [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] Endpoint Protection was installed automatically during client installation. After upgrading, you may need to create a new policy to ensure that new clients will have Endpoint Protection installed, and that existing clients will continue to receive updates.  .
 
 ### <a name="bkmk_June2013"></a>June 2013
 
 #### Service to Service Connector for Exchange
-With this update, you can now configure the [!INC[wit_nextref](../Token/wit_nextref_md.md)] Exchange Connector to connect directly from your [!INC[wit_nextref](../Token/wit_nextref_md.md)] service to your hosted Exchange environment, without downloading additional software.  .
+With this update, you can now configure the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] Exchange Connector to connect directly from your [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] service to your hosted Exchange environment, without downloading additional software.  .
 
 #### Support Tool for Microsoft Intune Trial Management of Window Phone 8
-This tool makes it easy to try out Windows Phone 8 device management using Microsoft System Center 2012 Configuration Manager during your [!INC[wit_nextref](../Token/wit_nextref_md.md)] subscription trial period, without having to procure a Symantec certificate. This tool contains:
+This tool makes it easy to try out Windows Phone 8 device management using Microsoft System Center 2012 Configuration Manager during your [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] subscription trial period, without having to procure a Symantec certificate. This tool contains:
 
 - A script that populates a sample Application Enrollment token.
 
@@ -733,12 +733,12 @@ This tool makes it easy to try out Windows Phone 8 device management using Micro
 
 - Two sample applications that can be used for Windows Phone 8 software distribution scenarios.
 
-The Support Tool for [!INC[wit_nextref](../Token/wit_nextref_md.md)] Trial Management of Window Phone 8 can be downloaded from the [Download Center](http://www.microsoft.com/en-us/download/details.aspx?id=39079).
+The Support Tool for [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] Trial Management of Window Phone 8 can be downloaded from the [Download Center](http://www.microsoft.com/en-us/download/details.aspx?id=39079).
 
 ### <a name="bkmk_May2013"></a>May 2013
 
 #### Microsoft Intune administrator console sessions limited to 8 hours
-With this security update, once you log in to the [!INC[wit_nextref](../Token/wit_nextref_md.md)] administrator console, your session will become invalid after eight hours and you will be prompted to log in again.
+With this security update, once you log in to the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] administrator console, your session will become invalid after eight hours and you will be prompted to log in again.
 
 ### <a name="bkmk_April2013"></a>April 2013
 
@@ -748,7 +748,7 @@ With this update, you can now scan a Microsoft Tag or bar code and automatically
 ### <a name="bkmk_March2013"></a>March 2013
 
 #### Exchange Connector Support for Office 365
-With this update, you can now configure the [!INC[wit_nextref](../Token/wit_nextref_md.md)] Exchange connector to connect to your hosted Exchange environment in Office 365.  For more information, see [Mobile device management with Exchange ActiveSync and Microsoft Intune](../Topic/Mobile_device_management_with_Exchange_ActiveSync_and_Microsoft_Intune.md)
+With this update, you can now configure the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] Exchange connector to connect to your hosted Exchange environment in Office 365.  For more information, see [Mobile device management with Exchange ActiveSync and Microsoft Intune](../Topic/Mobile_device_management_with_Exchange_ActiveSync_and_Microsoft_Intune.md)
 
 #### Share an app from your Windows Phone 8
 With this update you can share an app with another person by selecting **Share** from the app details page. This will send an email with a direct link to the app details page.  You do not need to have the app installed yourself to share the app.

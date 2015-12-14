@@ -12,10 +12,10 @@ ms.assetid: d17b70f4-17b4-4d89-88fd-70fa4f34fbea
 # Troubleshoot software updates in Microsoft Intune
 
 ## <a name="BKMK_Updates"></a>Troubleshooting software updates
-Use the information in this section to help you solve software update problems in [!INC[wit_firstref](../Token/wit_firstref_md.md)].
+Use the information in this section to help you solve software update problems in [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)].
 
 ### Software update error codes
-The following table lists the [!INC[wit_firstref](../Token/wit_firstref_md.md)] Update Agent error codes. If you cannot find a specific error code in this table, see [Windows Update Agent Result Codes](http://go.microsoft.com/fwlink/?LinkID=221542).
+The following table lists the [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] Update Agent error codes. If you cannot find a specific error code in this table, see [Windows Update Agent Result Codes](http://go.microsoft.com/fwlink/?LinkID=221542).
 
 |Error code <br /> <br />|Symbolic name <br /> <br />|More information <br /> <br />|
 |--------------|-----------------|--------------------|

@@ -11,7 +11,7 @@ ms.topic: article
 ms.assetid: 0b1b86ed-2e80-474d-8437-17dd4bc07b55
 ---
 # Help users connect to company networks using Wi-Fi profiles with Microsoft Intune
-Use [!INC[wit_firstref](../Token/wit_firstref_md.md)] Wi-Fi profiles to deploy wireless network settings to users and devices in your organization. These settings simplify connecting to wireless networks for end-users.
+Use [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] Wi-Fi profiles to deploy wireless network settings to users and devices in your organization. These settings simplify connecting to wireless networks for end-users.
 
 For example:
 
@@ -53,7 +53,7 @@ Additionally, for devices that run Windows 8.1 and later, you can import a Wi-Fi
 
    |Setting <br /> <br />|More information <br /> <br />|
    |-----------|--------------------|
-   |**Name** <br /> <br />|Enter a unique name for the Wi-Fi profile to help identify it in the [!INC[wit_nextref](../Token/wit_nextref_md.md)] console. <br /> <br />|
+   |**Name** <br /> <br />|Enter a unique name for the Wi-Fi profile to help identify it in the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] console. <br /> <br />|
    |**Description** <br /> <br />|Provide a description of the Wi-Fi profile that helps you to locate it. <br /> <br />|
 
 ### Step 2: Configure network connection settings
@@ -124,7 +124,7 @@ After successful deployment, users devices can automatically connect to the corp
 Use the **Windows Wi-Fi Import Policy** to import a set of Wi-Fi settings that you can then deploy to the required user or device groups.
 
 > [!TIP]
-> In Windows, you can use the **netsh wlan** utility to export an existing Wi-Fi profile to an XML file readable by [!INC[wit_nextref](../Token/wit_nextref_md.md)].
+> In Windows, you can use the **netsh wlan** utility to export an existing Wi-Fi profile to an XML file readable by [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)].
 > 
 > For example, to export a Wi-Fi connection named **MyConnection** to an XML file, type the following from a Windows command prompt:
 > 
@@ -142,14 +142,14 @@ Use the **Windows Wi-Fi Import Policy** to import a set of Wi-Fi settings that y
 
    |Setting name <br /> <br />|More information <br /> <br />|
    |----------------|--------------------|
-   |**Name** <br /> <br />|Enter a unique name for the Wi-Fi profile to identify it in the [!INC[wit_nextref](../Token/wit_nextref_md.md)] console. <br /> <br />|
+   |**Name** <br /> <br />|Enter a unique name for the Wi-Fi profile to identify it in the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] console. <br /> <br />|
    |**Description** <br /> <br />|Provide a description w of the Wi-Fi profile and other relevant information that helps you to locate it. <br /> <br />|
 
 4. Specify the following values under the **Custom Wi-Fi Profile** heading:
 
    |Setting name <br /> <br />|More information <br /> <br />|
    |----------------|--------------------|
-   |**Configuration profile file** <br /> <br />|Click **Import** to select the XML file containing the Wi-Fi profile settings that you want to import into [!INC[wit_nextref](../Token/wit_nextref_md.md)]. <br /> <br />|
+   |**Configuration profile file** <br /> <br />|Click **Import** to select the XML file containing the Wi-Fi profile settings that you want to import into [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)]. <br /> <br />|
    |**Custom configuration profile name (displayed to users)** <br /> <br />|Displays the name of the Wi-Fi configuration profile as it will be shown to users on their device. <br /> <br />|
    |**Configuration profile details** <br /> <br />|Displays the XML code for the configuration profile you selected. <br /> <br />|
 

@@ -63,7 +63,7 @@ You may find after you've planned and deployed Microsoft Intune, that you're enc
 
 - [Release notes for Microsoft Intune](../Topic/Release_notes_for_Microsoft_Intune.md)
 
-- Connect with the [!INC[wit_nextref](../Token/wit_nextref_md.md)] community:
+- Connect with the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] community:
 
    - [Read the latest news](http://blogs.technet.com/b/microsoftintune/) in the Intune blog. [Follow Intune](https://twitter.com/MSIntune) on Twitter. [Ask a question](http://go.microsoft.com/fwlink/?LinkID=232998) in the Intune forums.
 

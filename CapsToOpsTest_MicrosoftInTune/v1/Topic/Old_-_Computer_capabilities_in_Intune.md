@@ -14,16 +14,16 @@ Devices that run Windows 8.1 and Windows 10 can be managed using the Intune clie
 
 ## <a name="BKMK_ClientReqs"></a>Supported computers
 **Operating Systems**: 
-You can install the [!INC[wit_nextref](../Token/wit_nextref_md.md)] client on computers that run the following operating systems:
+You can install the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] client on computers that run the following operating systems:
 
 |Operating system <br /> <br />|System architecture <br /> <br />|
 |--------------------|-----------------------|
-|[!INC[windowsvista](../Token/windowsvista_md.md)] <br /> <br /><ul><li>Business </li><li>Enterprise </li><li>Ultimate </li> </ul>|x86, x64 <br /> <br />|
-|[!INC[nextref_client_7](../Token/nextref_client_7_md.md)] <br /> <br /><ul><li>Professional (with no service pack, or with SP1) </li><li>Enterprise (with no service pack, or with SP1) </li><li>Ultimate (with no service pack, or with SP1) </li> </ul>|x86, x64 <br /> <br />|
-|[!INC[win8_client_2](../Token/win8_client_2_md.md)] <br /> <br /><ul><li>Pro </li><li>Enterprise </li> </ul>|x86, x64 <br /> <br />|
-|[!INC[winblue_client_2](../Token/winblue_client_2_md.md)] <br /> <br /><ul><li>Pro </li><li>Enterprise </li> </ul>|X86, x64 <br /> <br />|
+|[!INCLUDE[windowsvista](../Token/windowsvista_md.md)] <br /> <br /><ul><li>Business </li><li>Enterprise </li><li>Ultimate </li> </ul>|x86, x64 <br /> <br />|
+|[!INCLUDE[nextref_client_7](../Token/nextref_client_7_md.md)] <br /> <br /><ul><li>Professional (with no service pack, or with SP1) </li><li>Enterprise (with no service pack, or with SP1) </li><li>Ultimate (with no service pack, or with SP1) </li> </ul>|x86, x64 <br /> <br />|
+|[!INCLUDE[win8_client_2](../Token/win8_client_2_md.md)] <br /> <br /><ul><li>Pro </li><li>Enterprise </li> </ul>|x86, x64 <br /> <br />|
+|[!INCLUDE[winblue_client_2](../Token/winblue_client_2_md.md)] <br /> <br /><ul><li>Pro </li><li>Enterprise </li> </ul>|X86, x64 <br /> <br />|
 **Hardware**:
-The following are minimum hardware requirements for installing the [!INC[wit_nextref](../Token/wit_nextref_md.md)] client:
+The following are minimum hardware requirements for installing the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] client:
 
 |Requirement <br /> <br />|More information <br /> <br />|
 |---------------|--------------------|
@@ -31,13 +31,13 @@ The following are minimum hardware requirements for installing the [!INC[wit_nex
 |Processor and Memory <br /> <br />|Refer to the processor and RAM requirements for the computer's operating system. <br /> <br />|
 |Disk space <br /> <br />|200 MB available disk space before the client software is installed. <br /> <br />|
 **Software**: 
-The following are software requirements for installing the [!INC[wit_nextref](../Token/wit_nextref_md.md)] client:
+The following are software requirements for installing the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] client:
 
 |Requirement <br /> <br />|More information <br /> <br />|
 |---------------|--------------------|
 |Administrative permissions <br /> <br />|The account that installs the client software must have local administrator permissions to that computer. <br /> <br />|
 |Windows Installer 3.1 <br /> <br />|The computer must have, at a minimum, Windows Installer 3.1. <br /> <br />To view the version of Windows Installer on a client computer: <br /> <br /><ul><li>On the computer, right-click **%windir%\System32\msiexec.exe**, and then click **Properties**. </li> </ul>You can download the latest version of Windows Installer from [Windows Installer Redistributables](http://go.microsoft.com/fwlink/?LinkID=234258) on the Microsoft Developer Network website. <br /> <br />|
-|Remove incompatible client software <br /> <br />|Before you install the [!INC[wit_nextref](../Token/wit_nextref_md.md)] client software, you must uninstall the following client software from that computer: <br /> <br /><ul><li>Any version of [!INC[cm5short](../Token/cm5short_md.md)] </li><li>Any version of [!INC[sccmshortname](../Token/sccmshortname_md.md)] </li><li>Any version of Systems Management Server </li> </ul>|
+|Remove incompatible client software <br /> <br />|Before you install the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] client software, you must uninstall the following client software from that computer: <br /> <br /><ul><li>Any version of [!INCLUDE[cm5short](../Token/cm5short_md.md)] </li><li>Any version of [!INCLUDE[sccmshortname](../Token/sccmshortname_md.md)] </li><li>Any version of Systems Management Server </li> </ul>|
 
 ## <a name="WIT_Cap"></a>Computer management features
 **Intune computer management capabilities:**
@@ -46,9 +46,9 @@ The following are software requirements for installing the [!INC[wit_nextref](..
 
 - **Set Windows firewall policy.** This helps to ensure that no computer used by your company has an inactive or improperly-configured firewall.
 
-- **Anti-malware protection.**[!INC[wit_nextref](../Token/wit_nextref_md.md)] includes [!INC[wit_nextref](../Token/wit_nextref_md.md)] Endpoint Protection, and allows you to set policies to ensure that computers are kept up-to-date with the latest anti-malware definition updates.
+- **Anti-malware protection.**[!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] includes [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] Endpoint Protection, and allows you to set policies to ensure that computers are kept up-to-date with the latest anti-malware definition updates.
 
-- **Remote assistance.**[!INC[wit_nextref](../Token/wit_nextref_md.md)] allows users to contact IT support staff, who can then provide assistance using a remote desktop feature that is included with [!INC[wit_nextref](../Token/wit_nextref_md.md)].
+- **Remote assistance.**[!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] allows users to contact IT support staff, who can then provide assistance using a remote desktop feature that is included with [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)].
 
 - **Software license** management.  Track how many software licenses are available, and how many available licenses are being used.
 

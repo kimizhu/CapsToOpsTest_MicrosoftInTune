@@ -88,7 +88,7 @@ This FAQ is divided into the following categories:
 
    - **Is there a way to block certain websites on the mobile device browser through Intune?**
 
-      Not on the native browser of any platform. However, you can allow or block URL's when you have deployed the [!INC[wit_nextref](../Token/wit_nextref_md.md)] managed web browser on iOS and Android devices. For more information see [Manage Internet access using managed browser policies with Microsoft Intune](../Topic/Manage_Internet_access_using_managed_browser_policies_with_Microsoft_Intune.md)  .
+      Not on the native browser of any platform. However, you can allow or block URL's when you have deployed the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] managed web browser on iOS and Android devices. For more information see [Manage Internet access using managed browser policies with Microsoft Intune](../Topic/Manage_Internet_access_using_managed_browser_policies_with_Microsoft_Intune.md)  .
 
    - **Can we restrict a user from uninstalling an app?**
 

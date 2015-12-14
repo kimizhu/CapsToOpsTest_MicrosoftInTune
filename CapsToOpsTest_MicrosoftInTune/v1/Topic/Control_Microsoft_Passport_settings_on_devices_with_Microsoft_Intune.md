@@ -11,13 +11,13 @@ ms.topic: article
 ms.assetid: 402bc5a1-ada3-4c4c-a0de-292d026b4444
 ---
 # Control Microsoft Passport settings on devices with Microsoft Intune
-[!INC[wit_firstref](../Token/wit_firstref_md.md)] lets you integrate with Microsoft Passport for Work which is an alternative sign-in method that uses Active Directory, or an Azure Active Directory account to replace a password, smart card, or virtual smart card.
+[!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] lets you integrate with Microsoft Passport for Work which is an alternative sign-in method that uses Active Directory, or an Azure Active Directory account to replace a password, smart card, or virtual smart card.
 
 Passport lets you use a **user gesture** to login, instead of a password. A user gesture might be a simple PIN, biometric authentication such as Windows Hello, or an external device such as a fingerprint reader.
 
-[!INC[wit_nextref](../Token/wit_nextref_md.md)] integrates with Passport for Work in two ways:
+[!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] integrates with Passport for Work in two ways:
 
-- You can use [!INC[wit_nextref](../Token/wit_nextref_md.md)] policy to control which gestures users can and cannot use to login
+- You can use [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] policy to control which gestures users can and cannot use to login
 
 - You can store authentication certificates in the Passport for Work key storage provider (KSP). For more information, see [Enable access to company resources using certificate profiles with Microsoft Intune](../Topic/Enable_access_to_company_resources_using_certificate_profiles_with_Microsoft_Intune.md).
 

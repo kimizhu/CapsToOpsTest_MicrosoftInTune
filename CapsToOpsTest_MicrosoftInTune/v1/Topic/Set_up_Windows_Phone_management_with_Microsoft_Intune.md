@@ -11,7 +11,7 @@ ms.topic: article
 ms.assetid: 61e9b6c3-8795-49b0-8ab2-a9a05ee3ea1f
 ---
 # Set up Windows Phone management with Microsoft Intune
-Before you can manage Windows Phone mobile devices with [!INC[wit_nextref](../Token/wit_nextref_md.md)], you have to set up management requirements. Creating a DNS CNAME helps users connect to the [!INC[wit_nextref](../Token/wit_nextref_md.md)] company portal. Windows Phone 8.0 requires a Symantec certificate to establish an encrypted IP connection between devices and [!INC[wit_nextref](../Token/wit_nextref_md.md)]. Depending upon how users access the company portal, Windows Phone 8.1 might also. A certificate is also required to sign line-of-business apps.
+Before you can manage Windows Phone mobile devices with [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)], you have to set up management requirements. Creating a DNS CNAME helps users connect to the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] company portal. Windows Phone 8.0 requires a Symantec certificate to establish an encrypted IP connection between devices and [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)]. Depending upon how users access the company portal, Windows Phone 8.1 might also. A certificate is also required to sign line-of-business apps.
 
 - **Windows Phone 8.1** - Requires a certificate only if:
 
@@ -28,7 +28,7 @@ Setup requirements for Window Phone mobile device management depend upon how you
 
 #### Set up Windows Phone enrollment with Intune
 
-1. **Set up [!INC[wit_nextref](../Token/wit_nextref_md.md)]**
+1. **Set up [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)]**
    If you haven’t already, prepare for mobile device management by  [setting the mobile device management authority](https://technet.microsoft.com/library/mt346013.aspx) as **Microsoft Intune**.
 
 2. **Set a DNS alias for the enrollment server address** (optional)
@@ -60,9 +60,9 @@ Setup requirements for Window Phone mobile device management depend upon how you
 
    To support the Company Portal app for Windows Phone 8.0 and to deploy company apps to Windows Phone 8.1 you must get a **Symantec Enterprise Mobile Code Signing Certificate**. You cannot use a certificate issued by your own certification authority because only the Symantec certificate is trusted by Windows Phone devices. This certificate is required in order to:
 
-   - Sign the Company Portal app for deployment to [!INC[winphone8_client_1](../Token/winphone8_client_1_md.md)] for enrollment and phone management
+   - Sign the Company Portal app for deployment to [!INCLUDE[winphone8_client_1](../Token/winphone8_client_1_md.md)] for enrollment and phone management
 
-   - Sign company line-of-business apps so [!INC[wit_nextref](../Token/wit_nextref_md.md)] can deploy them to Windows Phones
+   - Sign company line-of-business apps so [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] can deploy them to Windows Phones
 
    For more information, see [Frequently Asked Questions about Windows Phone Mobile Device Management](https://technet.microsoft.com/en-us/library/dn764959.aspx#BKMK_FAQ).
 
@@ -106,16 +106,16 @@ Setup requirements for Window Phone mobile device management depend upon how you
       3. **Code-sign the Company Portal app**
          Use the XAPSignTool app downloaded with the SDK to sign the company portal with the .pfx file you created from the Symantec certificate. For more information, see [How to sign a company app by using XapSignTool](http://go.microsoft.com/fwlink/?LinkID=280195).
 
-   7. **Upload the Company Portal app to [!INC[wit_nextref](../Token/wit_nextref_md.md)]**
+   7. **Upload the Company Portal app to [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)]**
       Upload the signed Company Portal app file and your code-signing certificate to make the app available to your end users.
 
       1. In the [Intune administration console](http://manage.microsoft.com) click **Administration** &gt; **Windows Phone**.
 
-      2. Click the **Upload Signed App File** and sign in with your [!INC[wit_nextref](../Token/wit_nextref_md.md)] Administrator ID.
+      2. Click the **Upload Signed App File** and sign in with your [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] Administrator ID.
 
       3. On the **Software setup** page for **Specify the location of the software setup files**, browse to the code-signed Company Portal app location (.xap for Windows Phone 8.0 or .appx for Windows Phone 8.1).
 
-         If you are evaluating [!INC[wit_nextref](../Token/wit_nextref_md.md)] and uploading a code-signed app file in a trial [!INC[wit_nextref](../Token/wit_nextref_md.md)] account, uncheck the **Use the Company Portal App file signed by the sample Symantec code-signed certificate** checkbox.
+         If you are evaluating [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] and uploading a code-signed app file in a trial [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] account, uncheck the **Use the Company Portal App file signed by the sample Symantec code-signed certificate** checkbox.
 
       4. Add the certificate (.pfx) file that you exported to **Code-signing certificate** and create a password for the certificate.
 
@@ -158,13 +158,13 @@ Setup requirements for Window Phone mobile device management depend upon how you
 
    - **Website name**
 
-9. [!INC[CPEnrollmentTermsAndConditions](../Token/CPEnrollmentTermsAndConditions_md.md)]
+9. [!INCLUDE[CPEnrollmentTermsAndConditions](../Token/CPEnrollmentTermsAndConditions_md.md)]
 
 10. **Tell users how to get access to company resources with the company portal**
    Your users will need to know how to enroll their devices and what to expect once they're brought into management. [What to tell your end users about using Microsoft Intune](../Topic/What_to_tell_your_end_users_about_using_Microsoft_Intune.md)
 
 ### Deploy the Windows Phone 8.1 Company Portal app
-You can deploy the Company Portal app to Windows Phone 8.1 devices with [!INC[wit_nextref](../Token/wit_nextref_md.md)] instead of installing from the Windows Phone Store. You must still enable Windows Phone device enrollment with the steps above using the Symantec certificate. You must then download the Windows Phone 8.1 Company Portal app and sign it with your Symantec certificate.  This is only necessary if your users won't use the Company Store and you want to deploy the Company Portal to Windows Phone 8.1 devices.
+You can deploy the Company Portal app to Windows Phone 8.1 devices with [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] instead of installing from the Windows Phone Store. You must still enable Windows Phone device enrollment with the steps above using the Symantec certificate. You must then download the Windows Phone 8.1 Company Portal app and sign it with your Symantec certificate.  This is only necessary if your users won't use the Company Store and you want to deploy the Company Portal to Windows Phone 8.1 devices.
 
 ##### Steps to download and sign the Windows Phone 8.1 Company Portal app for deployment with Intune
 

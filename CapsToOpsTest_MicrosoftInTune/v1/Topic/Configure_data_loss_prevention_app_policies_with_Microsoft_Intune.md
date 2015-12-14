@@ -11,7 +11,7 @@ ms.topic: article
 ms.assetid: ab6cd622-b738-4a63-9c91-56044aaafa6d
 ---
 # Configure data loss prevention app policies with Microsoft Intune
-Use mobile app management policies in [!INC[wit_firstref](../Token/wit_firstref_md.md)] to apply restrictions to apps that help protect your company data.
+Use mobile app management policies in [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] to apply restrictions to apps that help protect your company data.
 
 **In this topic**
 
@@ -30,7 +30,7 @@ You can use mobile app management (MAM) policies to help protect your company’
 
 MAM policies support the following scenarios:
 
-- **Devices that are managed and enrolled** in [!INC[wit_nextref](../Token/wit_nextref_md.md)].  These are typically corporate owned devices that  you manage.
+- **Devices that are managed and enrolled** in [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)].  These are typically corporate owned devices that  you manage.
 
    > [!IMPORTANT]
    > If you are using Intune with Configuration Manager to manage your iOS and Android devices, you can create mobile app management policies for Office mobile apps that connect to Office 365 services, This is not supported for apps that connect to on-premises Exchange or SharePoint services.
@@ -69,7 +69,7 @@ However, the policies do not take effect when the end-user uses the app to do pe
 
 **Multi-identity:**
 
-Multi-identity gives you the ability to use different accounts - work and personal, to access the same apps.  On devices where apps are used both for personal and work tasks, you want to apply the policy when the end-user is using the app with their work account, but not when they are using it with their personal account.  [!INC[wit_nextref](../Token/wit_nextref_md.md)] MAM policies do just that.  The restrictions apply only when the user signs into an app using the work account. When the user signs into the same app with their personal account, the policy settings are not enforced and the user is free to move data without restrictions.
+Multi-identity gives you the ability to use different accounts - work and personal, to access the same apps.  On devices where apps are used both for personal and work tasks, you want to apply the policy when the end-user is using the app with their work account, but not when they are using it with their personal account.  [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] MAM policies do just that.  The restrictions apply only when the user signs into an app using the work account. When the user signs into the same app with their personal account, the policy settings are not enforced and the user is free to move data without restrictions.
 
 All Office mobile apps support multi-identity.
 
@@ -120,14 +120,14 @@ You can configure MAM policies in the following two ways:
 
    - Devices not managed by any mobile device management solution.
 
-   - Devices enrolled in [!INC[wit_nextref](../Token/wit_nextref_md.md)] or a third party MDM. You can create MAM policies and deploy the apps to users in this portal. The end-users will have to download the apps from Apple store or Google Play.  If you want to deploy apps to devices with the MAM policies, use the **Intune admin console**. See [Configure and deploy mobile application management policies in the Microsoft Intune console](../Topic/Configure_and_deploy_mobile_application_management_policies_in_the_Microsoft_Intune_console.md) for more details.
+   - Devices enrolled in [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] or a third party MDM. You can create MAM policies and deploy the apps to users in this portal. The end-users will have to download the apps from Apple store or Google Play.  If you want to deploy apps to devices with the MAM policies, use the **Intune admin console**. See [Configure and deploy mobile application management policies in the Microsoft Intune console](../Topic/Configure_and_deploy_mobile_application_management_policies_in_the_Microsoft_Intune_console.md) for more details.
 
       > [!IMPORTANT]
       > If you are using Intune with Configuration Manager to manage your iOS and Android devices, you can create mobile app management policies for Office mobile apps that connect to Office 365 services.  This is not supported for apps that connect to on-premises Exchange or SharePoint services.
 
    Read the [Get started with mobile app management policies in the Azure portal](../Topic/Get_started_with_mobile_app_management_policies_in_the_Azure_portal.md) for more details on how to use the Azure preview portal.
 
-2. The [!INC[wit_nextref](../Token/wit_nextref_md.md)] admin console only supports configuring MAM policies for devices that are enrolled in [!INC[wit_nextref](../Token/wit_nextref_md.md)].
+2. The [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] admin console only supports configuring MAM policies for devices that are enrolled in [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)].
 
    Find out how to [Configure and deploy mobile application management policies in the Microsoft Intune console](../Topic/Configure_and_deploy_mobile_application_management_policies_in_the_Microsoft_Intune_console.md).
 

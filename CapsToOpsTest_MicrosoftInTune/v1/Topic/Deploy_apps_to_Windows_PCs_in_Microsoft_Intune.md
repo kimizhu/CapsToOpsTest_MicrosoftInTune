@@ -11,7 +11,7 @@ ms.topic: article
 ms.assetid: 4105b676-11f1-4cd2-88a4-b37d186cdbdb
 ---
 # Deploy apps to Windows PCs in Microsoft Intune
-Now that you've [learned the basics](https://technet.microsoft.com/library/dn646955.aspx) about [!INC[wit_firstref](../Token/wit_firstref_md.md)] app deployment, in this topic, you'll learn how to actually configure and deploy apps to Windows PCs you manage. This generally involves three steps:
+Now that you've [learned the basics](https://technet.microsoft.com/library/dn646955.aspx) about [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] app deployment, in this topic, you'll learn how to actually configure and deploy apps to Windows PCs you manage. This generally involves three steps:
 
 - [Configure the app](#BKMK_Conf)
 
@@ -82,7 +82,7 @@ In this procedure, you'll use the Intune Software Publisher to configure the pro
 
 7. For the **Windows Installer** file type only (exe only): On the **Return codes** page, you can add new error codes that are interpreted by Intune when the app installs on a managed Windows PC.
 
-   By default, [!INC[wit_nextref](../Token/wit_nextref_md.md)] uses industry-standard return codes to report the failure or success of an app package installation:
+   By default, [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] uses industry-standard return codes to report the failure or success of an app package installation:
 
    - **0** - Success
 
@@ -115,7 +115,7 @@ In this procedure, you'll deploy the app to selected devices or users.
    |**Deadline** <br /> <br />|For required installations, choose how soon the app will be deployed. You can choose from the predefined values, or select **Custom** to configure your own deadline. <br /> <br />|
 
 ## <a name="BKMK_Monitor"></a>Monitor the app
-You can see the apps you manage, and their deployment status in the [!INC[wit_nextref](../Token/wit_nextref_md.md)] console.
+You can see the apps you manage, and their deployment status in the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] console.
 
 ### To view the apps you manage and their status
 In the **Apps** workspace, click the **Apps** node.

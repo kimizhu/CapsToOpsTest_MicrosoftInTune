@@ -11,17 +11,17 @@ ms.topic: article
 ms.assetid: 40fa5a2e-6c0f-4150-9740-d5ddc0cdbda0
 ---
 # Microsoft Intune Service Description
-Learn about the [!INC[wit_firstref](../Token/wit_firstref_md.md)] service and find additional technical documentation for Intune.
+Learn about the [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] service and find additional technical documentation for Intune.
 
 ## Service Description
-[!INC[wit_nextref](../Token/wit_nextref_md.md)] is a cloud-based service that helps you manage Windows PCs, and iOS, Android, and Windows mobile devices. Intune also helps protect corporate applications and data. You can use Intune alone or you can integrate it with System Center 2012 R2 Configuration Manager to extend your management capabilities.
+[!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] is a cloud-based service that helps you manage Windows PCs, and iOS, Android, and Windows mobile devices. Intune also helps protect corporate applications and data. You can use Intune alone or you can integrate it with System Center 2012 R2 Configuration Manager to extend your management capabilities.
 
-Microsoft offers the [!INC[wit_nextref](../Token/wit_nextref_md.md)] Onboarding benefit for eligible services in eligible plans. The Onboarding benefit lets you work remotely with Microsoft specialists to get your [!INC[wit_nextref](../Token/wit_nextref_md.md)] environment ready for use. For more information, see [Microsoft Intune Onboarding Benefit Description](http://go.microsoft.com/fwlink/?LinkId=619281).
+Microsoft offers the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] Onboarding benefit for eligible services in eligible plans. The Onboarding benefit lets you work remotely with Microsoft specialists to get your [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] environment ready for use. For more information, see [Microsoft Intune Onboarding Benefit Description](http://go.microsoft.com/fwlink/?LinkId=619281).
 
-You can start using [!INC[wit_nextref](../Token/wit_nextref_md.md)] with a 30-day free trial that includes 100 user licenses. To start your free trial, [click here to visit the Intune Sign up page](http://aka.ms/TryMSIntune). If your organization has an Enterprise Agreement or equivalent volume licensing agreement, please contact your Microsoft representative to set up your free trial.
+You can start using [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] with a 30-day free trial that includes 100 user licenses. To start your free trial, [click here to visit the Intune Sign up page](http://aka.ms/TryMSIntune). If your organization has an Enterprise Agreement or equivalent volume licensing agreement, please contact your Microsoft representative to set up your free trial.
 
 > [!NOTE]
-> If your organization has a Microsoft Online Services work or school account, and you might continue with this [!INC[wit_nextref](../Token/wit_nextref_md.md)] subscription in production after the trial period ends, then you should click the **Sign in** option on that page and authenticate by using the Global Administrator account for your organization. This action will ensure that your [!INC[wit_nextref](../Token/wit_nextref_md.md)] trial links to your existing work or school account.
+> If your organization has a Microsoft Online Services work or school account, and you might continue with this [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] subscription in production after the trial period ends, then you should click the **Sign in** option on that page and authenticate by using the Global Administrator account for your organization. This action will ensure that your [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] trial links to your existing work or school account.
 
 For a list of settings that you can configure on mobile devices, see:
 
@@ -32,35 +32,35 @@ For a list of settings that you can configure on mobile devices, see:
 For information on System Center 2012 R2 Configuration Manager, see [Documentation Library for System Center 2012 Configuration Manager](http://msdn.microsoft.com/en-us/library/33b7b516-2d32-4e55-bd79-ed7d3ea37162).
 
 ## <a name="BKMK_Servupdate"></a>Understand how Intune service updates affect you
-Because [!INC[wit_nextref](../Token/wit_nextref_md.md)] is an online service, Microsoft can update it on a regular basis.
+Because [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] is an online service, Microsoft can update it on a regular basis.
 
 Use the information in this topic to help you understand the frequency of these service updates, and the advance notification we give to you when an update might affect your use of the service.
 
-To learn about changes in the  [!INC[wit_nextref](../Token/wit_nextref_md.md)] service, see [What's new in Microsoft Intune](../Topic/What_s_new_in_Microsoft_Intune.md). The [Microsoft Intune Blog](http://blogs.technet.com/b/microsoftintune/) also discusses changes in the service, and provides helpful tips to enable you to get the most from  [!INC[wit_nextref](../Token/wit_nextref_md.md)].
+To learn about changes in the  [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] service, see [What's new in Microsoft Intune](../Topic/What_s_new_in_Microsoft_Intune.md). The [Microsoft Intune Blog](http://blogs.technet.com/b/microsoftintune/) also discusses changes in the service, and provides helpful tips to enable you to get the most from  [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)].
 
-Additionally, important service updates will be communicated to you directly from the [!INC[wit_nextref](../Token/wit_nextref_md.md)]console in the notice board.
+Additionally, important service updates will be communicated to you directly from the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)]console in the notice board.
 
 Use this table to understand how Microsoft communicates details of service changes.
 
 |Category of change <br /> <br />|More information <br /> <br />|Communication window <br /> <br />|
 |----------------------|--------------------|------------------------|
 |Stay up to date <br /> <br />|<ul><li>Information about new features </li><li>New functionality, or enhancements to existing features </li> </ul>|Included in our monthly service update. Generally, Microsoft rolls out service updates around the middle of each month. <br /> Updates are described in  [What's new in Microsoft Intune](../Topic/What_s_new_in_Microsoft_Intune.md). <br /> <br />|
-|Plan for change <br /> <br />|<ul><li>Updates that might have compliance or regulatory impact </li><li>Changes to the user experience, user interface, and workflows, for example: <br /> <br /><ul><li>Changes to the admin console experience for IT admins, or the [!INC[wit_nextref](../Token/wit_nextref_md.md)] company portal experience for end users </li><li>Changes in the workflow for [!INC[wit_nextref](../Token/wit_nextref_md.md)] features </li> </ul> </li><li>New, or changed APIs – Notifying you that you need to test to ensure backward compatibility of custom apps </li><li>Changes to system requirements, for example, the minimum required browser version </li><li>Any updates that require you to take action to enable the feature or to avoid service interruption to the feature. </li> </ul>|At least 30-90 days prior to the service upgrade, depending on the impact of the change . This will happen using in-product communication channels like notice board alerts. <br /> <br />|
-|Intune service retirement <br /> <br />|<ul><li>Retirement of the [!INC[wit_nextref](../Token/wit_nextref_md.md)] service </li> </ul>|At least 12 months <br /> <br />|
+|Plan for change <br /> <br />|<ul><li>Updates that might have compliance or regulatory impact </li><li>Changes to the user experience, user interface, and workflows, for example: <br /> <br /><ul><li>Changes to the admin console experience for IT admins, or the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] company portal experience for end users </li><li>Changes in the workflow for [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] features </li> </ul> </li><li>New, or changed APIs – Notifying you that you need to test to ensure backward compatibility of custom apps </li><li>Changes to system requirements, for example, the minimum required browser version </li><li>Any updates that require you to take action to enable the feature or to avoid service interruption to the feature. </li> </ul>|At least 30-90 days prior to the service upgrade, depending on the impact of the change . This will happen using in-product communication channels like notice board alerts. <br /> <br />|
+|Intune service retirement <br /> <br />|<ul><li>Retirement of the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] service </li> </ul>|At least 12 months <br /> <br />|
 
 ## <a name="WIT_Cho"></a>Choose the management solution that’s right for you
-You can configure [!INC[wit_nextref](../Token/wit_nextref_md.md)] in a number of ways to manage and help protect your company's mobile devices and computers (referred to as **devices** in this document).
+You can configure [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] in a number of ways to manage and help protect your company's mobile devices and computers (referred to as **devices** in this document).
 
-- **[!INC[wit_nextref](../Token/wit_nextref_md.md)] stand-alone configuration.** Use the web-based administration console in [!INC[wit_nextref](../Token/wit_nextref_md.md)] to manage devices in your organization. [!INC[wit_nextref](../Token/wit_nextref_md.md)] can be used without any on-premises IT infrastructure, but if you use [!INC[wit_nextref](../Token/wit_nextref_md.md)] with Active Directory Domain Services, you can use domain user accounts that you manage with Domain Services with [!INC[wit_nextref](../Token/wit_nextref_md.md)].
+- **[!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] stand-alone configuration.** Use the web-based administration console in [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] to manage devices in your organization. [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] can be used without any on-premises IT infrastructure, but if you use [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] with Active Directory Domain Services, you can use domain user accounts that you manage with Domain Services with [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)].
 
-- **[!INC[wit_nextref](../Token/wit_nextref_md.md)] with System Center Configuration Manager.** Use the [!INC[cm5short](../Token/cm5short_md.md)] management console to manage computers and mobile devices in your enterprise. This configuration can help you to manage all of your organization’s devices through a single console, the [!INC[cmshort](../Token/cmshort_md.md)] Admin Console. [!INC[cmshort](../Token/cmshort_md.md)] supports very large numbers of mobile devices, servers and computers. For more information, see [How to Manage Mobile Devices by Using Configuration Manager and Microsoft Intune](http://go.microsoft.com/fwlink/?LinkID=271118) in the [Documentation Library for System Center 2012 Configuration Manager](http://msdn.microsoft.com/en-us/library/33b7b516-2d32-4e55-bd79-ed7d3ea37162).  For more help deciding which approach is right for you, see [Deleted topic](../Topic/Deleted_topic.md)
+- **[!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] with System Center Configuration Manager.** Use the [!INCLUDE[cm5short](../Token/cm5short_md.md)] management console to manage computers and mobile devices in your enterprise. This configuration can help you to manage all of your organization’s devices through a single console, the [!INCLUDE[cmshort](../Token/cmshort_md.md)] Admin Console. [!INCLUDE[cmshort](../Token/cmshort_md.md)] supports very large numbers of mobile devices, servers and computers. For more information, see [How to Manage Mobile Devices by Using Configuration Manager and Microsoft Intune](http://go.microsoft.com/fwlink/?LinkID=271118) in the [Documentation Library for System Center 2012 Configuration Manager](http://msdn.microsoft.com/en-us/library/33b7b516-2d32-4e55-bd79-ed7d3ea37162).  For more help deciding which approach is right for you, see [Deleted topic](../Topic/Deleted_topic.md)
 
 - Mobile device management provided by Office 365, as described in [Ways to do enterprise mobility](../Topic/Ways_to_do_enterprise_mobility.md)
 
 ## Learn more about Intune
 Use these resources to learn more about Intune:
 
-- The [Microsoft Intune Trust Center](http://www.microsoft.com/en-us/server-cloud/products/intune-trust-center/) provides information about the security, privacy, and compliance practices of [!INC[wit_nextref](../Token/wit_nextref_md.md)], and describes some of [!INC[wit_nextref](../Token/wit_nextref_md.md)]'s certifications.
+- The [Microsoft Intune Trust Center](http://www.microsoft.com/en-us/server-cloud/products/intune-trust-center/) provides information about the security, privacy, and compliance practices of [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)], and describes some of [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)]'s certifications.
 
 - [Microsoft Intune features](../Topic/Microsoft_Intune_features.md)
 

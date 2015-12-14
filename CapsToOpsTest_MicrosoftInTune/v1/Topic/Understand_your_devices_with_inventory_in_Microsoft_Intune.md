@@ -11,10 +11,10 @@ ms.topic: article
 ms.assetid: 312911fe-b963-4949-9911-ae425e0590b2
 ---
 # Understand your devices with inventory in Microsoft Intune
-[!INC[wit_firstref](../Token/wit_firstref_md.md)] lets you view the inventory of enrolled devices and Windows PCs that run the [!INC[wit_nextref](../Token/wit_nextref_md.md)] client software.
+[!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] lets you view the inventory of enrolled devices and Windows PCs that run the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] client software.
 
 ## What's collected from enrolled devices?
-To view the inventory collected by mobile devices, run the [Mobile Device Inventory Reports](https://technet.microsoft.com/library/dn646977.aspx). [!INC[wit_nextref](../Token/wit_nextref_md.md)] collects the following inventory from mobile devices:
+To view the inventory collected by mobile devices, run the [Mobile Device Inventory Reports](https://technet.microsoft.com/library/dn646977.aspx). [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] collects the following inventory from mobile devices:
 
 |Property <br /> <br />|Exchange ActiveSync <br /> <br />|iOS <br /> <br />|Mac OS X <br /> <br />|Android <br /> <br />|Windows RT and Windows 8.1 <br /> <br />|Windows Phone 8 and Windows Phone 8.1 <br /> <br />|Windows 10 <br /> <br />|Notes <br /> <br />|
 |------------|-----------------------|-------|------------|-----------|------------------------------|-----------------------------------------|--------------|---------|
@@ -52,9 +52,9 @@ To view the inventory collected by mobile devices, run the [Mobile Device Invent
 
 ## What's collected from Windows PCs
 > [!IMPORTANT]
-> This section applies only to Windows PCs that run the [!INC[wit_nextref](../Token/wit_nextref_md.md)] computer client software.
+> This section applies only to Windows PCs that run the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] computer client software.
 
-To view the inventory collected by Windows PCs, run the [Computer Inventory Reports](https://technet.microsoft.com/library/dn646977.aspx). [!INC[wit_nextref](../Token/wit_nextref_md.md)] collects the following inventory from Windows PCs:
+To view the inventory collected by Windows PCs, run the [Computer Inventory Reports](https://technet.microsoft.com/library/dn646977.aspx). [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] collects the following inventory from Windows PCs:
 
 - **Name**
 

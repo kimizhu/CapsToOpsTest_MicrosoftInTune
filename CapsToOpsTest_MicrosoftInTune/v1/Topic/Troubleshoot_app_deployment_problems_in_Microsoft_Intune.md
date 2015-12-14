@@ -11,21 +11,21 @@ ms.topic: article
 ms.assetid: 28ac298e-fb73-4c1c-b3fd-8336639e05e6
 ---
 # Troubleshoot app deployment problems in Microsoft Intune
-This topic provides resources to help you solve app deployment problems with[!INC[wit_firstref](../Token/wit_firstref_md.md)].
+This topic provides resources to help you solve app deployment problems with[!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)].
 
 ## <a name="BKMK_TypicalProblems"></a>Help for typical app deployment problems
 
-#### If you can’t log in to the [!INC[wit_iwportal_1](../Token/wit_iwportal_1_md.md)]
+#### If you can’t log in to the [!INCLUDE[wit_iwportal_1](../Token/wit_iwportal_1_md.md)]
 
-1. Check to see if your account exists in the [!INC[wit_icp_1](../Token/wit_icp_1_md.md)] or if it is disabled.
+1. Check to see if your account exists in the [!INCLUDE[wit_icp_1](../Token/wit_icp_1_md.md)] or if it is disabled.
 
-2. Make sure that you are provisioned on this account in the [!INC[wit_icp_1](../Token/wit_icp_1_md.md)].
+2. Make sure that you are provisioned on this account in the [!INCLUDE[wit_icp_1](../Token/wit_icp_1_md.md)].
 
-3. In the [!INC[wit_icp_1](../Token/wit_icp_1_md.md)], make sure that you are using the right user name and password to log in to [!INC[wit_nextref](../Token/wit_nextref_md.md)] and that it is in the format: **joe@domain.com**.
+3. In the [!INCLUDE[wit_icp_1](../Token/wit_icp_1_md.md)], make sure that you are using the right user name and password to log in to [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] and that it is in the format: **joe@domain.com**.
 
 #### If the Contact IT information is missing in the company portal
 
-1. In the [!INC[wit_adminconsole](../Token/wit_adminconsole_md.md)], click **Admin** &gt; **Company Portal**.
+1. In the [!INCLUDE[wit_adminconsole](../Token/wit_adminconsole_md.md)], click **Admin** &gt; **Company Portal**.
 
 2. Set the **Contact IT** details.
 
@@ -72,7 +72,7 @@ This topic provides resources to help you solve app deployment problems with[!IN
 - Installation status was not collected for managed app installations prior to the Microsoft Intune service update in November 2014. For devices that installed managed apps prior to this service update, update each associated app deployment with the appropriate deployment action (for example, **Available install**). Each device will update the app during the automatic check for available apps. For more information, see [Update apps using Microsoft Intune](../Topic/Update_apps_using_Microsoft_Intune.md).
 
 ## <a name="BKMK_SoftDistErrorCodes"></a>App deployment error codes
-The following table lists common errors that may occur during [!INC[wit_nextref](../Token/wit_nextref_md.md)] app deployment, the likely causes, and possible solutions to help you troubleshoot them.
+The following table lists common errors that may occur during [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] app deployment, the likely causes, and possible solutions to help you troubleshoot them.
 
 |Error code <br /> <br />|Possible problem <br /> <br />|Suggested resolution <br /> <br />|
 |--------------|--------------------|------------------------|

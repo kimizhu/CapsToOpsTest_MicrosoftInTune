@@ -11,17 +11,17 @@ ms.topic: article
 ms.assetid: 9cb7da1d-8ecb-4b08-818a-54782e846def
 ---
 # Help for Microsoft Intune Partners
-The partner portal and its services are an extension of your [!INC[wit_firstref](../Token/wit_firstref_md.md)] subscription that is associated with your partner identity. When you sign in to the [!INC[wit_nextref](../Token/wit_nextref_md.md)] account portal with a work account that is associated with your partner ID, you have access to the partner portal by using the **Partner** link at the top of the account portal.
+The partner portal and its services are an extension of your [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] subscription that is associated with your partner identity. When you sign in to the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] account portal with a work account that is associated with your partner ID, you have access to the partner portal by using the **Partner** link at the top of the account portal.
 
 |What do you want to do? <br /> <br />|Details <br /> <br />|
 |---------------------------|-----------|
 |**Verify your company information** <br /> <br />|Always ensure that your company information, like phone numbers and email addresses, is correct as this is visible to your customers. <br /> <br />To verify your information, in the left-hand pane of the partner portal, click your company name to view and edit your company information. <br /> <br />Your user account must be a [global administrator](http://technet.microsoft.com/library/dn646966.aspx#BKMK_AdminAccounts) to edit your company information. <br /> <br />|
-|**Find customers** <br /> <br />|Use the partner portal to [find customers](../Topic/Help_for_Microsoft_Intune_Partners.md#BKMK_FindCustomers) you might want to offer services to, or that you are already working with. <br /> <br />You can search for customers who subscribe to [!INC[wit_firstref](../Token/wit_firstref_md.md)] by their user account name, or by their domain name. <br /> <br />|
+|**Find customers** <br /> <br />|Use the partner portal to [find customers](../Topic/Help_for_Microsoft_Intune_Partners.md#BKMK_FindCustomers) you might want to offer services to, or that you are already working with. <br /> <br />You can search for customers who subscribe to [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] by their user account name, or by their domain name. <br /> <br />|
 |**Create and send trial invitations and purchase offers** <br /> <br />|As a partner, you can [create invitations](../Topic/Help_for_Microsoft_Intune_Partners.md#BKMK_CreateTrials) that make it easy for your customers to first try the service, and to make a purchase. <br /> <br />Offers you create contain a link where customers can access the offer. The link contains an embedded code that identifies you as the subscription advisor. <br /> <br />|
 |**Offer delegated administration** <br /> <br />|As a partner, you can [offer delegated administration](../Topic/Help_for_Microsoft_Intune_Partners.md#BKMK_OfferAdmin), which allows users from your company to provide additional support to your customers. <br /> <br />|
 |**Configure your users to be delegated administrators** <br /> <br />|In addition to managing your own company subscription, (including giving your users administrative access to your subscription), you can [give your users permissions](../Topic/Help_for_Microsoft_Intune_Partners.md#BKMK_AssignDelAdmin) for companies you support. <br /> <br />|
 |**Administer a customer** <br /> <br />|When your users have administrative access to companies you support, they can use the partner portal to [administer customers](../Topic/Help_for_Microsoft_Intune_Partners.md#BKMK_Administer). <br /> <br />|
-You continue to use the [!INC[wit_firstref](../Token/wit_firstref_md.md)] account portal and administration console to manage your own subscription, including devices and users. For information about managing [!INC[wit_nextref](../Token/wit_nextref_md.md)], see the [Documentation for Microsoft Intune](../Topic/Documentation_for_Microsoft_Intune.md).
+You continue to use the [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] account portal and administration console to manage your own subscription, including devices and users. For information about managing [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)], see the [Documentation for Microsoft Intune](../Topic/Documentation_for_Microsoft_Intune.md).
 
 ## <a name="BKMK_FindCustomers"></a>Find and help customers
 Use the partner portal to identify customers that you can help. After you locate a customer, you can provide services or assistance, which include:
@@ -38,7 +38,7 @@ To find a customer in the partner portal, search for a customer’s user name or
 
 #### To find and help a customer
 
-1. On the **Partner Overview** page of the [!INC[wit_nextref](../Token/wit_nextref_md.md)] partner portal, click **Lookup user or domain**.
+1. On the **Partner Overview** page of the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] partner portal, click **Lookup user or domain**.
 
 2. On the **Search for user or domain** page, enter the complete user name (someone@contoso.com) or the domain name (contoso.com) you want to find. The name must be an exact match. Wild cards are not supported. Click **Next** to begin the search.
 
@@ -46,10 +46,10 @@ To find a customer in the partner portal, search for a customer’s user name or
 
    |Action <br /> <br />|Details <br /> <br />|
    |----------|-----------|
-   |**Administer on behalf of** <br /> <br />|Only available when the customer has given you permissions as a delegated administrator. <br /> <br />This link opens a [!INC[wit_firstref](../Token/wit_firstref_md.md)] account portal to the customer’s subscription. <br /> <br /><ul><li>Confirm the subscription you are managing by viewing the company name on display at the top of the left hand pane. </li><li>When your partner credentials are configured for **Limited administration**, you will not have access to the **Manage**, **Purchase**, or **Domain** nodes of your customer’s subscription. </li><li>If you click a link to an available console, like the company portal or admin console, you are directed to that console for your company, and not the console for the customer. </li> </ul>|
+   |**Administer on behalf of** <br /> <br />|Only available when the customer has given you permissions as a delegated administrator. <br /> <br />This link opens a [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] account portal to the customer’s subscription. <br /> <br /><ul><li>Confirm the subscription you are managing by viewing the company name on display at the top of the left hand pane. </li><li>When your partner credentials are configured for **Limited administration**, you will not have access to the **Manage**, **Purchase**, or **Domain** nodes of your customer’s subscription. </li><li>If you click a link to an available console, like the company portal or admin console, you are directed to that console for your company, and not the console for the customer. </li> </ul>|
    |**Create service request** <br /> <br />|Opens a service request on behalf of your customer. <br /> <br />|
    |**Show all administrators** <br /> <br />|Displays a list of all tenant administrators for your customer’s company. <br /> <br />|
-   |**Reset password** <br /> <br />|Resets the password for your customer’s user account in [!INC[wit_firstref](../Token/wit_firstref_md.md)]. <br /> <br /><ul><li>When you are a global administrator, you can reset passwords from the partner portal. </li><li>If you are a limited administrator, you can only reset passwords from the customers account portal. </li> </ul>|
+   |**Reset password** <br /> <br />|Resets the password for your customer’s user account in [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)]. <br /> <br /><ul><li>When you are a global administrator, you can reset passwords from the partner portal. </li><li>If you are a limited administrator, you can only reset passwords from the customers account portal. </li> </ul>|
 
 ## <a name="BKMK_CreateTrials"></a>Create trial invitations and purchase offers
 A trial invitation can contain an offer for only one trial subscription at a time.
@@ -58,7 +58,7 @@ Purchase offers can contain one or more subscriptions, which allows you to bundl
 
 **Trials and offers have the following in common:**
 
-- When you create a trial invitation or an offer, [!INC[wit_firstref](../Token/wit_firstref_md.md)] creates a message that contains the details. You can then customize this message and send it to your customer.
+- When you create a trial invitation or an offer, [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] creates a message that contains the details. You can then customize this message and send it to your customer.
 
 - After you customize the message, you can click **Open in email** to automatically create an email message with the message details. You can also manually copy and paste the message into a different communication format.
 
@@ -86,7 +86,7 @@ When a customer accepts an offer from the link in the message, they are directed
 
 #### To create and send a trial invitation or purchase offer
 
-1. On the **Partner Overview** page of the [!INC[wit_nextref](../Token/wit_nextref_md.md)] partner portal, click **Send trial invitations** or **Create purchase offers**.
+1. On the **Partner Overview** page of the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] partner portal, click **Send trial invitations** or **Create purchase offers**.
 
 2. In the wizard, configure the available options:
 
@@ -125,7 +125,7 @@ After a customer accepts your offer and configures your partner ID as a delegate
 
 #### To offer delegated administration to an existing account
 
-1. On the **Partner Overview** page of the [!INC[wit_nextref](../Token/wit_nextref_md.md)] partner portal, click **Send delegated administration offers**.
+1. On the **Partner Overview** page of the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] partner portal, click **Send delegated administration offers**.
 
 2. Click **Open in email**, or copy the link for the offer and paste it manually into an email message.
 
@@ -134,7 +134,7 @@ After a customer accepts your offer and configures your partner ID as a delegate
 You can also include an offer of delegated administration when you create a trail subscription or purchase offer by selecting **Include authorization for delegated** when selecting options for the trial or offer.
 
 ## <a name="BKMK_AssignDelAdmin"></a>Give users permission to act as delegated administrators
-In the [!INC[wit_firstref](../Token/wit_firstref_md.md)] account portal of your subscription, you can configure your users to have administrative access to companies that you support:
+In the [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] account portal of your subscription, you can configure your users to have administrative access to companies that you support:
 
 - You can make this partner-only configuration when you create new user accounts, or when you edit existing user accounts.
 
@@ -189,5 +189,5 @@ After a customer configures your partner ID as a delegated administrator, your u
 
 3. After the customer is found, click **Administer on behalf of**.
 
-When the [!INC[wit_firstref](../Token/wit_firstref_md.md)] account portal opens, confirm you are working with the customer account by viewing the company name in the upper left corner of the left pane, and then perform the required administration tasks.
+When the [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] account portal opens, confirm you are working with the customer account by viewing the company name in the upper left corner of the left pane, and then perform the required administration tasks.
 

@@ -10,7 +10,7 @@ ms.topic: article
 ms.assetid: 0521099d-1c23-47bf-b937-751baca78862
 ---
 # Rolling out apps with Microsoft Intune
-This topic provide specific recommendations for a phased rollout of apps in [!INC[wit_firstref](../Token/wit_firstref_md.md)]. For general information about rollout phases, see [Rollout phases for Microsoft Intune deployment](../Topic/Rollout_phases_for_Microsoft_Intune_deployment.md).
+This topic provide specific recommendations for a phased rollout of apps in [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)]. For general information about rollout phases, see [Rollout phases for Microsoft Intune deployment](../Topic/Rollout_phases_for_Microsoft_Intune_deployment.md).
 
 ## Phases of app rollout
 The phases of app rollout are:
@@ -32,11 +32,11 @@ Consider the following:
 
 - The suitability of  the app for your users and their devices (all operating systems that are likely to be used).
 
-- Check that the installer for the app you chose is supported by [!INC[wit_nextref](../Token/wit_nextref_md.md)] app distribution, as described in  [Plan for app deployment in Microsoft Intune](../Topic/Plan_for_app_deployment_in_Microsoft_Intune.md).
+- Check that the installer for the app you chose is supported by [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] app distribution, as described in  [Plan for app deployment in Microsoft Intune](../Topic/Plan_for_app_deployment_in_Microsoft_Intune.md).
 
 - Ensure that app distribution prerequisites are installed, as described in [Plan for app deployment in Microsoft Intune](../Topic/Plan_for_app_deployment_in_Microsoft_Intune.md).
 
-- Determine that the app type is supported by [!INC[wit_nextref](../Token/wit_nextref_md.md)].
+- Determine that the app type is supported by [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)].
 
 - Check that  you have sufficient  cloud storage space available to upload the app. Instructions for purchasing additional storage are provided in [Plan for app deployment in Microsoft Intune](../Topic/Plan_for_app_deployment_in_Microsoft_Intune.md).
 
@@ -71,7 +71,7 @@ During the pilot you will deploy the app to a small group of test users and devi
 - Use a phased approach for deploying the app, adding groups incrementally to ensure that the rollout is proceeding smoothly.
 
 ### Run state
-**Operations:** Monitor your [!INC[wit_nextref](../Token/wit_nextref_md.md)] console for alerts and user or device issues, and to ensure that application distribution is functioning according to your organizational plan.
+**Operations:** Monitor your [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] console for alerts and user or device issues, and to ensure that application distribution is functioning according to your organizational plan.
 
 **Help desk:** Ensure that your help desk is aware of any changes to app availability that may result in support requests.
 

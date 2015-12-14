@@ -11,18 +11,18 @@ ms.topic: article
 ms.assetid: b05bbc3f-6256-490d-901f-3746203ca160
 ---
 # Custom URI settings for Windows 10 devices
-This topic lists the settings that you can configure for Windows 10 and Windows 10 Mobile devices in a [!INC[wit_firstref](../Token/wit_firstref_md.md)]**Windows 10 Custom Policy**.
+This topic lists the settings that you can configure for Windows 10 and Windows 10 Mobile devices in a [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)]**Windows 10 Custom Policy**.
 
 For information about how to create and deploy these policies, see [Windows 10 custom policy settings in Microsoft Intune](../Topic/Windows_10_custom_policy_settings_in_Microsoft_Intune.md).
 
 > [!NOTE]
 > In the **Supports** column of the following table, the following values are used:
 > 
-> - **Desktop** – The setting supports Windows 10 Professional and Enterprise computers that are enrolled with [!INC[wit_nextref](../Token/wit_nextref_md.md)] only.
+> - **Desktop** – The setting supports Windows 10 Professional and Enterprise computers that are enrolled with [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] only.
 > - **Mobile** – The setting supports Windows 10 Mobile devices only.
 > - **Both** – The setting supports both desktop and mobile devices.
 > 
-> All devices must be enrolled with [!INC[wit_firstref](../Token/wit_firstref_md.md)] if you want to use the Windows Custom URI Policy.
+> All devices must be enrolled with [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] if you want to use the Windows Custom URI Policy.
 
 ## Policy
 

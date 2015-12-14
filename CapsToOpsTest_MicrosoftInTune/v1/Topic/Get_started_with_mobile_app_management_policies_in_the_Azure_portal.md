@@ -41,12 +41,12 @@ This topic tells you what you need to get started creating mobile app management
 ## <a name="bkmk_Prereqs"></a>What you need to get started
 Before you start, you'll need the following:
 
-- A subscription to [!INC[wit_firstref](../Token/wit_firstref_md.md)].    End-users need [!INC[wit_nextref](../Token/wit_nextref_md.md)] licenses to get apps with MAM policy.
+- A subscription to [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)].    End-users need [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] licenses to get apps with MAM policy.
 
-- An Office 365 (O365) subscription and Azure Active Directory (Azure AD) to create users and assign [!INC[wit_nextref](../Token/wit_nextref_md.md)] licenses.  Azure AD authenticates the user when the end-user launches the app and enters their work credentials.
+- An Office 365 (O365) subscription and Azure Active Directory (Azure AD) to create users and assign [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] licenses.  Azure AD authenticates the user when the end-user launches the app and enters their work credentials.
 
    > [!NOTE]
-   > If you are setting up users using the [!INC[wit_nextref](../Token/wit_nextref_md.md)] console, be aware that the MAM policy configuration is moving to the Azure portal going forward and to use this portal, you need to set up Azure AD user groups using the Office 365 portal.
+   > If you are setting up users using the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] console, be aware that the MAM policy configuration is moving to the Azure portal going forward and to use this portal, you need to set up Azure AD user groups using the Office 365 portal.
 
 ## <a name="bkmk_prereqshowto"></a>Set up the prerequisites
 The following table lists the role and permissions you can assign to admin users
@@ -58,15 +58,15 @@ The following table lists the role and permissions you can assign to admin users
 |Owner role (Azure preview portal) <br /> <br />|<ul><li>Access to Azure preview portal (can do both role management and mobile app management tasks. </li> </ul>|
 |Contributor role (Azure preview portal) <br /> <br />|<ul><li>Access to Azure preview portal (can only do the mobile app management tasks. </li> </ul>|
 
-#### Create users and assign [!INC[wit_nextref](../Token/wit_nextref_md.md)] licenses
+#### Create users and assign [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] licenses
 
-1. You   already have an [!INC[wit_nextref](../Token/wit_nextref_md.md)] subscription if you are currently using [!INC[wit_nextref](../Token/wit_nextref_md.md)] to manage your devices.  You also have an [!INC[wit_nextref](../Token/wit_nextref_md.md)] subscription if you have purchased an EMS license. If you are trying [!INC[wit_nextref](../Token/wit_nextref_md.md)] to check out the MAM capabilities, you can get a trial account [here](http://www.microsoft.com/en-us/server-cloud/products/microsoft-intune/).
+1. You   already have an [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] subscription if you are currently using [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] to manage your devices.  You also have an [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] subscription if you have purchased an EMS license. If you are trying [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] to check out the MAM capabilities, you can get a trial account [here](http://www.microsoft.com/en-us/server-cloud/products/microsoft-intune/).
 
-   To check if you have an [!INC[wit_nextref](../Token/wit_nextref_md.md)] subscription, on the Office portal, go to Billing page.  You should see [!INC[wit_nextref](../Token/wit_nextref_md.md)] as **Active** under subscriptions.
+   To check if you have an [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] subscription, on the Office portal, go to Billing page.  You should see [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] as **Active** under subscriptions.
 
 2. Sign in to the   [the Office portal](http://portal.office.com) with your admin credentials.
 
-3. Navigate to the **Active Users** page to add users and assign [!INC[wit_nextref](../Token/wit_nextref_md.md)] licenses.
+3. Navigate to the **Active Users** page to add users and assign [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] licenses.
 
    ![](../Image/AppManagement/OfficePortal_AddUsers.png)
 
@@ -83,7 +83,7 @@ The **Azure preview portal** allows you create app policies, deploy it the polic
 
 #### To get started using the portal
 
-1. Go the [Azure preview portal](https://portal.azure.com) and sign in with  your [!INC[wit_nextref](../Token/wit_nextref_md.md)] credentials.
+1. Go the [Azure preview portal](https://portal.azure.com) and sign in with  your [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] credentials.
 
    ![](../Image/AppManagement/AzurePortal_MAMSigninPage.png)
 
@@ -123,7 +123,7 @@ The **Azure preview portal** allows you create app policies, deploy it the polic
    ![](../Image/AppManagement/AzurePortal_MAM_AddusertoRole.png)
 
    > [!IMPORTANT]
-   > If you select a user who does not have an [!INC[wit_nextref](../Token/wit_nextref_md.md)] license assigned to them, they will not be able to access the portal.
+   > If you select a user who does not have an [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] license assigned to them, they will not be able to access the portal.
 
 ## <a name="bkmk_nextsteps"></a>Next steps
 [Create and deploy mobile app management policies with Microsoft Intune](../Topic/Create_and_deploy_mobile_app_management_policies_with_Microsoft_Intune.md)

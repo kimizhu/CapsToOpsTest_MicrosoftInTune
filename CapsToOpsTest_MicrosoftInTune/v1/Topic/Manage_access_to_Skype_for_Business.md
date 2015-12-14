@@ -10,7 +10,7 @@ ms.topic: article
 ms.assetid: 1b2d7125-f63f-43cf-ac1e-94fbedf2a7e8
 ---
 # Manage access to Skype for Business
-Use the [!INC[wit_firstref](../Token/wit_firstref_md.md)]**Skype for Business Online** conditional access policy to manage access to Skype for Business Online, based on conditions you specify.
+Use the [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)]**Skype for Business Online** conditional access policy to manage access to Skype for Business Online, based on conditions you specify.
 
 When a targeted user attempts to use Skype for Business Online on their device, the following evaluation occurs:
 
@@ -20,17 +20,17 @@ The device that needs access to Skype for Business Online must:
 
 - Be an Android or iOS device.
 
-- Be enrolled with [!INC[wit_nextref](../Token/wit_nextref_md.md)]
+- Be enrolled with [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)]
 
-- Be compliant with any deployed [!INC[wit_nextref](../Token/wit_nextref_md.md)] compliance policies
+- Be compliant with any deployed [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] compliance policies
 
 The device state is stored in Azure Active Directory which grants or blocks access, based on the conditions you specify.
 
 If a condition is not met, the user is presented with one of the following messages when they log in:
 
-- If the device is not enrolled with [!INC[wit_nextref](../Token/wit_nextref_md.md)], or is not registered in Azure Active Directory, a message is displayed with instructions about how to install the company portal app and enroll.
+- If the device is not enrolled with [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)], or is not registered in Azure Active Directory, a message is displayed with instructions about how to install the company portal app and enroll.
 
-- If the device is not compliant, a message is displayed that directs the user to the [!INC[wit_nextref](../Token/wit_nextref_md.md)] web portal where they can find information about the problem, and how to remediate it.
+- If the device is not compliant, a message is displayed that directs the user to the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] web portal where they can find information about the problem, and how to remediate it.
 
 ## Steps to configure conditional access for Skype for Business Online
 
@@ -49,7 +49,7 @@ If a user is in both groups, they will be exempt from the policy.
 Ensure that you create and deploy a compliance policy to all devices that the SharePoint Online policy will be targeted to.
 
 > [!NOTE]
-> While compliance policies are deployed to [!INC[wit_nextref](../Token/wit_nextref_md.md)] groups, conditional access policies are targeted to Azure Active Directory security groups.
+> While compliance policies are deployed to [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] groups, conditional access policies are targeted to Azure Active Directory security groups.
 
 For details about how to configure the compliance policy, see [Manage device compliance policies for Microsoft Intune](../Topic/Manage_device_compliance_policies_for_Microsoft_Intune.md).
 

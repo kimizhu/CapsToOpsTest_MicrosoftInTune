@@ -11,15 +11,15 @@ ms.topic: article
 ms.assetid: 9a18c0fe-9f03-4e84-a4d0-b63821bf5d25
 ---
 # Set up Windows device management with Microsoft Intune
-You can use  [!INC[wit_nextref](../Token/wit_nextref_md.md)] to manage desktops, laptops, and other devices running Windows as mobile devices. You may also want to [Set up Windows Phone management with Microsoft Intune](../Topic/Set_up_Windows_Phone_management_with_Microsoft_Intune.md) or [manage computers with Intune client software](http://technet.microsoft.com/library/dn646959.aspx) using the [!INC[wit_nextref](../Token/wit_nextref_md.md)] client.
+You can use  [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] to manage desktops, laptops, and other devices running Windows as mobile devices. You may also want to [Set up Windows Phone management with Microsoft Intune](../Topic/Set_up_Windows_Phone_management_with_Microsoft_Intune.md) or [manage computers with Intune client software](http://technet.microsoft.com/library/dn646959.aspx) using the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] client.
 
 ## Prepare to manage Windows devices with Intune
-To access resources managed with[!INC[wit_nextref](../Token/wit_nextref_md.md)] users can enroll their Windows computers as mobile devices.  Creating a DNS CNAME helps users connect to the [!INC[wit_nextref](../Token/wit_nextref_md.md)] company portal without entering a server name. If you want to deploy the company portal with [!INC[wit_nextref](../Token/wit_nextref_md.md)], you will need to enable sideloading with a sideloading key.   Users can also download and install the company portal from the Store or use software included in Windows. Complete the following steps to set up Windows device management with [!INC[wit_nextref](../Token/wit_nextref_md.md)].
+To access resources managed with[!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] users can enroll their Windows computers as mobile devices.  Creating a DNS CNAME helps users connect to the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] company portal without entering a server name. If you want to deploy the company portal with [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)], you will need to enable sideloading with a sideloading key.   Users can also download and install the company portal from the Store or use software included in Windows. Complete the following steps to set up Windows device management with [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)].
 
 #### Set up Windows device management
 
-1. **Set up [!INC[wit_nextref](../Token/wit_nextref_md.md)]**
-   If you haven’t already, [prepare for mobile device management](https://technet.microsoft.com/library/mt346013.aspx) by setting the mobile device management authority to **[!INC[wit_nextref](../Token/wit_nextref_md.md)]**.
+1. **Set up [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)]**
+   If you haven’t already, [prepare for mobile device management](https://technet.microsoft.com/library/mt346013.aspx) by setting the mobile device management authority to **[!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)]**.
 
 2. **Set a DNS alias for the enrollment server address** (optional)
 
@@ -99,7 +99,7 @@ To access resources managed with[!INC[wit_nextref](../Token/wit_nextref_md.md)] 
 
    - **Website name**
 
-9. [!INC[CPEnrollmentTermsAndConditions](../Token/CPEnrollmentTermsAndConditions_md.md)]
+9. [!INCLUDE[CPEnrollmentTermsAndConditions](../Token/CPEnrollmentTermsAndConditions_md.md)]
 
 10. **Tell users how to get access to company resources with the company portal**
    Your users will need to know how to enroll their devices and what to expect once they're brought into management. [What to tell your end users about using Microsoft Intune](../Topic/What_to_tell_your_end_users_about_using_Microsoft_Intune.md)
