@@ -1,13 +1,13 @@
 ---
 description: na
+keywords: na
+pagetitle: Your computer is already enrolled
 search: na
-title: Your computer is already enrolled
-ms.service: na
+ms.author: 2acc2e0c-a3ea-42a3-8a95-f1f50c2bbe2f
+ms.date: 2015-10-06
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: 2015-10-06
-ms.author: 2acc2e0c-a3ea-42a3-8a95-f1f50c2bbe2f
-capscontentguid: 8d3a40f5-99e9-48dc-9706-f7a3a23e5704
+ms.assetid: 8d3a40f5-99e9-48dc-9706-f7a3a23e5704
 ---
 # Your computer is already enrolled
 You are seeing this page because you ran Setup for the [!INC[wit_firstref](../Token/wit_firstref_md.md)] client software. However, the software is already installed on your computer and Setup cannot continue.

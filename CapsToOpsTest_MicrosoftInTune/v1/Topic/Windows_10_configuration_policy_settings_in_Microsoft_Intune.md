@@ -1,13 +1,14 @@
 ---
 description: na
+keywords: na
+pagetitle: Windows 10 configuration policy settings in Microsoft Intune
 search: na
-title: Windows 10 configuration policy settings in Microsoft Intune
+ms.author: dbdc710f437843008017318979c6adba
+ms.date: 2015-11-17
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: 2015-11-17
-ms.author: dbdc710f437843008017318979c6adba
-capscontentguid: 00a602d9-b339-4fd8-ab70-defbf6686855
+ms.assetid: 00a602d9-b339-4fd8-ab70-defbf6686855
 ---
 # Windows 10 configuration policy settings in Microsoft Intune
 Use the [!INC[wit_firstref](../Token/wit_firstref_md.md)]**general configuration policy** for Windows 10 to configure settings for enrolled Windows 10 desktop, and Windows 10 Mobile devices:

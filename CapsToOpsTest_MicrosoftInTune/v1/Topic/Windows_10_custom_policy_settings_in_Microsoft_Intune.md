@@ -1,13 +1,14 @@
 ---
 description: na
+keywords: na
+pagetitle: Windows 10 custom policy settings in Microsoft Intune
 search: na
-title: Windows 10 custom policy settings in Microsoft Intune
+ms.author: dbdc710f437843008017318979c6adba
+ms.date: 2015-10-08
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: 2015-10-08
-ms.author: dbdc710f437843008017318979c6adba
-capscontentguid: 5756b025-6fe9-418d-a1c4-cae576d31b79
+ms.assetid: 5756b025-6fe9-418d-a1c4-cae576d31b79
 ---
 # Windows 10 custom policy settings in Microsoft Intune
 Use the [!INC[wit_firstref](../Token/wit_firstref_md.md)]**custom configuration policy** for Windows 10 and Windows 10 Mobile to deploy OMA-URI (Open Mobile Alliance Uniform Resource Identifier) settings that can be used to control features on Windows 10 and Windows 10 Mobile devices. These are standard settings that many mobile device manufacturers use to control device features.

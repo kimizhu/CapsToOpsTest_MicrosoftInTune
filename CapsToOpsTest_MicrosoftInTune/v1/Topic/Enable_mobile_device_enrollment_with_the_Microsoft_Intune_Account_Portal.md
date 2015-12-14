@@ -1,13 +1,14 @@
 ---
 description: na
+keywords: na
+pagetitle: Enable mobile device enrollment with the Microsoft Intune Account Portal
 search: na
-title: Enable mobile device enrollment with the Microsoft Intune Account Portal
-ms.service: na
+ms.author: f93f38ed286b4cbb94b9b427a0abc63e
+ms.date: 2015-07-28
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: 2015-07-28
-ms.author: f93f38ed286b4cbb94b9b427a0abc63e
-capscontentguid: 3adf63cd-34b6-4641-aa88-766bb59dd853
+ms.assetid: 3adf63cd-34b6-4641-aa88-766bb59dd853
+robots: noindex,nofollow
 ---
 # Enable mobile device enrollment with the Microsoft Intune Account Portal
 Intune supports “bring your own device” (BYOD) by letting users enroll their devices through the Microsoft Intune **Account Portal**. Before you can enroll devices, you must configure Intune for mobile device management. If you haven’t already, set up management for each device platforms in your organization:

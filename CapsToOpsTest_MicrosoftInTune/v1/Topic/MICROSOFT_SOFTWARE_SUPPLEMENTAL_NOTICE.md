@@ -1,13 +1,14 @@
 ---
 description: na
+keywords: na
+pagetitle: MICROSOFT SOFTWARE SUPPLEMENTAL NOTICE
 search: na
-title: MICROSOFT SOFTWARE SUPPLEMENTAL NOTICE
+ms.author: dbdc710f437843008017318979c6adba
+ms.date: 4/30/2015 8:00:00 AM
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: 4/30/2015 8:00:00 AM
-ms.author: dbdc710f437843008017318979c6adba
-capscontentguid: 02b71ab4-8279-474a-af59-839f4e48e0e0
+ms.assetid: 02b71ab4-8279-474a-af59-839f4e48e0e0
 ---
 # MICROSOFT SOFTWARE SUPPLEMENTAL NOTICE
 

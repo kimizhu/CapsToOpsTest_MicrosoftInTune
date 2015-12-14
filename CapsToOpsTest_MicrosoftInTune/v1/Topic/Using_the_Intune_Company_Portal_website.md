@@ -1,13 +1,14 @@
 ---
 description: na
+keywords: na
+pagetitle: Using the Intune Company Portal website
 search: na
-title: Using the Intune Company Portal website
+ms.author: f224bb9b442140c797af0e59b80f0d33
+ms.date: 2015-11-19
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: 2015-11-19
-ms.author: f224bb9b442140c797af0e59b80f0d33
-capscontentguid: a26d9e3c-8f58-4494-9571-fc88ba91852e
+ms.assetid: a26d9e3c-8f58-4494-9571-fc88ba91852e
 ---
 # Using the Intune Company Portal website
 The [Company Portal website](http://portal.manage.microsoft.com) is a web page that you can use to manage computers and devices that you have enrolled in Intune.

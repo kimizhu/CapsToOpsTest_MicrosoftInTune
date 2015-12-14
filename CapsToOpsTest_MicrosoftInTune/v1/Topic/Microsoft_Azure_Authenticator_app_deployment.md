@@ -1,13 +1,15 @@
 ---
 description: na
+keywords: na
+pagetitle: Microsoft Azure Authenticator app deployment
 search: na
-title: Microsoft Azure Authenticator app deployment
+ms.author: dbdc710f437843008017318979c6adba
+ms.date: 2015-08-03
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: 2015-08-03
-ms.author: dbdc710f437843008017318979c6adba
-capscontentguid: db9a294a-8409-450b-9b83-808a43a64788
+ms.assetid: db9a294a-8409-450b-9b83-808a43a64788
+robots: noindex,nofollow
 ---
 # Microsoft Azure Authenticator app deployment
 Microsoft Azure Authenticator is a part of the Microsoft Enterprise Mobility Suite (EMS) of applications. Use this app to let your users and their devices securely connect to Microsoft services such as Office 365. This app is required by the access control, data protection, and compliance features of Microsoft Intune.

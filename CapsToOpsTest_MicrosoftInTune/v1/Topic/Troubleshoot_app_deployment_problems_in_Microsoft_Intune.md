@@ -1,13 +1,14 @@
 ---
 description: na
+keywords: na
+pagetitle: Troubleshoot app deployment problems in Microsoft Intune
 search: na
-title: Troubleshoot app deployment problems in Microsoft Intune
+ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
+ms.date: 2015-09-24
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: 2015-09-24
-ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
-capscontentguid: 28ac298e-fb73-4c1c-b3fd-8336639e05e6
+ms.assetid: 28ac298e-fb73-4c1c-b3fd-8336639e05e6
 ---
 # Troubleshoot app deployment problems in Microsoft Intune
 This topic provides resources to help you solve app deployment problems with[!INC[wit_firstref](../Token/wit_firstref_md.md)].

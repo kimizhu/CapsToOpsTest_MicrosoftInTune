@@ -1,13 +1,13 @@
 ---
 description: na
+keywords: na
+pagetitle: Lindavr test topic
 search: na
-title: Lindavr test topic
-ms.service: na
+ms.author: d4484712-0a03-4345-bdeb-64372a73012b
+ms.date: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: na
-ms.author: d4484712-0a03-4345-bdeb-64372a73012b
-capscontentguid: 6d388b97-7a2e-4ad9-92b1-2c0c7d51217a
+ms.assetid: 6d388b97-7a2e-4ad9-92b1-2c0c7d51217a
 ---
 # Lindavr test topic
 ![](../Image/WIT_Nav_OverviewGray.png)![](../Image/WIT_Nav_GetStartedGray.png)![](../Image/WIT_Nav_EnrollDevicesGray.png)![](../Image/WIT_Nav_ConfigureDevicesGray.png)![](../Image/WIT_Nav_DeployAppsGray.png)![](../Image/WIT_Nav_ProtectResourcesGray.png)![](../Image/WIT_Nav_RetireDataDevices.png)![](../Image/WIT_Nav_TroubleshootingGray.png)![](../Image/WIT_Nav_RealworldSolutionsGray.png)![](../Image/WIT_Nav_TechnicalReferenceGray.png)

@@ -1,13 +1,14 @@
 ---
 description: na
+keywords: na
+pagetitle: Move from a Microsoft Intune free trial to a paid subscription
 search: na
-title: Move from a Microsoft Intune free trial to a paid subscription
-ms.service: na
+ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
+ms.date: 4/24/2015 8:00:00 AM
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: 4/24/2015 8:00:00 AM
-ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
-capscontentguid: 05a1c558-1332-4489-9afe-ecb1060df0cb
+ms.assetid: 05a1c558-1332-4489-9afe-ecb1060df0cb
+robots: noindex,nofollow
 ---
 # Move from a Microsoft Intune free trial to a paid subscription
 When you have completed your free trial, you can move to a paid subscription. You can license [!INC[wit_nextref](../Token/wit_nextref_md.md)] in the following ways:

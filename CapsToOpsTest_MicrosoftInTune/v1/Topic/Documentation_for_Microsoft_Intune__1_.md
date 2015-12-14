@@ -1,13 +1,14 @@
 ---
 description: na
+keywords: na
+pagetitle: Documentation for Microsoft Intune &lt;1&gt;
 search: na
-title: Documentation for Microsoft Intune &lt;1&gt;
-ms.service: na
+ms.author: 46e42689-2c99-4b8e-ac9f-681223f0298f
+ms.date: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: na
-ms.author: 46e42689-2c99-4b8e-ac9f-681223f0298f
-capscontentguid: d5f570fc-d55b-437a-82eb-e03e4e4d5f9a
+ms.assetid: d5f570fc-d55b-437a-82eb-e03e4e4d5f9a
+robots: noindex,nofollow
 ---
 # Documentation for Microsoft Intune &lt;1&gt;
 Intune can help your users get more work done, and work the way they want to work, while helping you protect the data and devices they work with. The Intune documentation will show you how to do that.

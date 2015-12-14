@@ -1,13 +1,14 @@
 ---
 description: na
+keywords: na
+pagetitle: What&#39;s new in Microsoft Intune
 search: na
-title: What&#39;s new in Microsoft Intune
+ms.author: d4484712-0a03-4345-bdeb-64372a73012b
+ms.date: 2015-12-02
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: get-started-article
-ms.date: 2015-12-02
-ms.author: d4484712-0a03-4345-bdeb-64372a73012b
-capscontentguid: fab51ee0-638d-4dd4-8d8f-1f263bc11e5c
+ms.assetid: fab51ee0-638d-4dd4-8d8f-1f263bc11e5c
 ---
 # What&#39;s new in Microsoft Intune
 
@@ -522,7 +523,7 @@ The following changes have been made to the company portal apps in this release:
 
 - Added support for Wi-Fi profiles with passkeys when Intune is used with Configuration Manager
 
-- Added Support for **Remote Lock** and **Passcode Reset** features when [!INC[wit_nextref](../Token/wit_nextref_md.md)]. is used with [!INC[cmshort](../Token/cmshort_md.md)].
+- Added Support for **Remote Lock** and **Passcode Reset** features when [!INC[wit_nextref](../Token/wit_nextref_md.md)] is used with [!INC[cmshort](../Token/cmshort_md.md)]
 
 - Added a **Verbose Logging** setting to improve troubleshooting
 

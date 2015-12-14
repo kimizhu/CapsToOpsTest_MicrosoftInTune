@@ -1,13 +1,14 @@
 ---
 description: na
+keywords: na
+pagetitle: Terms of Use
 search: na
-title: Terms of Use
+ms.author: dbdc710f437843008017318979c6adba
+ms.date: 4/30/2015 8:00:00 AM
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: 4/30/2015 8:00:00 AM
-ms.author: dbdc710f437843008017318979c6adba
-capscontentguid: 189c42d1-ed55-4ae3-9685-17a9fe87b5e2
+ms.assetid: 189c42d1-ed55-4ae3-9685-17a9fe87b5e2
 ---
 # Terms of Use
 

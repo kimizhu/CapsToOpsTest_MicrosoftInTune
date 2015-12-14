@@ -1,13 +1,14 @@
 ---
 description: na
+keywords: na
+pagetitle: Microsoft Intune features
 search: na
-title: Microsoft Intune features
-ms.service: na
+ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
+ms.date: 4/24/2015 8:00:00 AM
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: 4/24/2015 8:00:00 AM
-ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
-capscontentguid: 118a36f6-02c6-4e99-9c72-0b9daddc3b03
+ms.assetid: 118a36f6-02c6-4e99-9c72-0b9daddc3b03
+robots: noindex,nofollow
 ---
 # Microsoft Intune features
 [!INC[wit_firstref](../Token/wit_firstref_md.md)] provides a cloud-based service that can help your business protect and manage devices. Because it is cloud-based, it can be administered from any Silverlight-enabled web browser. [!INC[wit_nextref](../Token/wit_nextref_md.md)] can manage:

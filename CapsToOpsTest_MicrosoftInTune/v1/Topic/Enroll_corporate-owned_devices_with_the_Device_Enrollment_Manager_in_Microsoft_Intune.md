@@ -1,13 +1,14 @@
 ---
 description: na
+keywords: na
+pagetitle: Enroll corporate-owned devices with the Device Enrollment Manager in Microsoft Intune
 search: na
-title: Enroll corporate-owned devices with the Device Enrollment Manager in Microsoft Intune
+ms.author: f93f38ed286b4cbb94b9b427a0abc63e
+ms.date: 2015-11-17
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: 2015-11-17
-ms.author: f93f38ed286b4cbb94b9b427a0abc63e
-capscontentguid: a23abc61-69ed-44f1-9b71-b86aefc6ba03
+ms.assetid: a23abc61-69ed-44f1-9b71-b86aefc6ba03
 ---
 # Enroll corporate-owned devices with the Device Enrollment Manager in Microsoft Intune
 Organizations can use Intune to manage large numbers of mobile devices with a single user account. The *device enrollment manager* account is a special Intune account with permission to enroll more than five devices. You can assign a store manager or supervisor, for example, a device enrollment manager user account to allow her to do the following:

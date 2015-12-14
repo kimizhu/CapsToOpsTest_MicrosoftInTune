@@ -1,13 +1,13 @@
 ---
 description: na
+keywords: na
+pagetitle: Passcode reset and remote lock
 search: na
-title: Passcode reset and remote lock
-ms.service: na
+ms.author: d4484712-0a03-4345-bdeb-64372a73012b
+ms.date: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: na
-ms.author: d4484712-0a03-4345-bdeb-64372a73012b
-capscontentguid: 2c1e0dd3-23de-4182-9f68-007bc9e62363
+ms.assetid: 2c1e0dd3-23de-4182-9f68-007bc9e62363
 ---
 # Passcode reset and remote lock
 Insert introduction here.

@@ -1,13 +1,13 @@
 ---
 description: na
+keywords: na
+pagetitle: Run state
 search: na
-title: Run state
-ms.service: na
+ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
+ms.date: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: na
-ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
-capscontentguid: f46fb18e-228c-4a2d-92e7-20734e9bdae3
+ms.assetid: f46fb18e-228c-4a2d-92e7-20734e9bdae3
 ---
 # Run state
 Now that your [!INC[wit_firstref](../Token/wit_firstref_md.md)] system is operational, and you depend on it for business-critical functions and for secure device usage, maintain a robust system.

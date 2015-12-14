@@ -1,13 +1,14 @@
 ---
 description: na
+keywords: na
+pagetitle: Enable access to company resources with Microsoft Intune
 search: na
-title: Enable access to company resources with Microsoft Intune
+ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
+ms.date: 2015-11-17
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: 2015-11-17
-ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
-capscontentguid: 3dd8dd4e-e165-4d0c-97b7-b3e86ebab909
+ms.assetid: 3dd8dd4e-e165-4d0c-97b7-b3e86ebab909
 ---
 # Enable access to company resources with Microsoft Intune
 <?xml version="1.0" encoding="utf-8"?>

@@ -1,13 +1,14 @@
 ---
 description: na
+keywords: na
+pagetitle: Manage settings and features on your devices with Microsoft Intune policies
 search: na
-title: Manage settings and features on your devices with Microsoft Intune policies
+ms.author: dbdc710f437843008017318979c6adba
+ms.date: 2015-11-23
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: 2015-11-23
-ms.author: dbdc710f437843008017318979c6adba
-capscontentguid: d27f2739-9791-4aae-a9db-01a4e59ccfe5
+ms.assetid: d27f2739-9791-4aae-a9db-01a4e59ccfe5
 ---
 # Manage settings and features on your devices with Microsoft Intune policies
 [!INC[wit_firstref](../Token/wit_firstref_md.md)] uses **policies** that help you to configure many security and functional settings for enrolled mobile devices, including:

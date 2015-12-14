@@ -1,13 +1,14 @@
 ---
 description: na
+keywords: na
+pagetitle: Set up Android management with Microsoft Intune
 search: na
-title: Set up Android management with Microsoft Intune
+ms.author: f93f38ed286b4cbb94b9b427a0abc63e
+ms.date: 2015-11-17
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: 2015-11-17
-ms.author: f93f38ed286b4cbb94b9b427a0abc63e
-capscontentguid: dbe5cad1-3e0d-41a9-966b-738156089700
+ms.assetid: dbe5cad1-3e0d-41a9-966b-738156089700
 ---
 # Set up Android management with Microsoft Intune
 Android mobile devices allow users to enroll using the Company Portal app available from Google Play. To let users enroll their devices in [!INC[wit_nextref](../Token/wit_nextref_md.md)] complete the following.

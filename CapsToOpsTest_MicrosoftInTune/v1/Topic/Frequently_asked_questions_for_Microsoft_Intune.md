@@ -1,13 +1,14 @@
 ---
 description: na
+keywords: na
+pagetitle: Frequently asked questions for Microsoft Intune
 search: na
-title: Frequently asked questions for Microsoft Intune
+ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
+ms.date: na
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: na
-ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
-capscontentguid: a8126cca-9ec4-454b-a20b-dc1bb6797327
+ms.assetid: a8126cca-9ec4-454b-a20b-dc1bb6797327
 ---
 # Frequently asked questions for Microsoft Intune
 This topic provides answers to frequently asked questions about Microsoft Intune. If you have suggestions for other questions you'd like to see answered, [let us know](https://microsoftintune.uservoice.com/).
