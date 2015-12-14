@@ -14,7 +14,7 @@ ms.assetid: c86a4e4a-6b9f-4835-a3d3-61a3f5f4c1ec
 ![](../Image/Nav_Icons/WIT_Tile_W_Overview.png)![](../Image/Nav_Icons/WIT_Tile_W_GetStarted.png)![](../Image/Nav_Icons/WIT_Tile_W_EnrollDevices.png)![](../Image/Nav_Icons/WIT_Tile_W_ManageDevices.png)![](../Image/Nav_Icons/WIT_Tile_W_ManageApps.png)![](../Image/Nav_Icons/WIT_Tile_W_ProtectResources.png)![](../Image/Nav_Icons/WIT_Tile_W_RetireData.png)![](../Image/Nav_Icons/WIT_Tile_W_TechnicalReference.png)![](../Image/Nav_Icons/WIT_Tile_W_TroubleshootingHighlight.png)
 ![](../Image/Nav_Icons/WIT_Banner_Troubleshooting.png)
 
-You may find  after you've planned and deployed [!INC[wit_firstref](../Token/wit_firstref_md.md)], that you're encountering problems with your configuration or with clients. It's possible that your end users are experiencing difficulties with their devices. The resources below may help you find out what could be causing the problem so that you can resolve it.
+You may find  after you've planned and deployed [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)], that you're encountering problems with your configuration or with clients. It's possible that your end users are experiencing difficulties with their devices. The resources below may help you find out what could be causing the problem so that you can resolve it.
 
 > [!NOTE]
 > To create a support request, or to view an existing request,  click [here](https://portal.office.com/admin/default.aspx) to visit the Office 365 admin center. For more information about support options, see [How to get support for Microsoft Intune](../Topic/How_to_get_support_for_Microsoft_Intune.md).
@@ -28,7 +28,7 @@ The following troubleshooting information is available in this section:
 
 - [Troubleshoot Endpoint Protection in Microsoft Intune](../Topic/Troubleshoot_Endpoint_Protection_in_Microsoft_Intune.md)
 
-   [!INC[wit_nextref](../Token/wit_nextref_md.md)] provides endpoint protection to help you secure your managed computers. If you encounter issues with this feature,  this topic provides possible causes and solutions for errors and warnings you may see.
+   [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] provides endpoint protection to help you secure your managed computers. If you encounter issues with this feature,  this topic provides possible causes and solutions for errors and warnings you may see.
 
 - [Troubleshoot company resource access problems with Microsoft Intune](../Topic/Troubleshoot_company_resource_access_problems_with_Microsoft_Intune.md)
 
@@ -57,7 +57,7 @@ The following troubleshooting information is available in this section:
 ## Community resources
 You can find other helpful information in these community resources:
 
-- The [Microsoft Intune Survival Guide](http://social.technet.microsoft.com/wiki/contents/articles/23431.microsoft-intune-survival-guide.aspx) contains links to many resources that can help you configure, maintain, and troubleshoot [!INC[wit_nextref](../Token/wit_nextref_md.md)].
+- The [Microsoft Intune Survival Guide](http://social.technet.microsoft.com/wiki/contents/articles/23431.microsoft-intune-survival-guide.aspx) contains links to many resources that can help you configure, maintain, and troubleshoot [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)].
 
 - [The Intune blog](http://blogs.technet.com/b/windowsintune/)
 

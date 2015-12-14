@@ -11,7 +11,7 @@ ms.topic: article
 ms.assetid: 396ea714-0433-4bd5-a934-8d0b477f28e4
 ---
 # Get notified by Microsoft Intune alerts
-Alerts keep you in touch with what's happening in [!INC[wit_firstref](../Token/wit_firstref_md.md)].
+Alerts keep you in touch with what's happening in [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)].
 
 For example, alerts can notify you about the following events:
 
@@ -19,12 +19,12 @@ For example, alerts can notify you about the following events:
 
 - Malware has been found on a computer
 
-- A conflict between two [!INC[wit_nextref](../Token/wit_nextref_md.md)] policies was detected
+- A conflict between two [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] policies was detected
 
-- The latest updates and information about the [!INC[wit_nextref](../Token/wit_nextref_md.md)] service (notices).
+- The latest updates and information about the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] service (notices).
 
 ## How alerts work
-Alerts are generated based on **alert types**, a set of preconfigured rules built into [!INC[wit_nextref](../Token/wit_nextref_md.md)]. For example, the alert type **Cloud storage has 10% or less free space** alerts you when you are running out of space to store your apps in the cloud. You can enable or disable, and configure properties for each alert type. For example, using the above alert type, you can configure:
+Alerts are generated based on **alert types**, a set of preconfigured rules built into [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)]. For example, the alert type **Cloud storage has 10% or less free space** alerts you when you are running out of space to store your apps in the cloud. You can enable or disable, and configure properties for each alert type. For example, using the above alert type, you can configure:
 
 - **State:** Whether this alert type is enabled or disabled
 
@@ -39,9 +39,9 @@ Alerts are generated based on **alert types**, a set of preconfigured rules buil
 
 Other alert types might contain different items you can configure such as the percentage of devices that must be affected by an issue before an alert is generated.
 
-**When the criteria in an alert type is met, an alert is generated and displayed in the [!INC[wit_nextref](../Token/wit_nextref_md.md)] admin console.**
+**When the criteria in an alert type is met, an alert is generated and displayed in the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] admin console.**
 
-Additionally, you can configure [!INC[wit_nextref](../Token/wit_nextref_md.md)] to notify you by email when an alert is generated.
+Additionally, you can configure [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] to notify you by email when an alert is generated.
 
 ## Configuring alerts
 In the [Microsoft Intune administration console](https://manage.microsoft.com), click **Admin** &gt; **Alerts and Notifications**, then choose one of the following configuration tasks:
@@ -61,7 +61,7 @@ Use the following options to help you work with alerts from the Intune admin con
 |View notices <br /> <br />|Choose one of: <br /> <br /><ul><li>In the **Dashboard** workspace, click **Notices**. </li><li>In the **Alerts** workspace, click **All Alerts** &gt; **Notices**. </li> </ul>|
 |Close an alert <br /> <br />|In the list of alerts, choose the alert to close, then click **Close Alert**. <br /> <br />Closed alerts are permanently deleted after 90 days. <br /> <br />|
 |Reactivate a closed alert <br /> <br />|In the list of alerts, set the **Filters** drop-down to **Closed**. <br /> <br />In the list of closed alerts, select the alert you want to reactivate, then click **Reactivate Alert**. <br /> <br />|
-[!INC[wit_nextref](../Token/wit_nextref_md.md)] alerts remain active until:
+[!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] alerts remain active until:
 
 - The issue that caused the alert is resolved
 

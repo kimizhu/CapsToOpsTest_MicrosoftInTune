@@ -12,7 +12,7 @@ ms.assetid: 99fb6db6-21c5-46cd-980d-50f063ab8ab8
 # Troubleshoot policies in Microsoft Intune
 
 ## Policy issues
-Listed here are some issues that may arise from your [!INC[wit_firstref](../Token/wit_firstref_md.md)] policy configuration and troubleshooting recommendations for those issues.
+Listed here are some issues that may arise from your [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] policy configuration and troubleshooting recommendations for those issues.
 
 ### Is policy applied to device?
 **Issue:** It's not clear if a particular policy is being applied to a device, or a device behaves contrary to a policy.

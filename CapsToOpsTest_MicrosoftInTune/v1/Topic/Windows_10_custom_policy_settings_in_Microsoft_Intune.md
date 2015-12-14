@@ -11,9 +11,9 @@ ms.topic: article
 ms.assetid: 5756b025-6fe9-418d-a1c4-cae576d31b79
 ---
 # Windows 10 custom policy settings in Microsoft Intune
-Use the [!INC[wit_firstref](../Token/wit_firstref_md.md)]**custom configuration policy** for Windows 10 and Windows 10 Mobile to deploy OMA-URI (Open Mobile Alliance Uniform Resource Identifier) settings that can be used to control features on Windows 10 and Windows 10 Mobile devices. These are standard settings that many mobile device manufacturers use to control device features.
+Use the [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)]**custom configuration policy** for Windows 10 and Windows 10 Mobile to deploy OMA-URI (Open Mobile Alliance Uniform Resource Identifier) settings that can be used to control features on Windows 10 and Windows 10 Mobile devices. These are standard settings that many mobile device manufacturers use to control device features.
 
-This capability is intended to allow you to deploy Windows 10 settings that are not configurable with an [!INC[wit_nextref](../Token/wit_nextref_md.md)] policy. For information about the settings you can configure with these policies, see [Manage settings and features on your devices with Microsoft Intune policies](../Topic/Manage_settings_and_features_on_your_devices_with_Microsoft_Intune_policies.md).
+This capability is intended to allow you to deploy Windows 10 settings that are not configurable with an [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] policy. For information about the settings you can configure with these policies, see [Manage settings and features on your devices with Microsoft Intune policies](../Topic/Manage_settings_and_features_on_your_devices_with_Microsoft_Intune_policies.md).
 
 For a list of OMA-URI settings that you can configure on enrolled Windows 10 devices, see [Custom URI settings for Windows 10 devices](../Topic/Custom_URI_settings_for_Windows_10_devices.md).
 
@@ -31,7 +31,7 @@ For a list of OMA-URI settings that you can configure on enrolled Windows 10 dev
 
    |Setting name <br /> <br />|More information <br /> <br />|
    |----------------|--------------------|
-   |**Name** <br /> <br />|Enter a unique name for the policy to help you identify it in the [!INC[wit_nextref](../Token/wit_nextref_md.md)] console. <br /> <br />|
+   |**Name** <br /> <br />|Enter a unique name for the policy to help you identify it in the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] console. <br /> <br />|
    |**Description** <br /> <br />|Provide a description that gives an overview of the policy and other relevant information that helps you to locate it. <br /> <br />|
 
 4. In the **OMA-URI Settings** section, click **Add** to add a setting. You can also edit or delete an existing setting.

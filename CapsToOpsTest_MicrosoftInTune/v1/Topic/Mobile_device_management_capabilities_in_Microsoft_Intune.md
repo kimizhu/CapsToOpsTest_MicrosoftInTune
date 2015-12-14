@@ -11,12 +11,12 @@ ms.topic: article
 ms.assetid: f23b3ee7-78da-4e53-9fc2-78e58401bcf9
 ---
 # Mobile device management capabilities in Microsoft Intune
-Intune supports mobile device management of iOS, Android, and Windows Phone devices. It also supports management of Windows RT, Window computers, and Mac OS X computers as mobile devices. Users use a *company portal* to install apps, enroll and remove devices, and helps them contact their IT department or helpdesk. To enroll mobile devices you must set [!INC[wit_nextref](../Token/wit_nextref_md.md)] as your *mobile device authority* and then configure the infrastructure to support the platforms you want to managed. This requires establishing a trust relationship with the device.
+Intune supports mobile device management of iOS, Android, and Windows Phone devices. It also supports management of Windows RT, Window computers, and Mac OS X computers as mobile devices. Users use a *company portal* to install apps, enroll and remove devices, and helps them contact their IT department or helpdesk. To enroll mobile devices you must set [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] as your *mobile device authority* and then configure the infrastructure to support the platforms you want to managed. This requires establishing a trust relationship with the device.
 
 ## <a name="BKMK_MobileDeviceReqs"></a>Supported mobile devices
 The requirements to manage a mobile device and the level of management you have depend on whether you manage the device directly or use Exchange ActiveSync:
 
-- **Direct management**: Different types of mobile devices have different requirements for direct management. For example, to manage iOS devices you need an Apple Push Notification service certificate, and to manage apps for a [!INC[winblue_winrt_2](../Token/winblue_winrt_2_md.md)] device, you need sideloading keys and a code-signing certificate. [!INC[wit_nextref](../Token/wit_nextref_md.md)] can manage the following devices with mobile device management:
+- **Direct management**: Different types of mobile devices have different requirements for direct management. For example, to manage iOS devices you need an Apple Push Notification service certificate, and to manage apps for a [!INCLUDE[winblue_winrt_2](../Token/winblue_winrt_2_md.md)] device, you need sideloading keys and a code-signing certificate. [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] can manage the following devices with mobile device management:
 
    - Apple iOS 7.1 and later
 
@@ -42,7 +42,7 @@ The requirements to manage a mobile device and the level of management you have 
    To learn about using the On-Premises Connector or Service to Service Connector with Exchange, see [Mobile device management with Exchange ActiveSync and Microsoft Intune](../Topic/Mobile_device_management_with_Exchange_ActiveSync_and_Microsoft_Intune.md).
 
 ## Mobile device management features
-Intune supports mobile device management of iOS, Android, and Windows Phone devices. It also supports management of Windows RT and Window computers as mobile devices. [!INC[wit_nextref](../Token/wit_nextref_md.md)] can manage users' devices, popularly known as "bring your own device" (BYOD). It can also manage company-owned devices including scenarios where the company provides a list of devices users may choose from, known as "choose your own device" (CYOD).
+Intune supports mobile device management of iOS, Android, and Windows Phone devices. It also supports management of Windows RT and Window computers as mobile devices. [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] can manage users' devices, popularly known as "bring your own device" (BYOD). It can also manage company-owned devices including scenarios where the company provides a list of devices users may choose from, known as "choose your own device" (CYOD).
 
 You can enroll devices to meet your organization's needs:
 
@@ -53,9 +53,9 @@ You can enroll devices to meet your organization's needs:
 |**Who enrolls** <br /> <br />|Owner <br /> <br />|Administrator <br /> <br />|Device Manager <br /> <br />|Anyone <br /> <br />|
 |**Who un-enrolls** <br /> <br />|Owner or administrator <br /> <br />|Administrator <br /> <br />|Administrator <br /> <br />|Administrator <br /> <br />|
 |**Who can reset** <br /> <br />|Owner or administrator <br /> <br />|Administrator <br /> <br />|Administrator <br /> <br />|Administrator <br /> <br />|
-To enroll mobile devices you must set [!INC[wit_nextref](../Token/wit_nextref_md.md)] as your *mobile device authority* and then configure the infrastructure to support the platforms you want to managed. This requires establishing a trust relationship with the device.
+To enroll mobile devices you must set [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] as your *mobile device authority* and then configure the infrastructure to support the platforms you want to managed. This requires establishing a trust relationship with the device.
 
-Management, inventory, app deployment, provisioning, and retirement are all handled through the [!INC[wit_nextref](../Token/wit_nextref_md.md)] administration console. Users gain access to the company portal which allows them to install apps, enroll and remove devices, and helps them contact their IT department or helpdesk.
+Management, inventory, app deployment, provisioning, and retirement are all handled through the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] administration console. Users gain access to the company portal which allows them to install apps, enroll and remove devices, and helps them contact their IT department or helpdesk.
 
 **Mobile device management (MDM) capabilities** differ across mobile device platforms but all platforms support the following:
 
@@ -65,7 +65,7 @@ Management, inventory, app deployment, provisioning, and retirement are all hand
 
 - **Mobile application management.** Managed mobile apps can be configured to restrict certain app operations, such as copy and paste, to help protect your organization’s data. You can also use the managed browser to control the sites that users are allowed to visit. See [Configure and deploy mobile application management policies in the Microsoft Intune console](../Topic/Configure_and_deploy_mobile_application_management_policies_in_the_Microsoft_Intune_console.md) and [Manage Internet access using managed browser policies with Microsoft Intune](../Topic/Manage_Internet_access_using_managed_browser_policies_with_Microsoft_Intune.md).
 
-- **Conditional access.** Use [!INC[wit_nextref](../Token/wit_nextref_md.md)] conditional access policies to control access to on-premises Microsoft Exchange email from mobile devices, even when the device is not managed by Intune. See [Manage access to email and SharePoint with Microsoft Intune](../Topic/Manage_access_to_email_and_SharePoint_with_Microsoft_Intune.md).
+- **Conditional access.** Use [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] conditional access policies to control access to on-premises Microsoft Exchange email from mobile devices, even when the device is not managed by Intune. See [Manage access to email and SharePoint with Microsoft Intune](../Topic/Manage_access_to_email_and_SharePoint_with_Microsoft_Intune.md).
 
 - **Passwords management** differs across mobile device platforms, but all platforms let you require a password, limit the number of failed attempts, limit the minutes before the screen locks, set password expiration, and prevent previously-used passwords.
 
@@ -101,7 +101,7 @@ Management, inventory, app deployment, provisioning, and retirement are all hand
 |Wi-Fi profiles <br /> <br />|Deploy wireless network settings to your users. By deploying these settings, you minimize the end-user effort required to connect to the corporate network. <br /> <br />|[Help users connect to company networks using Wi-Fi profiles with Microsoft Intune](../Topic/Help_users_connect_to_company_networks_using_Wi-Fi_profiles_with_Microsoft_Intune.md) <br /> <br />|
 |Email profiles <br /> <br />|Create and deploy email settings to devices. This lets users access corporate email on their personal devices without any required setup on their part. <br /> <br />|[Configure access to corporate email using email profiles with Microsoft Intune](../Topic/Configure_access_to_corporate_email_using_email_profiles_with_Microsoft_Intune.md) <br /> <br />|
 |VPN profiles <br /> <br />|Deploy VPN settings to users and devices in your organization. By deploying these settings, you minimize the end-user effort required to connect to resources on the company network. <br /> <br />|[Help users connect to their work using VPN profiles with Microsoft Intune](../Topic/Help_users_connect_to_their_work_using_VPN_profiles_with_Microsoft_Intune.md) <br /> <br />|
-|Conditional access policies <br /> <br />|Manage access to Microsoft Exchange email and SharePoint Online from devices that are not managed by [!INC[wit_nextref](../Token/wit_nextref_md.md)]. <br /> <br />|[Manage access to email and SharePoint with Microsoft Intune](../Topic/Manage_access_to_email_and_SharePoint_with_Microsoft_Intune.md) <br /> <br />|
+|Conditional access policies <br /> <br />|Manage access to Microsoft Exchange email and SharePoint Online from devices that are not managed by [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)]. <br /> <br />|[Manage access to email and SharePoint with Microsoft Intune](../Topic/Manage_access_to_email_and_SharePoint_with_Microsoft_Intune.md) <br /> <br />|
 
 ## Inventory and reporting
 

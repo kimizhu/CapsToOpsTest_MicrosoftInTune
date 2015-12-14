@@ -12,7 +12,7 @@ ms.assetid: 59e512be-5950-4ce5-8c00-fc3631ba2a42
 robots: noindex,nofollow
 ---
 # Microsoft Intune policy settings reference
-Use the information in this section as a reference to help you understand the many settings and configurations you can create in [!INC[wit_firstref](../Token/wit_firstref_md.md)] configuration and custom policies.
+Use the information in this section as a reference to help you understand the many settings and configurations you can create in [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] configuration and custom policies.
 
 Configuration Policies
 

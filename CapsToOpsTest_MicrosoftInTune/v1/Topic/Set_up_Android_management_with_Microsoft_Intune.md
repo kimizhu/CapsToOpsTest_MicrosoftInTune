@@ -11,11 +11,11 @@ ms.topic: article
 ms.assetid: dbe5cad1-3e0d-41a9-966b-738156089700
 ---
 # Set up Android management with Microsoft Intune
-Android mobile devices allow users to enroll using the Company Portal app available from Google Play. To let users enroll their devices in [!INC[wit_nextref](../Token/wit_nextref_md.md)] complete the following.
+Android mobile devices allow users to enroll using the Company Portal app available from Google Play. To let users enroll their devices in [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] complete the following.
 
 ## Set up Android mobile devices with Microsoft Intune
 
-1. **Set up [!INC[wit_nextref](../Token/wit_nextref_md.md)]**
+1. **Set up [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)]**
    If you haven’t already, prepare for mobile device management by  [setting the mobile device management authority](https://technet.microsoft.com/library/mt346013.aspx) as **Microsoft Intune**.
 
 2. **Add Intune users**
@@ -53,7 +53,7 @@ Android mobile devices allow users to enroll using the Company Portal app availa
 
    - **Website name**
 
-7. [!INC[CPEnrollmentTermsAndConditions](../Token/CPEnrollmentTermsAndConditions_md.md)]
+7. [!INCLUDE[CPEnrollmentTermsAndConditions](../Token/CPEnrollmentTermsAndConditions_md.md)]
 
 8. **Tell users how to get access to company resources with the company portal**
    Your users will need to know how to enroll their devices and what to expect once they're brought into management. [What to tell your end users about using Microsoft Intune](../Topic/What_to_tell_your_end_users_about_using_Microsoft_Intune.md)

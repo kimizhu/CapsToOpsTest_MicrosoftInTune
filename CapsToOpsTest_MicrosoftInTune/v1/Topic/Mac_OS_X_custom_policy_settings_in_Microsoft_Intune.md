@@ -11,15 +11,15 @@ ms.topic: article
 ms.assetid: 70459e56-17d8-4d3f-803d-22feefa7a5b6
 ---
 # Mac OS X custom policy settings in Microsoft Intune
-Use the [!INC[wit_firstref](../Token/wit_firstref_md.md)]**Mac OS X custom configuration policy** to deploy settings that you created using the [Apple Configurator tool](https://itunes.apple.com/us/app/apple-configurator-2/id1037126344?mt=12) to Mac OS X devices. This tool lets you create many settings that control the operation of these devices and export them to a configuration profile. You can then import this configuration profile into a [!INC[wit_nextref](../Token/wit_nextref_md.md)] Mac OS X custom policy and deploy the settings to users and devices in your organization.
+Use the [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)]**Mac OS X custom configuration policy** to deploy settings that you created using the [Apple Configurator tool](https://itunes.apple.com/us/app/apple-configurator-2/id1037126344?mt=12) to Mac OS X devices. This tool lets you create many settings that control the operation of these devices and export them to a configuration profile. You can then import this configuration profile into a [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] Mac OS X custom policy and deploy the settings to users and devices in your organization.
 
-This capability is intended to allow you to deploy Mac OS X settings that are not configurable with the [!INC[wit_nextref](../Token/wit_nextref_md.md)] Mac OS X general configuration policy. For information about the settings you can configure with these policies, see [Mac OS X configuration policy settings in Microsoft Intune](../Topic/Mac_OS_X_configuration_policy_settings_in_Microsoft_Intune.md).
+This capability is intended to allow you to deploy Mac OS X settings that are not configurable with the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] Mac OS X general configuration policy. For information about the settings you can configure with these policies, see [Mac OS X configuration policy settings in Microsoft Intune](../Topic/Mac_OS_X_configuration_policy_settings_in_Microsoft_Intune.md).
 
 ## Prerequisites
 Before you start, you must have installed the Apple Configurator and created a configuration file containing the settings you want to deploy to users or devices. You can download and learn about the Apple Configurator from [the Mac App Store](https://itunes.apple.com/us/app/apple-configurator-2/id1037126344?mt=12)
 
 > [!NOTE]
-> [!INC[wit_nextref](../Token/wit_nextref_md.md)] does not report the compliance of individual settings in a Mac OS X custom policy. However, the overall compliance of the policy is reported.
+> [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] does not report the compliance of individual settings in a Mac OS X custom policy. However, the overall compliance of the policy is reported.
 
 ## How to create a Mac OS X custom policy
 
@@ -35,9 +35,9 @@ Before you start, you must have installed the Apple Configurator and created a c
 
    |Setting name <br /> <br />|More information <br /> <br />|
    |----------------|--------------------|
-   |**Name** <br /> <br />|Enter a unique name for the Mac OS X custom policy to help you identify it in the [!INC[wit_nextref](../Token/wit_nextref_md.md)] console. <br /> <br />|
+   |**Name** <br /> <br />|Enter a unique name for the Mac OS X custom policy to help you identify it in the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] console. <br /> <br />|
    |**Description** <br /> <br />|Provide a description that gives an overview of the Mac OS X custom policy and other relevant information that helps you to locate it. <br /> <br />|
-   |**Custom configuration profile name (displayed to users)** <br /> <br />|Provide a name for the policy as it will be displayed on the device, and in [!INC[wit_nextref](../Token/wit_nextref_md.md)] policy reports. <br /> <br />|
+   |**Custom configuration profile name (displayed to users)** <br /> <br />|Provide a name for the policy as it will be displayed on the device, and in [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] policy reports. <br /> <br />|
    |**Configuration profile file** <br /> <br />|Click **Import**, then browse to the configuration profile that you created using the Apple Configurator. **Tip:** See [How to create a configuration profile file](#BKMK_Prof) in this topic for help creating the configuration profile. <br />|
    |**Configuration profile details** <br /> <br />|Displays the xml code for the configuration profile that you imported. <br /> <br />|
 
@@ -61,7 +61,7 @@ For help deploying policies, see [Use policies to manage computers and mobile de
 A status summary and alerts on the **Overview** page of the **Policy** workspace identify issues with the policy that require your attention. Additionally, a status summary appears in the **Dashboard** workspace.
 
 > [!IMPORTANT]
-> When a Mac OS X device is in Sleep mode, policies and profiles cannot be delivered or inventoried. As a result, the [!INC[wit_nextref](../Token/wit_nextref_md.md)] console might temporarily display the status **Policy settings in error** until the next time the device wakes from Sleep mode.
+> When a Mac OS X device is in Sleep mode, policies and profiles cannot be delivered or inventoried. As a result, the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] console might temporarily display the status **Policy settings in error** until the next time the device wakes from Sleep mode.
 
 ## See Also
 [Use policies to manage computers and mobile devices with Microsoft Intune](../Topic/Use_policies_to_manage_computers_and_mobile_devices_with_Microsoft_Intune.md)

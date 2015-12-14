@@ -11,10 +11,10 @@ ms.topic: article
 ms.assetid: beee6933-876a-4be0-b395-4c24cfbd519b
 ---
 # Update apps using Microsoft Intune
-[!INC[wit_firstref](../Token/wit_firstref_md.md)] can help you manage app updates. Use the information in this topic to understand how you can update apps when a new version is required.
+[!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] can help you manage app updates. Use the information in this topic to understand how you can update apps when a new version is required.
 
 ## How to update apps
-When a new version of an app you have deployed is released, [!INC[wit_nextref](../Token/wit_nextref_md.md)] lets you update and deploy the newer version of the app. You can only replace a deployment with a newer version of the same app (using the same identifier). You cannot use app updates to update a deployment with a different app package.
+When a new version of an app you have deployed is released, [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] lets you update and deploy the newer version of the app. You can only replace a deployment with a newer version of the same app (using the same identifier). You cannot use app updates to update a deployment with a different app package.
 
 > [!IMPORTANT]
 > When you deploy an app with a deployment action of **Required install** and later change the deployment action to **Available install**, updates to the app are not automatically installed on devices that installed the app before the deployment change was made. To fix this issue, you can do the following:
