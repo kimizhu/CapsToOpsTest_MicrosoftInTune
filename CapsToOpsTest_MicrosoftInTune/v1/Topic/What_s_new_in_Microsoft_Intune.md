@@ -523,7 +523,7 @@ The following changes have been made to the company portal apps in this release:
 
 - Added support for Wi-Fi profiles with passkeys when Intune is used with Configuration Manager
 
-- Added Support for **Remote Lock** and **Passcode Reset** features when [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] is used with [!INCLUDE[cmshort](../Token/cmshort_md.md)]
+- Added Support for **Remote Lock** and **Passcode Reset** features when [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)]. is used with [!INCLUDE[cmshort](../Token/cmshort_md.md)].
 
 - Added a **Verbose Logging** setting to improve troubleshooting
 
