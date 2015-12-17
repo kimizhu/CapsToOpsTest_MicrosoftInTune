@@ -3,11 +3,11 @@ description: na
 keywords: na
 pagetitle: Third-Party Software Notices and Information
 search: na
-ms.author: dbdc710f437843008017318979c6adba
 ms.date: 5/11/2015 8:00:00 AM
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 517882a7-5281-40dc-9429-85ccb0fb4e19
+ms.author: dbdc710f437843008017318979c6adba
 ---
 # Third-Party Software Notices and Information
 Do Not Translate or Localize

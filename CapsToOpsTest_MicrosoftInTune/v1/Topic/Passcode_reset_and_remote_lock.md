@@ -3,11 +3,11 @@ description: na
 keywords: na
 pagetitle: Passcode reset and remote lock
 search: na
-ms.author: d4484712-0a03-4345-bdeb-64372a73012b
 ms.date: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 2c1e0dd3-23de-4182-9f68-007bc9e62363
+ms.author: d4484712-0a03-4345-bdeb-64372a73012b
 ---
 # Passcode reset and remote lock
 Insert introduction here.

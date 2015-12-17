@@ -3,12 +3,12 @@ description: na
 keywords: na
 pagetitle: Release notes for Microsoft Intune
 search: na
-ms.author: f224bb9b442140c797af0e59b80f0d33
 ms.date: 2015-11-17
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: db9479b2-582d-4a1a-9fbc-fbfc6c680e6f
+ms.author: f224bb9b442140c797af0e59b80f0d33
 ---
 # Release notes for Microsoft Intune
 [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] is an integrated, cloud-based client management solution that provides tools, reports, and upgrade licenses to the latest version of Windows, and helps keep your computers up-to-date and secure. In addition, [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] lets you manage mobile devices on the network either through Exchange ActiveSync or directly through [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)]. The following release notes describe important information and known issues in [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)].

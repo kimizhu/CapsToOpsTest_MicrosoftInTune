@@ -3,11 +3,11 @@ description: na
 keywords: na
 pagetitle: RASK core components
 search: na
-ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
 ms.date: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 1dcef89a-72d9-4634-8058-fd5d58a19ffd
+ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
 robots: noindex,nofollow
 ---
 # RASK core components

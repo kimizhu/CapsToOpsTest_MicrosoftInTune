@@ -3,12 +3,12 @@ description: na
 keywords: na
 pagetitle: Android custom policy settings in Microsoft Intune
 search: na
-ms.author: dbdc710f437843008017318979c6adba
 ms.date: 2015-10-08
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 15904440-5a05-47c9-818e-48073b4090e7
+ms.author: dbdc710f437843008017318979c6adba
 ---
 # Android custom policy settings in Microsoft Intune
 <?xml version="1.0" encoding="utf-8"?>

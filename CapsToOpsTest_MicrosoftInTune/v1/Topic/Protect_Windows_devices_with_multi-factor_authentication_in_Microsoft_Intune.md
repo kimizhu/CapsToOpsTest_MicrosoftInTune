@@ -3,13 +3,13 @@ description: na
 keywords: na
 pagetitle: Protect Windows devices with multi-factor authentication in Microsoft Intune
 search: na
-ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
 ms.date: 2015-08-01
 ms.prod: configuration-manager
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 9b4f197d-bc10-4bee-91c9-19bcc8287d36
+ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
 ---
 # Protect Windows devices with multi-factor authentication in Microsoft Intune
 [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] integrates multi-factor authentication (MFA) to allow you to better secure your corporate resources by requiring additional verification from users beyond their usernames and passwords (for example, using a phone call or text message). [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] supports the use of MFA during enrollment of Windows 8.1 or later, Windows Phone 8.1, or Windows 10 Mobile devices (and the MFA requirement can be assigned on a per-user or per-group basis on the ADFS server). If your organization has on-premises IT infrastructure that includes an Active Directory domain with Active Directory Federation Services (ADFS) configured, you can configure MFA on your federation server and then enable MFA for enrollment in [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)]. If you configure MFA on your federation server, but you don’t enable MFA for enrollment in [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)], users will need to use MFA each time that they access corporate resources.

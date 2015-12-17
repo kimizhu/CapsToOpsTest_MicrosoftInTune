@@ -3,11 +3,11 @@ description: na
 keywords: na
 pagetitle: Deleted topic
 search: na
-ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
 ms.date: 2015-10-16
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: a3e74325-f8bd-4b09-994d-21f6e5a9c676
+ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
 robots: noindex,nofollow
 ---
 # Deleted topic

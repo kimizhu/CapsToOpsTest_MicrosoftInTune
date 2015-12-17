@@ -3,12 +3,12 @@ description: na
 keywords: na
 pagetitle: Help users connect to company networks using Wi-Fi profiles with Microsoft Intune
 search: na
-ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
 ms.date: 2015-11-17
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 0b1b86ed-2e80-474d-8437-17dd4bc07b55
+ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
 ---
 # Help users connect to company networks using Wi-Fi profiles with Microsoft Intune
 Use [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] Wi-Fi profiles to deploy wireless network settings to users and devices in your organization. These settings simplify connecting to wireless networks for end-users.

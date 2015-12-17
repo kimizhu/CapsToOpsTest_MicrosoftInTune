@@ -3,11 +3,11 @@ description: na
 keywords: na
 pagetitle: Microsoft Intune Company Portal for Windows Store Application License Terms
 search: na
-ms.author: f224bb9b442140c797af0e59b80f0d33
 ms.date: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 94ae5ce0-55fd-494b-bc7d-5153f47711fb
+ms.author: f224bb9b442140c797af0e59b80f0d33
 ---
 # Microsoft Intune Company Portal for Windows Store Application License Terms
 

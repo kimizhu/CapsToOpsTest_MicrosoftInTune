@@ -3,12 +3,12 @@ description: na
 keywords: na
 pagetitle: Help for Managed Apps
 search: na
-ms.author: 2acc2e0c-a3ea-42a3-8a95-f1f50c2bbe2f
 ms.date: 4/30/2015 8:00:00 AM
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 48e0ce4a-d630-4349-bdbb-7b90e69ea5fd
+ms.author: 2acc2e0c-a3ea-42a3-8a95-f1f50c2bbe2f
 ---
 # Help for Managed Apps
 

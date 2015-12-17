@@ -3,11 +3,11 @@ description: na
 keywords: na
 pagetitle: Troubleshoot policies in Microsoft Intune
 search: na
-ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
 ms.date: 2015-10-15
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 99fb6db6-21c5-46cd-980d-50f063ab8ab8
+ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
 ---
 # Troubleshoot policies in Microsoft Intune
 

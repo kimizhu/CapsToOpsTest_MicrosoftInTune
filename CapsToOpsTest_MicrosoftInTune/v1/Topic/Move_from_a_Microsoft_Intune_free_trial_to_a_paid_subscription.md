@@ -3,11 +3,11 @@ description: na
 keywords: na
 pagetitle: Move from a Microsoft Intune free trial to a paid subscription
 search: na
-ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
 ms.date: 4/24/2015 8:00:00 AM
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 05a1c558-1332-4489-9afe-ecb1060df0cb
+ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
 robots: noindex,nofollow
 ---
 # Move from a Microsoft Intune free trial to a paid subscription

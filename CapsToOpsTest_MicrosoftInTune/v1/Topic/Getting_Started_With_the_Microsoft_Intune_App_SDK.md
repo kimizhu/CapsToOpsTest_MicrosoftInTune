@@ -3,11 +3,11 @@ description: na
 keywords: na
 pagetitle: Getting Started With the Microsoft Intune App SDK
 search: na
-ms.author: f459630d47d34d12a44295cd5237dc68
 ms.date: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 38ebd3f5-cfcc-4204-8a75-6e2f162cd7c1
+ms.author: f459630d47d34d12a44295cd5237dc68
 ---
 # Getting Started With the Microsoft Intune App SDK
 This Getting Started guide will help you quickly enable your mobile app for Mobile Application Management with Microsoft Intune. You may find it useful to first understand the benefits of the Intune App SDK as enumerated in the [Overview](Overview_of_the_Microsoft_Intune_App_SDK.md).

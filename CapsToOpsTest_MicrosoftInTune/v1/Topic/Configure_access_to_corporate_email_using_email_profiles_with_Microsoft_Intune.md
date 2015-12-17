@@ -3,12 +3,12 @@ description: na
 keywords: na
 pagetitle: Configure access to corporate email using email profiles with Microsoft Intune
 search: na
-ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
 ms.date: 2015-11-17
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 10f0cd61-e514-4e44-b13e-aeb85a8e53ae
+ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
 ---
 # Configure access to corporate email using email profiles with Microsoft Intune
 Email profiles in [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] help you create, deploy and monitor Exchange ActiveSync email settings on devices. This lets user’s access corporate email on their personal devices without any required setup on their part.

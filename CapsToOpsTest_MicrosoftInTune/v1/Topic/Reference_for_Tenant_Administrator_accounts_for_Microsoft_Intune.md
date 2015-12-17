@@ -3,12 +3,12 @@ description: na
 keywords: na
 pagetitle: Reference for Tenant Administrator accounts for Microsoft Intune
 search: na
-ms.author: 2acc2e0c-a3ea-42a3-8a95-f1f50c2bbe2f
 ms.date: 2015-08-01
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: e4eff7b9-4dcd-4959-b1d6-97dc4640dbe2
+ms.author: 2acc2e0c-a3ea-42a3-8a95-f1f50c2bbe2f
 ---
 # Reference for Tenant Administrator accounts for Microsoft Intune
 Each tenant administrator is assigned one of the following roles:

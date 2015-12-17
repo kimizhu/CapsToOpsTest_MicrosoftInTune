@@ -3,12 +3,12 @@ description: na
 keywords: na
 pagetitle: Help with iOS enrollment errors
 search: na
-ms.author: 79a318a2-4407-40ec-b4b0-435e7bd1296a
 ms.date: 4/30/2015 8:00:00 AM
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: c91075e8-e184-49a9-bedf-4a213872613f
+ms.author: 79a318a2-4407-40ec-b4b0-435e7bd1296a
 ---
 # Help with iOS enrollment errors
 This topic helps you to work around iOS enrollment errors.

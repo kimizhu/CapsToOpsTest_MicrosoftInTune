@@ -3,12 +3,12 @@ description: na
 keywords: na
 pagetitle: Microsoft Azure Authenticator app deployment
 search: na
-ms.author: dbdc710f437843008017318979c6adba
 ms.date: 2015-08-03
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: db9a294a-8409-450b-9b83-808a43a64788
+ms.author: dbdc710f437843008017318979c6adba
 robots: noindex,nofollow
 ---
 # Microsoft Azure Authenticator app deployment

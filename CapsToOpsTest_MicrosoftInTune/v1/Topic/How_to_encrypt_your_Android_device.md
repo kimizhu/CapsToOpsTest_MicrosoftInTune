@@ -3,12 +3,12 @@ description: na
 keywords: na
 pagetitle: How to encrypt your Android device
 search: na
-ms.author: f224bb9b442140c797af0e59b80f0d33
 ms.date: 4/30/2015 8:00:00 AM
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: d8057bc1-4ef6-4350-bc2f-02787b89377a
+ms.author: f224bb9b442140c797af0e59b80f0d33
 ---
 # How to encrypt your Android device
 To reconnect to your work, you’ll need to encrypt your device by following these instructions:

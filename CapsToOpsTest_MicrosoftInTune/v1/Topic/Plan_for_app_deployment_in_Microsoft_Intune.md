@@ -3,12 +3,12 @@ description: na
 keywords: na
 pagetitle: Plan for app deployment in Microsoft Intune
 search: na
-ms.author: dbdc710f437843008017318979c6adba
 ms.date: 2015-11-17
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 2b770f4f-6d36-41e4-b535-514b46e29aaa
+ms.author: dbdc710f437843008017318979c6adba
 ---
 # Plan for app deployment in Microsoft Intune
 Before you start deploying [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] apps, take some time to familiarize yourself with the concepts introduced in this topic. This will give you an overview of the deployment process, and act as a reference to which device types and app types are supported.

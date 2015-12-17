@@ -3,12 +3,12 @@ description: na
 keywords: na
 pagetitle: What Happens if You Remove a Personal Device Using the Company Portal
 search: na
-ms.author: f224bb9b442140c797af0e59b80f0d33
 ms.date: 2015-09-12
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: a3ab3bcc-ac45-4df3-88cc-5eb2ba5c3aed
+ms.author: f224bb9b442140c797af0e59b80f0d33
 ---
 # What Happens if You Remove a Personal Device Using the Company Portal
 <?xml version="1.0" encoding="utf-8"?>

@@ -3,11 +3,11 @@ description: na
 keywords: na
 pagetitle: Introduction to Microsoft Intune &lt;test&gt;
 search: na
-ms.author: 46e42689-2c99-4b8e-ac9f-681223f0298f
 ms.date: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 5e2d548b-3858-453b-a31b-3e570d7b6fc8
+ms.author: 46e42689-2c99-4b8e-ac9f-681223f0298f
 robots: noindex,nofollow
 ---
 # Introduction to Microsoft Intune &lt;test&gt;

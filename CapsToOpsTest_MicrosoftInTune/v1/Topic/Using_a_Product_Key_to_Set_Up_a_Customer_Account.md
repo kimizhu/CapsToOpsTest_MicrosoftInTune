@@ -3,12 +3,12 @@ description: na
 keywords: na
 pagetitle: Using a Product Key to Set Up a Customer Account
 search: na
-ms.author: dbdc710f437843008017318979c6adba
 ms.date: na
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: c7113c41-f32d-4bfc-b061-520461e18f8a
+ms.author: dbdc710f437843008017318979c6adba
 ---
 # Using a Product Key to Set Up a Customer Account
 

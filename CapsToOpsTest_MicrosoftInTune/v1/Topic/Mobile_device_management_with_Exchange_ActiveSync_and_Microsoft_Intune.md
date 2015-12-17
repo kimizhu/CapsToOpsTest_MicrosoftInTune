@@ -3,12 +3,12 @@ description: na
 keywords: na
 pagetitle: Mobile device management with Exchange ActiveSync and Microsoft Intune
 search: na
-ms.author: f93f38ed286b4cbb94b9b427a0abc63e
 ms.date: 2015-10-22
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: eb9618d2-dc90-48be-b921-8044b7e693ac
+ms.author: f93f38ed286b4cbb94b9b427a0abc63e
 ---
 # Mobile device management with Exchange ActiveSync and Microsoft Intune
 For [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] to directly manage mobile devices, users need to enroll devices into [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)]. For mobile devices that users have not enrolled you can enable Exchange ActiveSync management using the Exchange connector. Exchange devices can be managed in both on premises servers and for hosted Exchange on Microsoft Office 365 in the cloud. The Exchange connector connects you with your Exchange deployment and lets you manage mobile devices through the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] console, where you have the following capabilities:

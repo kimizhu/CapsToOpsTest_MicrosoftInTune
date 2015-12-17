@@ -3,12 +3,12 @@ description: na
 keywords: na
 pagetitle: Understand Microsoft Intune operations by using reports
 search: na
-ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
 ms.date: 2015-11-17
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 857309c2-61c9-4c22-becf-4839fedeaece
+ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
 ---
 # Understand Microsoft Intune operations by using reports
 Use the information in this topic to help you create and manage [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] reports that provide information about software, hardware, and software licenses in your organization.

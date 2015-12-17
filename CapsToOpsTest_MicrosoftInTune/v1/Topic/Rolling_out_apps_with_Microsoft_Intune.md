@@ -3,11 +3,11 @@ description: na
 keywords: na
 pagetitle: Rolling out apps with Microsoft Intune
 search: na
-ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
 ms.date: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 0521099d-1c23-47bf-b937-751baca78862
+ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
 ---
 # Rolling out apps with Microsoft Intune
 This topic provide specific recommendations for a phased rollout of apps in [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)]. For general information about rollout phases, see [Rollout phases for Microsoft Intune deployment](../Topic/Rollout_phases_for_Microsoft_Intune_deployment.md).

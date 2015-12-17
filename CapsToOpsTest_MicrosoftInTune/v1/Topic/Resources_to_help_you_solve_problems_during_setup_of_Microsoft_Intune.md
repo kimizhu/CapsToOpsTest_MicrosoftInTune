@@ -3,11 +3,11 @@ description: na
 keywords: na
 pagetitle: Resources to help you solve problems during setup of Microsoft Intune
 search: na
-ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
 ms.date: 5/18/2015 8:00:00 AM
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 6865f1fb-c2c1-47af-83f5-5704e7210a49
+ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
 robots: noindex,nofollow
 ---
 # Resources to help you solve problems during setup of Microsoft Intune

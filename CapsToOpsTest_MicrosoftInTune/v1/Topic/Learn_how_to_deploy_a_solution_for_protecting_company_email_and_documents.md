@@ -3,12 +3,12 @@ description: na
 keywords: na
 pagetitle: Learn how to deploy a solution for protecting company email and documents
 search: na
-ms.author: 70da87b7-2f4c-4e11-98d3-a3b38e8154d2
 ms.date: na
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 2e10af43-3138-45c0-b2f7-14a1d2bfb237
+ms.author: 70da87b7-2f4c-4e11-98d3-a3b38e8154d2
 ---
 # Learn how to deploy a solution for protecting company email and documents
 More and more, companies are allowing employees to increase their productivity by accessing email, documents, and company resources through their mobile devices. However, the amount of confidential data that is stored within corporate emails and documents presents a significant security risk for companies.

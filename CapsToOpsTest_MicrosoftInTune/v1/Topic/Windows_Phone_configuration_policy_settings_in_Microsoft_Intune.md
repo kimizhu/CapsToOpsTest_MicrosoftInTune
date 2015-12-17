@@ -3,12 +3,12 @@ description: na
 keywords: na
 pagetitle: Windows Phone configuration policy settings in Microsoft Intune
 search: na
-ms.author: dbdc710f437843008017318979c6adba
 ms.date: 2015-10-08
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 83f7469c-272e-43f2-8139-b0d7bc34f43f
+ms.author: dbdc710f437843008017318979c6adba
 ---
 # Windows Phone configuration policy settings in Microsoft Intune
 Use the [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)]**Windows Phone general configuration policy** to configure the following settings for Windows Phone 8.1 devices:

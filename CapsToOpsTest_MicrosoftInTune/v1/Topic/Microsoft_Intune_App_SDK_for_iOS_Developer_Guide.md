@@ -3,11 +3,11 @@ description: na
 keywords: na
 pagetitle: Microsoft Intune App SDK for iOS Developer Guide
 search: na
-ms.author: f459630d47d34d12a44295cd5237dc68
 ms.date: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 8e280d23-2a25-4a84-9bcb-210b30c63c0b
+ms.author: f459630d47d34d12a44295cd5237dc68
 ---
 # Microsoft Intune App SDK for iOS Developer Guide
 ***Note**:  You may wish to first read the __remove by Jason Zhu__, which explains how to prepare for integration on each supported platform.* 

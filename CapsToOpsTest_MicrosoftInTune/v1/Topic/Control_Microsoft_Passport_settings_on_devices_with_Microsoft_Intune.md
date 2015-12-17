@@ -3,12 +3,12 @@ description: na
 keywords: na
 pagetitle: Control Microsoft Passport settings on devices with Microsoft Intune
 search: na
-ms.author: dbdc710f437843008017318979c6adba
 ms.date: 2015-11-23
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 402bc5a1-ada3-4c4c-a0de-292d026b4444
+ms.author: dbdc710f437843008017318979c6adba
 ---
 # Control Microsoft Passport settings on devices with Microsoft Intune
 [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] lets you integrate with Microsoft Passport for Work which is an alternative sign-in method that uses Active Directory, or an Azure Active Directory account to replace a password, smart card, or virtual smart card.

@@ -3,12 +3,12 @@ description: na
 keywords: na
 pagetitle: Mobile device management capabilities in Microsoft Intune
 search: na
-ms.author: f93f38ed286b4cbb94b9b427a0abc63e
 ms.date: 2015-11-18
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: f23b3ee7-78da-4e53-9fc2-78e58401bcf9
+ms.author: f93f38ed286b4cbb94b9b427a0abc63e
 ---
 # Mobile device management capabilities in Microsoft Intune
 Intune supports mobile device management of iOS, Android, and Windows Phone devices. It also supports management of Windows RT, Window computers, and Mac OS X computers as mobile devices. Users use a *company portal* to install apps, enroll and remove devices, and helps them contact their IT department or helpdesk. To enroll mobile devices you must set [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] as your *mobile device authority* and then configure the infrastructure to support the platforms you want to managed. This requires establishing a trust relationship with the device.
