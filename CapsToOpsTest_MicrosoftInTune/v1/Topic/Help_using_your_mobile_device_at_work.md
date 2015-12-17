@@ -3,12 +3,12 @@ description: na
 keywords: na
 pagetitle: Help using your mobile device at work
 search: na
-ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
 ms.date: 4/20/2015 8:00:00 AM
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: d5c9c7cf-0130-4df4-81d6-aec90952ce36
+ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
 ---
 # Help using your mobile device at work
 These help topics will help you use your device in your corporate environment, or remove your device if you’d like to.

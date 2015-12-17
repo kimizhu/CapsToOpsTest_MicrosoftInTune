@@ -3,12 +3,12 @@ description: na
 keywords: na
 pagetitle: Windows configuration policy settings in Microsoft Intune
 search: na
-ms.author: dbdc710f437843008017318979c6adba
 ms.date: 2015-10-08
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 6982a2bc-aafa-475a-9236-4840b709e5a1
+ms.author: dbdc710f437843008017318979c6adba
 ---
 # Windows configuration policy settings in Microsoft Intune
 <?xml version="1.0" encoding="utf-8"?>

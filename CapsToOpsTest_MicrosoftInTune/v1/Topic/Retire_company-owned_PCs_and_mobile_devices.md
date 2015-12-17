@@ -3,12 +3,12 @@ description: na
 keywords: na
 pagetitle: Retire company-owned PCs and mobile devices
 search: na
-ms.author: d4484712-0a03-4345-bdeb-64372a73012b
 ms.date: na
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 0348ddd4-4401-4a3b-9849-839296567d72
+ms.author: d4484712-0a03-4345-bdeb-64372a73012b
 robots: noindex,nofollow
 ---
 # Retire company-owned PCs and mobile devices

@@ -3,12 +3,12 @@ description: na
 keywords: na
 pagetitle: Documentation for Microsoft Intune
 search: na
-ms.author: d4484712-0a03-4345-bdeb-64372a73012b
 ms.date: 2015-11-20
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 23f29e82-d6c5-409b-bff8-58ff02540117
+ms.author: d4484712-0a03-4345-bdeb-64372a73012b
 ---
 # Documentation for Microsoft Intune
 ![](../Image/WIT_MDM_Banner.png)

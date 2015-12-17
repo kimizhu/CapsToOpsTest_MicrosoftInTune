@@ -3,12 +3,12 @@ description: na
 keywords: na
 pagetitle: Help protect your data with remote wipe, remote lock, or passcode reset using Microsoft Intune
 search: na
-ms.author: d4484712-0a03-4345-bdeb-64372a73012b
 ms.date: 2015-11-18
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 8519e411-3d48-44eb-9b41-3e4fd6a93112
+ms.author: d4484712-0a03-4345-bdeb-64372a73012b
 ---
 # Help protect your data with remote wipe, remote lock, or passcode reset using Microsoft Intune
 <?xml version="1.0" encoding="utf-8"?>

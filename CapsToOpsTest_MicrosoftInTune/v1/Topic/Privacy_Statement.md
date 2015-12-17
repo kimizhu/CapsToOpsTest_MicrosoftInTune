@@ -3,12 +3,12 @@ description: na
 keywords: na
 pagetitle: Privacy Statement
 search: na
-ms.author: 79a318a2-4407-40ec-b4b0-435e7bd1296a
 ms.date: 4/30/2015 8:00:00 AM
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 8dfc4da2-0be5-4f8f-814f-a68d21c27ab8
+ms.author: 79a318a2-4407-40ec-b4b0-435e7bd1296a
 ---
 # Privacy Statement
 This privacy statement governs installation and log-in to the Company Portal app.  The Company Portal app is intended for use only by end users of companies with valid subscriptions to the [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] service.  This privacy statement does not apply to use of the Company Portal app once installation and log-in has been completed.  End Users should consult their IT Administrators for further information about their company’s privacy policies with respect to use of the Company Portal app.

@@ -3,12 +3,12 @@ description: na
 keywords: na
 pagetitle: Real-world solutions to help you manage mobile devices
 search: na
-ms.author: d4484712-0a03-4345-bdeb-64372a73012b
 ms.date: 2015-08-01
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 2aea9452-dca8-465f-9092-a257b4233c74
+ms.author: d4484712-0a03-4345-bdeb-64372a73012b
 robots: noindex,nofollow
 ---
 # Real-world solutions to help you manage mobile devices

@@ -3,11 +3,11 @@ description: na
 keywords: na
 pagetitle: Microsoft Intune App SDK for Android Developer Guide
 search: na
-ms.author: f459630d47d34d12a44295cd5237dc68
 ms.date: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 0100e1b5-5edd-4541-95f1-aec301fb96af
+ms.author: f459630d47d34d12a44295cd5237dc68
 ---
 # Microsoft Intune App SDK for Android Developer Guide
 ***Note**:  You may wish to first read the __remove by Jason Zhu__, which explains how to prepare for integration on each supported platform.* 

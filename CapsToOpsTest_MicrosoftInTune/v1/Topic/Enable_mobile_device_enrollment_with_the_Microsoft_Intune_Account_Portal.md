@@ -3,11 +3,11 @@ description: na
 keywords: na
 pagetitle: Enable mobile device enrollment with the Microsoft Intune Account Portal
 search: na
-ms.author: f93f38ed286b4cbb94b9b427a0abc63e
 ms.date: 2015-07-28
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 3adf63cd-34b6-4641-aa88-766bb59dd853
+ms.author: f93f38ed286b4cbb94b9b427a0abc63e
 robots: noindex,nofollow
 ---
 # Enable mobile device enrollment with the Microsoft Intune Account Portal

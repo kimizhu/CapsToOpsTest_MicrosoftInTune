@@ -3,12 +3,12 @@ description: na
 keywords: na
 pagetitle: Enable access to company resources using certificate profiles with Microsoft Intune
 search: na
-ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
 ms.date: 2015-08-18
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 8cbb8499-611d-4217-a7b4-e9b864785dd0
+ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
 ---
 # Enable access to company resources using certificate profiles with Microsoft Intune
 Certificate profiles are [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] policies that configure managed devices with the certificates they need so device users can connect to your on-premises company resources using connections like Wi-Fi or VPN. When you deploy certificate profiles, you provision devices with a trusted root certificate for your PKI, and configure them to request device specific certificates.

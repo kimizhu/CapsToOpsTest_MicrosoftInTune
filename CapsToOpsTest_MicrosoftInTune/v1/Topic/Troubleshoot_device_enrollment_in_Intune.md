@@ -3,11 +3,11 @@ description: na
 keywords: na
 pagetitle: Troubleshoot device enrollment in Intune
 search: na
-ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
 ms.date: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 6982ba0e-90ff-4fc4-9594-55797e504b62
+ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
 ---
 # Troubleshoot device enrollment in Intune
 

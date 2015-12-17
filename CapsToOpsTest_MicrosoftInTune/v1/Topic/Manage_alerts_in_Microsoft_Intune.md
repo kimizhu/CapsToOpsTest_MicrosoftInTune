@@ -3,12 +3,12 @@ description: na
 keywords: na
 pagetitle: Manage alerts in Microsoft Intune
 search: na
-ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
 ms.date: 2015-08-01
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 74dc4ce4-21da-4f40-a07f-3eea34561eee
+ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
 robots: noindex,nofollow
 ---
 # Manage alerts in Microsoft Intune

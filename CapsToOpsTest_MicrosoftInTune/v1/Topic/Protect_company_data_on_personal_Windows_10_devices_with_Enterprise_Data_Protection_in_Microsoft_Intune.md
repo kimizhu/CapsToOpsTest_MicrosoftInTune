@@ -3,11 +3,11 @@ description: na
 keywords: na
 pagetitle: Protect company data on personal Windows 10 devices with Enterprise Data Protection in Microsoft Intune
 search: na
-ms.author: dbdc710f437843008017318979c6adba
 ms.date: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: b97a185c-5772-4b1a-8cfd-ee4775033d76
+ms.author: dbdc710f437843008017318979c6adba
 ---
 # Protect company data on personal Windows 10 devices with Enterprise Data Protection in Microsoft Intune
 With the increase of employee-owned devices in the enterprise, there’s also an increasing risk of accidental data disclosure through apps and services that are outside of the enterprise’s control like email, social media, and the public cloud.

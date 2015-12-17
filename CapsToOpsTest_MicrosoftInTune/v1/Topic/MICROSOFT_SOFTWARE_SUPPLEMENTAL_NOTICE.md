@@ -3,12 +3,12 @@ description: na
 keywords: na
 pagetitle: MICROSOFT SOFTWARE SUPPLEMENTAL NOTICE
 search: na
-ms.author: dbdc710f437843008017318979c6adba
 ms.date: 4/30/2015 8:00:00 AM
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 02b71ab4-8279-474a-af59-839f4e48e0e0
+ms.author: dbdc710f437843008017318979c6adba
 ---
 # MICROSOFT SOFTWARE SUPPLEMENTAL NOTICE
 

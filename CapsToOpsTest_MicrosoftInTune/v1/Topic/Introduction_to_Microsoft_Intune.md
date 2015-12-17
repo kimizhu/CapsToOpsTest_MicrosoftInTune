@@ -3,12 +3,12 @@ description: na
 keywords: na
 pagetitle: Introduction to Microsoft Intune
 search: na
-ms.author: d4484712-0a03-4345-bdeb-64372a73012b
 ms.date: 2015-11-20
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 3b4e778d-ac13-4c23-974f-5122f74626bc
+ms.author: d4484712-0a03-4345-bdeb-64372a73012b
 robots: noindex,nofollow
 ---
 # Introduction to Microsoft Intune

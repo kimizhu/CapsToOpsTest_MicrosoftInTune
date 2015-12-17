@@ -3,12 +3,12 @@ description: na
 keywords: na
 pagetitle: Exchange ActiveSync policy settings in Microsoft Intune
 search: na
-ms.author: dbdc710f437843008017318979c6adba
 ms.date: 2015-10-08
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: e9cbb826-b155-4df6-abf3-60c6f05b2783
+ms.author: dbdc710f437843008017318979c6adba
 ---
 # Exchange ActiveSync policy settings in Microsoft Intune
 <?xml version="1.0" encoding="utf-8"?>

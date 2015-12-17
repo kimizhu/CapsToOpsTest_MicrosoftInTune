@@ -3,12 +3,12 @@ description: na
 keywords: na
 pagetitle: Use policies to manage computers and mobile devices with Microsoft Intune
 search: na
-ms.author: dbdc710f437843008017318979c6adba
 ms.date: 2015-11-17
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: efb4dcd6-56ea-44a8-8fe2-6f1542fc75ec
+ms.author: dbdc710f437843008017318979c6adba
 ---
 # Use policies to manage computers and mobile devices with Microsoft Intune
 [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)]**Policies** are groups of settings that control features on mobile devices and computers. You create policies using templates that contain recommended or customized settings, and then deploy them to device or user groups.

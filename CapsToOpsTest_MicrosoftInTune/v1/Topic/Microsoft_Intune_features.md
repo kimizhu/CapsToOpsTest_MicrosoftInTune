@@ -3,11 +3,11 @@ description: na
 keywords: na
 pagetitle: Microsoft Intune features
 search: na
-ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
 ms.date: 4/24/2015 8:00:00 AM
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 118a36f6-02c6-4e99-9c72-0b9daddc3b03
+ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
 robots: noindex,nofollow
 ---
 # Microsoft Intune features

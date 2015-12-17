@@ -3,12 +3,12 @@ description: na
 keywords: na
 pagetitle: Set up Windows Phone management with Microsoft Intune
 search: na
-ms.author: f93f38ed286b4cbb94b9b427a0abc63e
 ms.date: 2015-11-17
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 61e9b6c3-8795-49b0-8ab2-a9a05ee3ea1f
+ms.author: f93f38ed286b4cbb94b9b427a0abc63e
 ---
 # Set up Windows Phone management with Microsoft Intune
 Before you can manage Windows Phone mobile devices with [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)], you have to set up management requirements. Creating a DNS CNAME helps users connect to the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] company portal. Windows Phone 8.0 requires a Symantec certificate to establish an encrypted IP connection between devices and [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)]. Depending upon how users access the company portal, Windows Phone 8.1 might also. A certificate is also required to sign line-of-business apps.

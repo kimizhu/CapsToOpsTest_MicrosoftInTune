@@ -3,12 +3,12 @@ description: na
 keywords: na
 pagetitle: Microsoft Intune policy settings reference
 search: na
-ms.author: dbdc710f437843008017318979c6adba
 ms.date: 2015-09-01
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 59e512be-5950-4ce5-8c00-fc3631ba2a42
+ms.author: dbdc710f437843008017318979c6adba
 robots: noindex,nofollow
 ---
 # Microsoft Intune policy settings reference

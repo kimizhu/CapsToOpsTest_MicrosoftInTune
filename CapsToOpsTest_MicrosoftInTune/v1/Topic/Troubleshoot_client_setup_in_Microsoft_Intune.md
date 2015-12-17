@@ -3,11 +3,11 @@ description: na
 keywords: na
 pagetitle: Troubleshoot client setup in Microsoft Intune
 search: na
-ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
 ms.date: 2015-10-15
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: e46d292b-1d16-46db-a87f-d53eefa4d22a
+ms.author: 03258b9b-2cea-4654-ab05-a27214174f4b
 ---
 # Troubleshoot client setup in Microsoft Intune
 

@@ -3,12 +3,12 @@ description: na
 keywords: na
 pagetitle: Microsoft Intune Documentation Library Site Map
 search: na
-ms.author: 2acc2e0c-a3ea-42a3-8a95-f1f50c2bbe2f
 ms.date: 5/20/2015 8:00:00 AM
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 60f790a5-a370-4b9a-8fd2-bd17068fadc7
+ms.author: 2acc2e0c-a3ea-42a3-8a95-f1f50c2bbe2f
 ---
 # Microsoft Intune Documentation Library Site Map
 You can use this site map to help you to navigate the Microsoft Intune documentation library and other Intune documentation provided on TechNet.

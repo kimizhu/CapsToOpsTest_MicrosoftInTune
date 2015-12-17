@@ -3,11 +3,11 @@ description: na
 keywords: na
 pagetitle: Documentation for Microsoft Intune &lt;test 1&gt;
 search: na
-ms.author: 46e42689-2c99-4b8e-ac9f-681223f0298f
 ms.date: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: be517147-5756-45ce-927f-3da011dad12b
+ms.author: 46e42689-2c99-4b8e-ac9f-681223f0298f
 robots: noindex,nofollow
 ---
 # Documentation for Microsoft Intune &lt;test 1&gt;

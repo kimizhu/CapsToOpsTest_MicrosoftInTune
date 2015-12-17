@@ -3,12 +3,12 @@ description: na
 keywords: na
 pagetitle: Microsoft apps you can use with Microsoft Intune mobile application management policies
 search: na
-ms.author: dbdc710f437843008017318979c6adba
 ms.date: 2015-11-18
 ms.service: microsoft-intune
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 49023822-0aa7-4508-8119-3be8976d21d1
+ms.author: dbdc710f437843008017318979c6adba
 ---
 # Microsoft apps you can use with Microsoft Intune mobile application management policies
 <?xml version="1.0" encoding="utf-8"?>
