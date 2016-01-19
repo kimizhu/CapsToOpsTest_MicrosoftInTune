@@ -13,21 +13,27 @@
     "resource": [
       {
         "files": [
-          "**/*.png",
-          "**/*.jpg",
-          "**/*.gif",
-          "**/*.bmp",
           "**/*.PNG",
           "**/*.JPG",
           "**/*.GIF",
-          "**/*.BMP"
+          "**/*.BMP",
+          "**/*_themes/**"
         ],
         "exclude": [
           "**/obj/**"
         ]
       }
     ],
-    "template": "op.html",
-    "dest": "CapsToOpsTest_MicrosoftInTune/v1"
-  }
+    "dest": "_site",
+    "template": "docs.html",
+    "globalMetadata": {
+      "layout": "Conceptual",
+      "breadcrumb_path": "/CapsToOpsTest_EMS/v1/toc.json"
+    }
+  },
+  "render": {
+    "theme": "hyde",
+    "dest": "_output"
+  },
+  "basepath": "/Intune"
 }
