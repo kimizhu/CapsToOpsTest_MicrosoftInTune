@@ -19,7 +19,7 @@ Once you’ve enabled your app, IT administrators can deploy policies to Intune 
 IT administrators can control file relocation of corporate documents in Intune managed apps. For instance, they can deploy a policy that disables file backup apps from backing up corporate data to the cloud.  
 
 ## Configure clipboard restrictions
-IT administrators can configure the clipboard behavior in Intune managed apps. For instance, they can deploy a policy so that end users are unable to use the clipboard to cut/copy from an Intune-managed app and paste into a non-managed app.
+IT administrators can configure the clipboard behaviour in Intune managed apps. For instance, they can deploy a policy so that end users are unable to use the clipboard to cut/copy from an Intune-managed app and paste into a non-managed app.
 
 ## Configure screen capture restrictions
 IT administrators can prevent users from capturing the screen if an Intune-managed app is displayed. Applying this restriction prevents the capture and release of confidential corporate content. This feature is only available for android devices. 
